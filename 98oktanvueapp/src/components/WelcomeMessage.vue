@@ -3,12 +3,13 @@
     <v-row>
       <v-col cols="12" sm="6">
         <v-card>
-          <v-card-title class="headline">Tanka 98 oktan</v-card-title>
+          <v-card-title class="headline">Välkommen till 98oktan </v-card-title>
           <v-card-text>
-            Du är inte ensam, alla har problem att ta reda på vilka stationer
-            som har 98 Oktan bensin. Men nu behöver du inte lida längre, här
-            finns all info du behöver veta om var man kan tanka 98 oktan bensin
-            och varför du ska göra det på den fantastiskt gamla bil.
+            Denna sidas mål är att erbjuda en söktjänst med alla bensinstationer
+            i Sverige som säljer 98 oktan, <br /><br />Sidan är under uppbyggnad
+            och mer information kommer att komma 2022-09-05 <br />
+            För mer information kontakta oss på info@98oktan.se
+            <br /><br />/ vi är tacksamma för ert tålamod
           </v-card-text>
         </v-card>
       </v-col>
@@ -16,7 +17,9 @@
       <v-col cols="12" sm="6">
         <v-card color="yellow">
           <v-card-title>Annons</v-card-title>
-          <v-card-text> Det här är en annons </v-card-text>
+          <v-card-text>
+            Det här är en annons som inte genererar några intäkter alls :(
+          </v-card-text>
         </v-card>
       </v-col>
     </v-row>
