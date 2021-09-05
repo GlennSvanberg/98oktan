@@ -17,7 +17,7 @@
       <v-spacer></v-spacer>
     </v-app-bar>
 
-    <v-main class="primary lighten-1">
+    <v-main class="primary lighten-3">
       <WelcomeMessage />
       <StationList />
     </v-main>

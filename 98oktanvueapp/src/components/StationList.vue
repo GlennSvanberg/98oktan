@@ -15,6 +15,7 @@
       <v-data-table
         :headers="headers"
         :items="stations"
+        :items-per-page="25"
         :search="search"
         mobile-breakpoint="5"
         light
@@ -23,6 +24,7 @@
   </v-container>
 </template>
 <script>
+import stationFile from "./../assets/stations.json";
 export default {
   data() {
     return {
@@ -32,38 +34,13 @@ export default {
           text: "Namn",
           align: "start",
           sortable: true,
-          value: "name",
+          value: "Station",
         },
-        { text: "Avstånd (km)", value: "distance" },
-        { text: "Adress", value: "adress" },
-        { text: "98 Oktan", value: "oktan" },
+        { text: "Avstånd (km)", value: "City" },
+        { text: "Adress", value: "Adress" },
+        { text: "98 Oktan", value: "Oktan" },
       ],
-      stations: [
-        {
-          name: "St1",
-          distance: 159,
-          adress: "Södra vägen 14 Uddevalla",
-          oktan: "Ja",
-        },
-        {
-          name: "OKQ8",
-          distance: 256,
-          adress: "Oslovägen 22 Strömstad",
-          oktan: "Ja",
-        },
-        {
-          name: "Tanka",
-          distance: 159,
-          adress: "Centrumvägen 1 Dingle",
-          oktan: "Ja",
-        },
-        {
-          name: "Trollhättan",
-          distance: 12,
-          adress: "Brastadsgatan 44",
-          oktan: "Ja",
-        },
-      ],
+      stations: stationFile,
     };
   },
 };

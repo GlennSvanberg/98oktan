@@ -54,27 +54,25 @@ for page in range(page, max_page):
         for br in row.find_all("br"):
             br.replace_with(" ")
         station = row.find_all("td")[0].text
-        
-        row = station.split(" ",1)
+
+        row = station.split(" ", 1)
         if row[0] == "Circle":
             row[0] = "Circle K"
             row[1] = row[1][2:]
-        r = row[1].split(" ",1)
+        r = row[1].split(" ", 1)
 
         row[1] = ";".join(r)
         station = ";".join(row)
         station = station.split(";")
-        s = {'Station': station[0], 'City': station[1], 'Adress': station[2]}
-        #station = [";".join(s.split(" ", 1)) for s in station]
-        #station = [";".join(s.split(" ", 2)) for s in station]
-        if "TIPS!" not in station:
+        s = {'Station': station[0], 'City': station[1],
+             'Adress': station[2], "Oktan": "Ja"}
+        if "\nTIPS!" != station[0]:
             stations.append(s)
 
 print()
 
-f = open("stationer.json", "w", encoding="utf-8")
+f = open("stations.json", "w", encoding="utf-8")
 
 
 f.write(json.dumps(stations))
 f.close()
-
