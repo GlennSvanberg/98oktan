@@ -13,11 +13,11 @@
         <v-spacer></v-spacer>
         <h1>98 Oktan</h1>
       </div>
-
       <v-spacer></v-spacer>
     </v-app-bar>
 
     <v-main class="primary lighten-3">
+      <GMapp />
       <WelcomeMessage />
       <StationList />
     </v-main>
@@ -27,13 +27,16 @@
 <script>
 import WelcomeMessage from "./components/WelcomeMessage";
 import StationList from "./components/StationList";
+import GMapp from "./components/GMapp.vue";
 
 export default {
   name: "App",
 
   components: {
+    GMapp,
     WelcomeMessage,
     StationList,
+    
   },
 
   data: () => ({
