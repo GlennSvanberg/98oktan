@@ -1,0 +1,3033 @@
+[
+    {
+        "Station": "OKQ8",
+        "City": "Uddevalla,",
+        "Adress": "Trumpetv\u00e4gen 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/uddevalla-trumpetvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Uddevalla,",
+        "Adress": "Str\u00f6mstadsv\u00e4gen 50",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/uddevalla-stromstadsvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Trollh\u00e4ttan,",
+        "Adress": "Tunhemsv\u00e4gen 4",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/trollhattan-tunhemsv-4-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "V\u00e4nersborg,",
+        "Adress": "Edsv\u00e4gen 26, Gropbron",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/vanersborg-edsvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Trollh\u00e4ttan,",
+        "Adress": "Kardanv\u00e4gen 14-16 / E45",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/trollhattan-e45-/-kardanv/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Trollh\u00e4ttan,",
+        "Adress": "Lantmannav\u00e4gen 6-8",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/trollhattan-lantmannavagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Munkedal,",
+        "Adress": "Tradenv\u00e4gen 6 (H\u00e5byg\u00e5rd)",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/munkedal-habygard/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Lilla Edet,",
+        "Adress": "Skansenv\u00e4gen 34",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/lilla-edet-skansenvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Lysekil,",
+        "Adress": "F\u00f6rr\u00e5dsv\u00e4gen 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/lysekil-forradsvagen-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Br\u00e5landa,",
+        "Adress": "Storgatan 62",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/bralanda-storgatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Sk\u00e4rhamn,",
+        "Adress": "Enebacken 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/skarhamn-enebacken/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Mellerud,",
+        "Adress": "Landsv\u00e4gsgatan 44",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/mellerud-landsvagsg-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "N\u00f6dinge,",
+        "Adress": "Ale Torg 20",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/nodinge-nodingevagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Kung\u00e4lv,",
+        "Adress": "Teknikergatan 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/kungalv/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Tanumshede,",
+        "Adress": "Industriv\u00e4gen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/tanumshede-industriv-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "V\u00e5rg\u00e5rda,",
+        "Adress": "Stockholmsv\u00e4gen 44",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/vargarda/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Angered,",
+        "Adress": "Korpv\u00e4gen, Angeredsleden",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/angered-goteborg/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Hisings Backa,",
+        "Adress": "Transportgatan 6",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/backebol/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Stenkullen,",
+        "Adress": "Hede G\u00e4rde 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/lerum-stenkullen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "G\u00f6teborg,",
+        "Adress": "Stenebyv\u00e4gen Tuve",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/tuve-stenebyvagen-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "G\u00f6teborg,",
+        "Adress": "Bergsj\u00f6v\u00e4gen",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/goteborg-bergsjovagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Partille,",
+        "Adress": "Gamla Kronv\u00e4gen 94",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/partille-ga-kronvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Hisings Backa,",
+        "Adress": "Litteraturgatan 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/hisings-backa-brunnsbo-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "G\u00f6teborg,",
+        "Adress": "Inlandsgatan 52",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/goteborg-inlandsgatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "G\u00f6teborg,",
+        "Adress": "Gropeg\u00e5rdsgatan 2-6",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/goteborg-gropegardsg-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Lidk\u00f6ping,",
+        "Adress": "\u00c5g\u00e5rdsrondellen/Tallskogsv",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/lidkoping/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "G\u00f6teborg,",
+        "Adress": "Sommarv\u00e4dersgatan 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/goteborg-sommarvadersg/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "G\u00f6teborg,",
+        "Adress": "Herkulesgatan-Inlandsgatan",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/goteborg-lundbyleden-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "G\u00f6teborg,",
+        "Adress": "S\u00f6rredsv\u00e4gen Torslanda",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/goteborg-torslanda-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Lidk\u00f6ping,",
+        "Adress": "Mellbygatan 48",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/lidkoping-mellbyg-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "G\u00f6teborg,",
+        "Adress": "Terminalv\u00e4gen 3 Arendal",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/goteborg-arendal-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "V\u00e4stra Fr\u00f6lunda,",
+        "Adress": "B\u00e4rnstensgatan 3",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/vastra-frolunda-barnstensg/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Landvetter,",
+        "Adress": "Flygplatsv\u00e4gen 10",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/landvetter-flygplatsvagen-10/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "V\u00e4stra Fr\u00f6lunda,",
+        "Adress": "Skatteg\u00e5rdsv\u00e4gen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/vastra-frolunda-skattegardsv/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "V\u00e4stra Fr\u00f6lunda,",
+        "Adress": "N. L\u00e5ngebergsg 3, Sisj\u00f6n",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/v-frolunda-langebergsg-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Str\u00f6mstad,",
+        "Adress": "Solviksgatan 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/stromstad-solviksgatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "K\u00e5llered,",
+        "Adress": "Ekenleden 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/kallered-ekenleden/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Fristad,",
+        "Adress": "Stora V\u00e4gen 24",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/fristad/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Billdal,",
+        "Adress": "Kungsporten 7",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/billdal/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Bor\u00e5s,",
+        "Adress": "Alidelundsgatan 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/boras-alidelundsg/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Str\u00f6mstad,",
+        "Adress": "Nordby Svinesund",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/stromstad/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Bor\u00e5s,",
+        "Adress": "Hultagatan 9",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/boras-hultagatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Kungsbacka,",
+        "Adress": "Energigatan 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/kungsbacka-energigatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Falk\u00f6ping,",
+        "Adress": "\u00d6ster\u00e4ngsgatan 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/falkoping-osterangsg/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Falk\u00f6ping,",
+        "Adress": "Lovenegatan 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/falkoping-lovenegat-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "S\u00e4ffle,",
+        "Adress": "J\u00e4rnv\u00e4gsgatan",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/saffle-jarnvagsgatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Kinna,",
+        "Adress": "Lyddev\u00e4gen",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/kinna-lyddevagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "S\u00e4ffle,",
+        "Adress": "Sommarrov\u00e4gen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/saffle-sommarrovagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Ulricehamn,",
+        "Adress": "Bor\u00e5sv\u00e4gen 9",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/ulricehamn-borasvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Bj\u00f6rketorp,",
+        "Adress": "Varbergsv\u00e4gen 303",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/bjorketorp-automat/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Sk\u00f6vde,",
+        "Adress": "Gamla Kungsv\u00e4gen 49",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/skovde-gamla-kungsvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Sk\u00f6vde,",
+        "Adress": "Mellomkvarnsv\u00e4gen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/skovde-mellomkvarnsv-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Mariestad,",
+        "Adress": "Hammarsmedsgatan 27",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/mariestad-hammarsmedsg-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Mariestad,",
+        "Adress": "Leverstadsv\u00e4gen 6",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/mariestad-leverstadsvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Mariestad,",
+        "Adress": "Muggebo/Rattugglan",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/mariestad-muggebo/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Ulricehamn,",
+        "Adress": "Str\u00e4ngsered",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/ulricehamn-strangsered/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Grums,",
+        "Adress": "Ny\u00e4ngsv\u00e4gen 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/grums-nyangsvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Varberg,",
+        "Adress": "V\u00e4rnamov\u00e4gen 14",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/varberg-varnamov-14-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Varberg,",
+        "Adress": "Monarkv\u00e4gen 12",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/varberg-monarkvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Skoghall,",
+        "Adress": "Hovlandav\u00e4gen 5",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/skoghall-hovlandavagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Karlstad,",
+        "Adress": "K\u00f6pv\u00e4gen 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/karlstad-kopvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Karlstad,",
+        "Adress": "Hagalundsv\u00e4gen 27",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/karlstad-hagalundsvagen-27/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Karlstad,",
+        "Adress": "Packhusgatan 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/karlstad-packhusgat-1-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "J\u00f6nk\u00f6ping,",
+        "Adress": "Jordbrov\u00e4gen 10",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/jonkoping-jordbrovagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Tv\u00e5\u00e5ker,",
+        "Adress": "Himle",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/tvaaker-himle/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Karlstad,",
+        "Adress": "H\u00f6jdgatan 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/karlstad-hojdgatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Huskvarna,",
+        "Adress": "V\u00e5rstarondellen",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/huskvarna-varstarondellen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Gislaved,",
+        "Adress": "Gr\u00e4fthultsv\u00e4gen 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/gislaved-sodergard/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Kil,",
+        "Adress": "\u00c5rstidsv\u00e4gen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/kil-stenasen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Arvika,",
+        "Adress": "Bl\u00e4sterv\u00e4gen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/arvika-blastervagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "\u00d6desh\u00f6g,",
+        "Adress": "Trafikplats \u00d6desh\u00f6g E4",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/odeshog-liljekonvaljvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Kristinehamn,",
+        "Adress": "V\u00e4stg\u00f6tagatan 45",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/kristinehamn-vastgotag-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Kristinehamn,",
+        "Adress": "V\u00e4sterl\u00e5nggatan 4",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/kristinehamn-vasterlangg/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Skillingaryd,",
+        "Adress": "Klevshult",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/skillingaryd-klevshult/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Lax\u00e5,",
+        "Adress": "Riksv\u00e4gen-Revirgatan 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/laxa-riksvagen-revirg/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Sunne,",
+        "Adress": "S\u00f6rg\u00e5rdsgatan 3,Rv 45",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/sunne-sorgardsgatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Sunne,",
+        "Adress": "Norrg\u00e5rdsgatan 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/sunne-norrgardsgatan-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "N\u00e4ssj\u00f6,",
+        "Adress": "R\u00e5dhusgatan 68",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/nassjo-radhusgatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "V\u00e4rnamo,",
+        "Adress": "Fredsgatan 4",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/varnamo-halmstadsvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Motala,",
+        "Adress": "Vintergatan 25",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/motala-vintergatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Karlskoga,",
+        "Adress": "Tibastv\u00e4gen 8",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/karlskoga-tibastvagen-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Karlskoga,",
+        "Adress": "Selma Lagerl\u00f6fs V\u00e4g 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/karlskoga-selma-lagerlofs-vag/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "V\u00e4rnamo,",
+        "Adress": "Bredasten",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/varnamo-bredasten/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Boxholm,",
+        "Adress": "V\u00e4sterleden 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/boxholm-vasterleden/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "V\u00e4rnamo,",
+        "Adress": "Bredastensv\u00e4gen 3",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/varnamo/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Mj\u00f6lby,",
+        "Adress": "Sparregatan 11",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/mjolby-vastra-trafikplats/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Mj\u00f6lby,",
+        "Adress": "Kungsv\u00e4gen 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/mjolby-kungsgatan-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Fjugesta,",
+        "Adress": "Letstigen 17",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/fjugesta-letstigen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Halmstad,",
+        "Adress": "Olofsdalsv\u00e4gen 38",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/halmstad-flygstaden/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Eksj\u00f6,",
+        "Adress": "Stallbergav\u00e4gen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/eksjo-stallbergav/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Halmstad,",
+        "Adress": "Frennarpsv\u00e4gen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/halmstad-frennarpsvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Filipstad,",
+        "Adress": "Konsul Lundstr\u00f6ms V\u00e4g 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/filipstad-konsul-lundstrv/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Filipstad,",
+        "Adress": "Scheelegatan 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/filipstad-scheelegat-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Hallsberg,",
+        "Adress": "Samzeliigatan, Tegelgatan 9",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/hallsberg-samzeliigatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Vikingstad,",
+        "Adress": "\u00c5storpsgatan 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/vikingstad/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Kumla,",
+        "Adress": "Stenev\u00e4gen 19-21",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/kumla-stenevagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Torsby,",
+        "Adress": "Toria Center",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/torsby-toria-center-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Ljungby,",
+        "Adress": "Nyponv\u00e4gen",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/ljungby-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Ljungsbro,",
+        "Adress": "Cloettav\u00e4gen 20",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/ljungsbro-cloettavagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Vetlanda,",
+        "Adress": "Kolv\u00e4gen 23",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/vetlanda-kolvagen-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Hagfors,",
+        "Adress": "Blomv\u00e4gen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/hagfors-blomvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Vetlanda,",
+        "Adress": "Storgatan 83",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/vetlanda-storgatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Link\u00f6ping,",
+        "Adress": "Nyg\u00e5rdsinfarten 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/linkoping/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "\u00d6rebro,",
+        "Adress": "V\u00e4sthagagatan 7",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/orebro-vasthagagatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "\u00d6rebro,",
+        "Adress": "S\u00f6dermalmsplan 5",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/orebro-sodermalmsplan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "\u00d6rebro,",
+        "Adress": "Hagmarksgatan 45",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/orebro-hagmarksgatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Link\u00f6ping,",
+        "Adress": "Vigfastgatan 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/linkoping-vigfastg-1-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "H\u00e4llefors,",
+        "Adress": "Svart\u00e4lvsv\u00e4gen 8",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/hallefors-svartalvsvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Laholm,",
+        "Adress": "Industrigatan 6",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/laholm-industrigat-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Link\u00f6ping,",
+        "Adress": "Kylarev\u00e4gen 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/linkoping-kylarevagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "\u00d6rebro,",
+        "Adress": "Bettorpsgatan 4-6",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/orebro-bettorpsg-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Kisa,",
+        "Adress": "Kalmarv\u00e4gen 20",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/kisa-kalmarvagen-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Lesj\u00f6fors,",
+        "Adress": "Bergslagsgatan 59",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/lesjofors-bergslagsgatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Eksh\u00e4rad,",
+        "Adress": "Klar\u00e4lvsv\u00e4gen 15",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/eksharad-klaralvsvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "B\u00e5stad,",
+        "Adress": "Hallandsv\u00e4gen 45",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/bastad-hallandsvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "B\u00e5stad,",
+        "Adress": "Lannam\u00e4rkesv\u00e4gen 390",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/bastad-ostra-karup/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Lindesberg,",
+        "Adress": "Fotbollsgatan 2A",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/lindesberg-bergslagsv-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "V\u00e4xj\u00f6,",
+        "Adress": "Arabygatan 53",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/vaxjo-arabygatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "V\u00e4xj\u00f6,",
+        "Adress": "Ljungadalsgatan 1-3",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/vaxjo-ljungadalsg-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "V\u00e4xj\u00f6,",
+        "Adress": "Sambandsv\u00e4gen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/vaxjo-sambandsvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "V\u00e4xj\u00f6,",
+        "Adress": "Norremarksv\u00e4gen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/vaxjo-norremarksvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Sk\u00e5nes Fagerhult,",
+        "Adress": "Snapphaneallen 6",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/skanes-fagerhult/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "\u00c4ngelholm,",
+        "Adress": "Kungsg\u00e5rdsleden",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/angelholm-kungsgardsl-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Norrk\u00f6ping,",
+        "Adress": "Trafikplats Klinga",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/norrkoping-skarblackav/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Vimmerby,",
+        "Adress": "Maskingatan 5",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/vimmerby-maskingatan-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Norrk\u00f6ping,",
+        "Adress": "Moa Martinsons Gata 6",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/norrkoping-moa-martinssons-g/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Norrk\u00f6ping,",
+        "Adress": "Skarphagsleden/Vagngatan 25",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/norrkoping-skarphagsleden/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Norrk\u00f6ping,",
+        "Adress": "Malmgatan 41",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/norrkoping-ingelsta/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Norrk\u00f6ping,",
+        "Adress": "Hagebygatan 241",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/norrkoping-hagebygatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Norrk\u00f6ping,",
+        "Adress": "Exportgatan 9",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/norrkoping-exportg-9-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Arboga,",
+        "Adress": "S\u00e4tra Trafikplats E18-E20",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/arboga-satra-malarporten/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "S\u00f6derk\u00f6ping,",
+        "Adress": "L\u00e4nsmansgatan 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/soderkoping-lansmansgatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Katrineholm,",
+        "Adress": "Vassmogatan 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/katrineholm-vassmogatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Katrineholm,",
+        "Adress": "Starrv\u00e4gen 9",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/katrineholm-starrv-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Helsingborg,",
+        "Adress": "Bergav\u00e4gen 4",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/helsingborg-bergav-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Helsingborg,",
+        "Adress": "V\u00e4lav\u00e4gen 27",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/helsingborg-valavagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Helsingborg,",
+        "Adress": "\u00c4ngelholmsv\u00e4gen 8",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/helsingborg-angelholmsv/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Ringarum,",
+        "Adress": "Kyrk\u00e4ngsv\u00e4gen 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/ringarum-kyrkangsvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "K\u00f6ping,",
+        "Adress": "Ringv\u00e4gen 75",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/koping-ringvagen-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "K\u00f6ping,",
+        "Adress": "Hultgrensg.12 G:A Q8 Macken",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/koping-hultgrensgatan-12/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "K\u00f6ping,",
+        "Adress": "Hultgrensgatan 8",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/koping-hultgrensgatan-8/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "K\u00f6ping,",
+        "Adress": "V\u00e4ster\u00e5sv\u00e4gen 17",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/koping-vasterasvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "H\u00e4ssleholm,",
+        "Adress": "Tredje Avenyn 21",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/hassleholm-3e-avenyn/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Alstermo,",
+        "Adress": "Aspv\u00e4gen 9",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/alstermo-aspvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Ludvika,",
+        "Adress": "Sn\u00f6\u00e5v\u00e4gen 18",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/ludvika-snoavagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Ludvika,",
+        "Adress": "Tunnelgatan 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/ludvika-tunnelgatan-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Vansbro,",
+        "Adress": "\u00c4lvgatan 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/vansbro-alvgatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Glumsl\u00f6v,",
+        "Adress": "E6 Norrg\u00e5ende Glumsl\u00f6v",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/glumslov-norrgaende/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Glumsl\u00f6v,",
+        "Adress": "E6 S\u00f6derg\u00e5ende Glumsl\u00f6v",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/glumslov-sodergaende/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Grang\u00e4rde,",
+        "Adress": "G\u00e4rdsvedsv\u00e4gen 3",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/grangarde-gardsvedsv/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Olofstr\u00f6m,",
+        "Adress": "Ekhagsv\u00e4gen 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/olofstrom-ekhagsv-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Malung,",
+        "Adress": "K\u00e4llv\u00e4gen 10",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/malung-morav-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Landskrona,",
+        "Adress": "H\u00e4lsingborgsv\u00e4gen 44",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/landskrona-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Flen,",
+        "Adress": "Brogatan 6",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/flen-brogatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Kvicksund,",
+        "Adress": "Rasholmsv.9, Kvicksundsv.",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/kvicksund/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Landskrona,",
+        "Adress": "F\u00f6reningsgatan 220",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/landskrona-foreningsg/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "V\u00e4stervik,",
+        "Adress": "Allen 76",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/vastervik-allen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Eskilstuna,",
+        "Adress": "Tp 130/E20 Folkesta",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/eskilstuna-folkesta/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Eskilstuna,",
+        "Adress": "Skjulstagatan 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/eskilstuna-skjulstagatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Stigtomta,",
+        "Adress": "B\u00e4rbov\u00e4gen 21",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/stigtomta-barbovagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Torsh\u00e4lla,",
+        "Adress": "Eskilstunav\u00e4gen 31",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/torshalla-eskilstunavagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Fagersta,",
+        "Adress": "Norbergsv\u00e4gen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/fagersta-norbergsv/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Eskilstuna,",
+        "Adress": "Lundbladsv\u00e4gen 6",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/eskilstuna-lundbladsv/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Eskilstuna,",
+        "Adress": "V\u00e4stergatan 13",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/eskilstuna-vasterg/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Surahammar,",
+        "Adress": "Enb\u00e4rsv\u00e4gen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/surahammar-enbarsvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Kristianstad,",
+        "Adress": "Karlsgatan 11",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/kristianstad-langebrogatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Esl\u00f6v,",
+        "Adress": "Fallsk\u00e4rmsgatan 1A",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/eslov-fallskarmsgatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Oskarshamn,",
+        "Adress": "Idrottsv\u00e4gen 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/oskarshamn-idrottsvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Kristianstad,",
+        "Adress": "Blekingev\u00e4gen 107",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/kristianstad-blekingev-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "L\u00f6ddek\u00f6pinge,",
+        "Adress": "Transportv\u00e4gen 22",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/loddekopinge/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "H\u00f6rby,",
+        "Adress": "Slagtoftav\u00e4gen 60",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/horby-slagtofta-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Nybro,",
+        "Adress": "Servicegatan 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/nybro-servicegatan-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Nybro,",
+        "Adress": "Skruvens V\u00e4g 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/nybro-skruvens-vag/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Asarum,",
+        "Adress": "Korpadalsv\u00e4gen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/asarum-karlshamn-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "V\u00e4ster\u00e5s,",
+        "Adress": "Djuphamnsv\u00e4gen 3-5",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/vasteras-djuphamnsvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Nyk\u00f6ping,",
+        "Adress": "Gustavsbergsstigen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/nykoping-gustavsbergsstigen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "V\u00e4ster\u00e5s,",
+        "Adress": "Kopparbergsv\u00e4gen 47",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/vasteras-kopparbergsvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "V\u00e4ster\u00e5s,",
+        "Adress": "Grytarondellen, Norrleden 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/vasteras-grytarondellen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "V\u00e4ster\u00e5s,",
+        "Adress": "Kaserngatan 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/vasteras-viksang-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "S\u00f6lvesborg,",
+        "Adress": "K\u00e4mpasl\u00e4ttsv\u00e4gen 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/solvesborg-kampaslatt-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "V\u00e4ster\u00e5s,",
+        "Adress": "Str\u00f6mledningsgatan 11",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/vasteras-stromledn-g-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "V\u00e4ster\u00e5s,",
+        "Adress": "Norrleden 2 B",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/vasteras-norrleden/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Oxel\u00f6sund,",
+        "Adress": "Styrmansgatan 4-6",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/oxelosund-styrmansgatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Lund,",
+        "Adress": "Kung Oscars V\u00e4g 14",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/lund-kung-oscars-vag/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "M\u00f6nster\u00e5s,",
+        "Adress": "Storgatan 90",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/monsteras-storgatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "\u00c5hus,",
+        "Adress": "Stormgatan 11",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/ahus-stormgatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "S\u00f6dra Sandby,",
+        "Adress": "Lundav\u00e4gen",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/sodra-sandby-lundavagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Djur\u00e5s,",
+        "Adress": "S\u00f6dra Industriv\u00e4gen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/djuras-sodra-industrivagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Lund,",
+        "Adress": "Porfyrv\u00e4gen",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/lund-porfyrvagen-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Borl\u00e4nge,",
+        "Adress": "B\u00e4ckelundsgatan 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/borlange-norra-backa/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Borl\u00e4nge,",
+        "Adress": "Smedjebacksv\u00e4gen",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/borlange-smedjebacksv-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Borl\u00e4nge,",
+        "Adress": "Bygatan 33",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/borlange-bygatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Ronneby,",
+        "Adress": "S\u00f6rbydalsv\u00e4gen 14",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/ronneby/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Staffanstorp,",
+        "Adress": "Maskinv\u00e4gen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/staffanstorp/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Arl\u00f6v,",
+        "Adress": "Lundav\u00e4gen 9",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/arlov-lundavagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Dalby,",
+        "Adress": "Pumpv\u00e4gen 2-4",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/dalby-sodra-pumpvagen-2-4/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Str\u00e4ngn\u00e4s,",
+        "Adress": "Kvartsgatan 4",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/strangnas-kalkstensg-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Malm\u00f6,",
+        "Adress": "V\u00e4stkustv\u00e4gen 19-21",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/malmo-vastkustv/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Malm\u00f6,",
+        "Adress": "Vattenverksv\u00e4gen 60",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/malmo-vattenverksvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Avesta,",
+        "Adress": "Dalav\u00e4gen 5",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/avesta-dalavagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Arl\u00f6v,",
+        "Adress": "Vassv\u00e4gen 20",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/stora-bernstorp/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Str\u00e4ngn\u00e4s,",
+        "Adress": "Mark\u00f6rv\u00e4gen 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/strangnas-markorvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Avesta,",
+        "Adress": "Bergsn\u00e4sgatan 7",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/avesta-bergsnasgatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Krylbo,",
+        "Adress": "Folkaregatan 50",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/krylbo-folkaregatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Hedemora,",
+        "Adress": "Gussarvsgatan 27",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/hedemora-gussarvsg/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Hedemora,",
+        "Adress": "Gussarvsgatan 31",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/hedemora-gussarvsgat-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Malm\u00f6,",
+        "Adress": "Batterigatan 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/malmo-batterigatan-toftanas/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Malm\u00f6,",
+        "Adress": "Svansj\u00f6gatan 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/malmo-svansjogatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Malm\u00f6,",
+        "Adress": "Blekingsborgsgatan 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/malmo-mobilia/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Veber\u00f6d,",
+        "Adress": "Truckv\u00e4gen",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/veberod-truckvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Leksand,",
+        "Adress": "Limsj\u00f6\u00e4nget 6",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/leksand-limsjoanget-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Malm\u00f6,",
+        "Adress": "Agnesfridsv\u00e4gen 119",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/malmo-agnesfridsv-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Sala,",
+        "Adress": "Berggatan 13",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/sala-berggatan-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Sala,",
+        "Adress": "Gymnasiegatan 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/sala-gymnasiegatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Sala,",
+        "Adress": "Uppsalav\u00e4gen 2(Fabriksgat.)",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/sala-uppsalavagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Oxie,",
+        "Adress": "Lockarpsv\u00e4gen 4",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/malmo-lockarp/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Kalmar,",
+        "Adress": "Tr\u00e5ngsundsv\u00e4gen 20",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/kalmar-trangsundsv-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Br\u00f6sarp,",
+        "Adress": "Albov\u00e4gen 9",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/brosarp-albovagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Tystberga,",
+        "Adress": "Sillekrog, Norrg\u00e5ende",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/sillekrog-norr/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Tystberga,",
+        "Adress": "Sillekrog, S\u00f6derg\u00e5ende",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/sillekrog-soder/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Kalmar,",
+        "Adress": "\u00d6landsleden 7",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/kalmar-olandsleden/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "S\u00e4len,",
+        "Adress": "S\u00e4lenv\u00e4gen 21",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/salen-salenvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "N\u00e4ttraby,",
+        "Adress": "Idrottsv\u00e4gen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/nattraby-idrottsvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Kalmar,",
+        "Adress": "Borgm\u00e4staregatan 15",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/kalmar-borgmastaregatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Svedala,",
+        "Adress": "N Tv\u00e4rgatan 24",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/svedala-ntvargatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Borgholm,",
+        "Adress": "Storgatan 77",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/borgholm-storgatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Karlskrona,",
+        "Adress": "Gullbernav\u00e4gen 22",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/karlskrona-gullbernav-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Vellinge,",
+        "Adress": "B\u00f6rjesgatan 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/vellinge-borjesgatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Karlskrona,",
+        "Adress": "Bl\u00e5portsgatan 19",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/karlskrona-blaport/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Falun,",
+        "Adress": "Korsn\u00e4sv\u00e4gen 138",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/falun-korsnasvagen-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Falun,",
+        "Adress": "Tryckeriv\u00e4gen 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/falun-tryckerivagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Falun,",
+        "Adress": "Kolonnv\u00e4gen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/falun-kolonnvagen-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Enk\u00f6ping,",
+        "Adress": "Ges\u00e4llgatan 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/enkoping-gesallgatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Enk\u00f6ping,",
+        "Adress": "Grusgatan 18",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/enkoping-grusgatan-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Bjurs\u00e5s,",
+        "Adress": "Storv\u00e4gen 21",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/bjursas-storvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "F\u00e4rjestaden,",
+        "Adress": "T\u00f6rnbottenv\u00e4gen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/farjestaden-algutsrum/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Mora,",
+        "Adress": "Vasagatan 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/mora-vasagatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Mora,",
+        "Adress": "Engelbrekts V\u00e4g 3",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/mora-broakern-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "R\u00e4ttvik,",
+        "Adress": "Faluv\u00e4gen 117",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/rattvik/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Nykvarn,",
+        "Adress": "Gamla Str\u00e4ngn\u00e4sv\u00e4gen 509",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/nykvarn/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "H\u00f6llviken,",
+        "Adress": "Stenbocksv\u00e4g 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/hollviken/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Skurup,",
+        "Adress": "Korrehusgatan",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/skurup/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "R\u00e4ttvik,",
+        "Adress": "Riksv\u00e4gen 26",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/rattvik-riksvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "M\u00f6rbyl\u00e5nga,",
+        "Adress": "K\u00f6pmangatan 28",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/morbylanga-kopmangatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "J\u00e4mj\u00f6,",
+        "Adress": "Riksv\u00e4gen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/jamjo-riksvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "J\u00e4rna,",
+        "Adress": "Florav\u00e4gen 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/jarna-floravagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Grillby,",
+        "Adress": "Grillbyv\u00e4gen 27",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/grillby-grillbyvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Trelleborg,",
+        "Adress": "Hedv\u00e4gen 451 (Maglarp)",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/trelleborg/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "S\u00f6dert\u00e4lje,",
+        "Adress": "Genetaleden 4",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/sodertalje-aut-genetaleden/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "S\u00f6dert\u00e4lje,",
+        "Adress": "St\u00e5lhamrav\u00e4gen 93",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/sodertalje-stalhamravagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "S\u00f6dert\u00e4lje,",
+        "Adress": "Bangatan 34",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/sodertalje-bangatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "\u00c4lvdalen,",
+        "Adress": "Dalgatan 94",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/alvdalen-dalgatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Ystad,",
+        "Adress": "Kristianstadsv 38",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/ystad-kristianstadsvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Simrishamn,",
+        "Adress": "Fabriksgatan",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/simrishamn-fabriksg-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "B\u00e5lsta,",
+        "Adress": "Stockholmsv\u00e4gen 36",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/balsta-stockholmsvagen-36/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Sk\u00e5,",
+        "Adress": "F\u00e4rentunav\u00e4gen 105",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/ska-svanhagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Tumba,",
+        "Adress": "D\u00e4ldv\u00e4gen 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/tumba-daldvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Tumba,",
+        "Adress": "Tumbav\u00e4gen 1 Tuna",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/tumba-tuna-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Nyn\u00e4shamn,",
+        "Adress": "Nyn\u00e4sv\u00e4gen 50",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/nynashamn-nynasvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Eker\u00f6,",
+        "Adress": "\u00c5kerstigen 22",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/ekero-akerstigen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Norsborg,",
+        "Adress": "Brunnav\u00e4gen",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/norsborg-brunnavagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Nyn\u00e4shamn,",
+        "Adress": "V\u00e4g73/Mysingsv\u00e4gen",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/nynashamn-aut/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Kungs\u00e4ngen,",
+        "Adress": "Skolv\u00e4gen 41",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/kungsangen-skolvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Norsborg,",
+        "Adress": "Tegelbruksv\u00e4gen",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/norsborg-tegelbruksvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Sk\u00e4rholmen,",
+        "Adress": "Ekholmsv\u00e4gen 7-15",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/skarholmen-ekholmsvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "V\u00e4llingby,",
+        "Adress": "J\u00e4mtlandsgatan 139-143",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/vallingby-jamtlandsgatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "J\u00e4rf\u00e4lla,",
+        "Adress": "Dackev\u00e4gen 5-7",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/jarfalla-dackevagen-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "J\u00e4rf\u00e4lla,",
+        "Adress": "V\u00e4rmev\u00e4gen 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/jakobsberg-varmevagen-1/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "J\u00e4rf\u00e4lla,",
+        "Adress": "J\u00e4ttev\u00e4gen 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/jarfalla-jattevagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Sp\u00e5nga,",
+        "Adress": "Avestav\u00e4gen 71",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/spanga-lunda/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "J\u00e4rf\u00e4lla,",
+        "Adress": "Enk\u00f6pingsv\u00e4gen 35",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/jarfalla-enkopingsvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Segeltorp,",
+        "Adress": "H\u00e4radsv\u00e4gen 255",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/huddinge-haradsvagen-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "H\u00e4gersten,",
+        "Adress": "Elisabeth Tamms Gata 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/hagersten-elisabeth-tamms-gata/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Bromma,",
+        "Adress": "Brommaplan 408",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/bromma/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Huddinge,",
+        "Adress": "Huddingev\u00e4gen 367",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/huddinge-huddingevagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "H\u00e4gersten,",
+        "Adress": "Mickelsbergsv\u00e4gen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/hagersten-mickelsbergsvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Sp\u00e5nga,",
+        "Adress": "Rinkebysv\u00e4ngen 66",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/spanga-rinkebysvangen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Huddinge,",
+        "Adress": "\u00c5gestav\u00e4gen 2-8",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/huddinge-agestavagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Bromma,",
+        "Adress": "Ulvsundaplan",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/bromma-ulvsundaplan-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Kista,",
+        "Adress": "Kottbygatan 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/kista-kottbygatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "H\u00e4gersten,",
+        "Adress": "Kontrollv\u00e4gen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/hagersten-kontrollvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Solna,",
+        "Adress": "Hemv\u00e4rnsgatan 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/solna-hemvarnsgatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Uppsala,",
+        "Adress": "Skebogatan 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/uppsala-skebogatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Sollentuna,",
+        "Adress": "Pommernv\u00e4gen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/sollentuna-norrvikenleden/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Sundbyberg,",
+        "Adress": "Ges\u00e4llv\u00e4gen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/sundbyberg-gesallvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Solna,",
+        "Adress": "Ankdammsgatan 35",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/solna-ankdammsgatan-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Sollentuna,",
+        "Adress": "Emblav\u00e4gen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/sollentuna-haggvik/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Uppsala,",
+        "Adress": "Svartb\u00e4cksgatan 69",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/uppsala-svartbacksgatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Bandhagen,",
+        "Adress": "B\u00e4rbogr\u00e4nd 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/bandhagen-barbogrand/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Sollentuna,",
+        "Adress": "Sollentunav\u00e4gen 29",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/sollentuna-sollentunav/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "\u00c5rsta,",
+        "Adress": "Partihandlarv\u00e4gen 20",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/arsta-partihandlarvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Uppsala,",
+        "Adress": "Kungsgatan 97",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/uppsala-kungsgatan-97-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Solna,",
+        "Adress": "Solnav\u00e4gen 13",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/solna-solnavagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Upplands V\u00e4sby,",
+        "Adress": "Gl\u00e4djens Trafikplats(S\u00f6der)",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/upplands-vasby/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Rosersberg,",
+        "Adress": "Rosersberg Tp 179/E4",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/rosersberg-tp179/e4/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Uppsala,",
+        "Adress": "\u00c5rstagatan 5-7",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/uppsala-arstagatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Arlandastad,",
+        "Adress": "Servogatan 12",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/arlandastad-servogatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Farsta,",
+        "Adress": "Forshagagatan 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/farsta-forshagagatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Solna,",
+        "Adress": "Kungshamrav\u00e4gen 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/solna-kungshamravagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Handen,",
+        "Adress": "Nyn\u00e4sv\u00e4gen 130",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/handen-jordbrorondell-nynasv/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Johanneshov,",
+        "Adress": "Arenav\u00e4gen 86",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/johanneshov-arenavagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Haninge,",
+        "Adress": "Nyn\u00e4sv\u00e4gen 23",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/haninge-nynasvagen-23/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Danderyd,",
+        "Adress": "Enebybergsv\u00e4gen 2-4",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/danderyd/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Uppsala,",
+        "Adress": "Kumlagatan 4",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/uppsala-saby/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Sandviken,",
+        "Adress": "G\u00e4vlev\u00e4gen 86",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/sandviken-gavlevagen-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Sandviken,",
+        "Adress": "Linggatan 30",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/sandviken-linggatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "T\u00e4by,",
+        "Adress": "N\u00e4sbydalsv\u00e4gen 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/taby-nasbydalsvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Liding\u00f6,",
+        "Adress": "Islinge Hamnv\u00e4g 19",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/lidingo-islinge-hamnvag/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Liding\u00f6,",
+        "Adress": "Drottningv\u00e4gen 2A",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/lidingo-drottningvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Tyres\u00f6,",
+        "Adress": "Vendels\u00f6v\u00e4gen 48",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/tyreso-vendelsovagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Nacka,",
+        "Adress": "Skvaltans V\u00e4g 17",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/nacka-skvaltans-vag/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Vallentuna,",
+        "Adress": "Industriv\u00e4gen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/vallentuna/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Tyres\u00f6,",
+        "Adress": "Sikl\u00f6jev\u00e4gen 3",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/tyreso-siklojevagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Vallentuna,",
+        "Adress": "Angarnsv\u00e4gen-Smidesv\u00e4gen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/vallentuna-angarnsv-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "S\u00e4rna,",
+        "Adress": "S\u00e4rnav\u00e4gen 114",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/sarna-sarnavagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Saltsj\u00f6-Boo,",
+        "Adress": "Kanholmsv\u00e4gen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/saltsjo-boo-kanholmsvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Valbo,",
+        "Adress": "Vakbov\u00e4gen 307",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/valbo-mackmyra/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Visby,",
+        "Adress": "Kung Magnus V\u00e4g 12",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/visby-kung-magnus-vag/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "\u00c5kersberga,",
+        "Adress": "Rallarv\u00e4gen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/akersberga-rallarvagen-2/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Gustavsberg,",
+        "Adress": "Bleks\u00e4ngsv\u00e4gen 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/gustavsberg-bleksangsvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Ockelbo,",
+        "Adress": "Planks V\u00e4g 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/ockelbo-planks-vag/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "G\u00e4vle,",
+        "Adress": "Skogmursv\u00e4gen 37",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/gavle-skogmursvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "G\u00e4vle,",
+        "Adress": "S\u00f6dra Kungsgatan 61-63",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/gavle-skungsg-61-63-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "G\u00e4vle,",
+        "Adress": "S\u00f6dra Skeppsbron 15",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/gavle-skeppsbron/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Alunda,",
+        "Adress": "Centrumv\u00e4gen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/alunda/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Rimbo,",
+        "Adress": "Roslagsv\u00e4gen 6",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/rimbo-roslagsvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Str\u00e5tj\u00e4ra,",
+        "Adress": "T\u00f6nnebro 115",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/soderhamn-tonnebro/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Bolln\u00e4s,",
+        "Adress": "Hantverkargatan 3",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/bollnas-hantverkarg-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Norrt\u00e4lje,",
+        "Adress": "Stockholmsv\u00e4gen 51",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/norrtalje-stockholmsv-51/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Bolln\u00e4s,",
+        "Adress": "Fabriksgatan 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/bollnas-fabriksg/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Bolln\u00e4s,",
+        "Adress": "Norrlandsv\u00e4gen",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/bollnas-norrlandsvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "\u00d6sthammar,",
+        "Adress": "Gammelbygatan 36",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/osthammar-gammelbygatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "V\u00e4dd\u00f6,",
+        "Adress": "Norrt\u00e4ljev\u00e4gen 31",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/vaddo-norrtaljevagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Sveg,",
+        "Adress": "Vallarv\u00e4gen 5",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/sveg-vallarvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "S\u00f6derhamn,",
+        "Adress": "Stickv\u00e4gen 7",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/soderhamn-stickvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "S\u00f6derhamn,",
+        "Adress": "Norralagatan 34",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/soderhamn-norralagatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "F\u00e4rila,",
+        "Adress": "H\u00e4rjedalsv\u00e4gen 119",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/farila/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Hede,",
+        "Adress": "R\u00e5ndalsv\u00e4gen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/hede-randalsvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Fun\u00e4sdalen,",
+        "Adress": "R\u00f6rosv\u00e4gen 47",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/funasdalen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Hudiksvall,",
+        "Adress": "Trafikplats E4 / Rv84",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/hudiksvall-helsingeporten/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Hudiksvall,",
+        "Adress": "S\u00f6dra V\u00e4gen 20",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/hudiksvall-sodra-vagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "R\u00e4tan,",
+        "Adress": "Sj\u00f6v\u00e4gen 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/ratan-sjovagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Bergsj\u00f6,",
+        "Adress": "Sch\u00f6nstr\u00f6msv\u00e4gen 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/bergsjo-schonstromsvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Svenstavik,",
+        "Adress": "Lillhallen 265",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/svenstavik/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Matfors,",
+        "Adress": "R\u00e4nn\u00f6v\u00e4gen 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/matfors/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Sundsvall,",
+        "Adress": "Kustv\u00e4gen 81",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/sundsvall-kustvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "F\u00e5ker,",
+        "Adress": "Gr\u00f6nviken 502",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/faker-gronviken/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Sundsvall,",
+        "Adress": "Norra V\u00e4gen 9",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/sundsvall-norra-vagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Timr\u00e5,",
+        "Adress": "Vit\u00f6gatan 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/timra-vitogatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Brunflo,",
+        "Adress": "Centrumv\u00e4gen 4",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/brunflo/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "S\u00f6r\u00e5ker,",
+        "Adress": "Centrumv\u00e4gen 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/soraker-centrumvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "\u00d6stersund,",
+        "Adress": "S\u00f6dra Gr\u00f6ngatan 40",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/ostersund-sgrongatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "\u00d6stersund,",
+        "Adress": "Brosslarv\u00e4gen 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/ostersund-brosslarvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "\u00d6stersund,",
+        "Adress": "K\u00f6rf\u00e4ltsv\u00e4gen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/ostersund-korfaltsvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "\u00d6stersund,",
+        "Adress": "Sems\u00e5v\u00e4gen 44",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/ostersund-semsavagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "J\u00e4rpen,",
+        "Adress": "Skansv\u00e4gen 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/jarpen-skansvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Krokom,",
+        "Adress": "F\u00f6llingev\u00e4gen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/krokom-follingevagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "H\u00e4rn\u00f6sand,",
+        "Adress": "Kaptensgatan 4",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/harnosand-kaptensgatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "H\u00e4rn\u00f6sand,",
+        "Adress": "Br\u00e4nnav\u00e4gen 96",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/harnosand-brannavagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "\u00c4landsbro,",
+        "Adress": "N\u00e4sslandsv\u00e4gen 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/alandsbro-nasslandsvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Kramfors,",
+        "Adress": "H\u00f6gstav\u00e4gen 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/kramfors-hogstavagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Kramfors,",
+        "Adress": "Finnmarksv\u00e4gen 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/kramfors-finnmarksvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Sollefte\u00e5,",
+        "Adress": "Storgatan 139",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/solleftea-storgatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "F\u00f6llinge,",
+        "Adress": "L\u00e5nggatan 13",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/follinge-langgatan-13/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Hammerdal,",
+        "Adress": "Sik\u00e5sv\u00e4gen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/hammerdal-sikasvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Ull\u00e5nger,",
+        "Adress": "Centrumv\u00e4gen 38",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/ullanger-centrumvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Ramsele,",
+        "Adress": "Storgatan 3",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/ramsele-storgatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Str\u00f6msund,",
+        "Adress": "N\u00e4sviken",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/stromsund-nasviken/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Junsele,",
+        "Adress": "K\u00f6pmangatan 6",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/junsele-kopmangatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Domsj\u00f6,",
+        "Adress": "H\u00f6rnettv\u00e4gen 13",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/domsjo-hornett/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "\u00d6rnsk\u00f6ldsvik,",
+        "Adress": "H\u00e4rn\u00f6sandsv\u00e4gen 4/E4",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/ornskoldsvik-harnosandsv-4/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "\u00d6rnsk\u00f6ldsvik,",
+        "Adress": "\u00c5ngermanlandsgatan 28",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/ornskoldsvik-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Dorotea,",
+        "Adress": "Storgatan 16",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/dorotea-storgatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "\u00c5sele,",
+        "Adress": "Centralgatan 44",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/asele-centralgatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Nordmaling,",
+        "Adress": "R\u00f6dviksv\u00e4gen",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/nordmaling-rodviksvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Dorotea,",
+        "Adress": "Ormsj\u00f6 70",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/dorotea/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Vilhelmina,",
+        "Adress": "Volgsj\u00f6v\u00e4gen 58",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/vilhelmina-volgsjovagen-58/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Vilhelmina,",
+        "Adress": "Volgsj\u00f6v\u00e4gen 41",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/vilhelmina-volgsjovagen-41/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Holmsund,",
+        "Adress": "J\u00e4rnv\u00e4gsgatan 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/holmsund/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "V\u00e4nn\u00e4sby,",
+        "Adress": "Kungstensv\u00e4gen",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/vannasby-kungstensvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Ume\u00e5,",
+        "Adress": "G:A Obollav\u00e4gen",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/umea-alvik/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Ume\u00e5,",
+        "Adress": "Odlarv\u00e4gen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/umea-odlarvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Ume\u00e5,",
+        "Adress": "Kronoskogsv\u00e4gen 20",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/umea-kronoskogsvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Ume\u00e5,",
+        "Adress": "Mineralv\u00e4gen",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/umea-mineralvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Ume\u00e5,",
+        "Adress": "Parkv\u00e4gen 7",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/umea-parkvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Ume\u00e5,",
+        "Adress": "Formv\u00e4gen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/umea-formvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Tavelsj\u00f6,",
+        "Adress": "Tavelsj\u00f6v\u00e4gen 84",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/tavelsjo/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Vindeln,",
+        "Adress": "H\u00f6kv\u00e4gen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/vindeln-hokvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Lycksele,",
+        "Adress": "Villarydsv\u00e4gen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/lycksele-villarydsvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Storuman,",
+        "Adress": "Bl\u00e5 V\u00e4gen 264",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/storuman-bla-vagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "\u00c5n\u00e4set,",
+        "Adress": "Skolgatan 1, E4",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/anaset-skolgatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Burtr\u00e4sk,",
+        "Adress": "Sundbrogatan 7",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/burtrask/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "L\u00f6v\u00e5nger,",
+        "Adress": "E4",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/lovanger/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Mal\u00e5,",
+        "Adress": "Fabriksgatan 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/mala-fabriksgatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Hemavan,",
+        "Adress": "\u00c4lvstigen 5",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/hemavan-aut/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Boliden,",
+        "Adress": "Storgatan 28",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/boliden-storgatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Skellefte\u00e5,",
+        "Adress": "Tj\u00e4rnv\u00e4gen 7",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/skelleftea-tjarnv-tanka/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Skellefte\u00e5,",
+        "Adress": "Mackv\u00e4gen 5, E4",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/skelleftea-mackvagen-5/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Skellefte\u00e5,",
+        "Adress": "Kanalgatan 7",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/skelleftea-kanalgatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Skellefte\u00e5,",
+        "Adress": "Erikslid",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/skelleftea-erikslid/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Skellefte\u00e5,",
+        "Adress": "N\u00f6ppelbergsv\u00e4gen 1, E4",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/skelleftea-noppelbergsvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Ursviken,",
+        "Adress": "Furun\u00e4sgatan 38-40",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/ursviken-furunasgatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Arvidsjaur,",
+        "Adress": "Storgatan 5",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/arvidsjaur-storgatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "L\u00e5ngtr\u00e4sk,",
+        "Adress": "Basv\u00e4gen",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/langtrask-basvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Arjeplog,",
+        "Adress": "Lappvallsv\u00e4gen 17",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/arjeplog-lappvallsv/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Svensbyn,",
+        "Adress": "Svensbyn",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/svensbyn/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Rokn\u00e4s,",
+        "Adress": "Rokn\u00e4sv\u00e4gen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/roknas-roknasvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Pite\u00e5,",
+        "Adress": "Sca",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/pitea-sca-munksund/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Pite\u00e5,",
+        "Adress": "Oktanv\u00e4gen 4/E4",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/pitea-oktanvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "\u00d6jebyn,",
+        "Adress": "Gammelstadsv\u00e4gen 21",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/ojebyn-gammelstadsvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Pite\u00e5,",
+        "Adress": "Norra Hamnen Marinan",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/pitea-norra-hamnen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Norrfj\u00e4rden,",
+        "Adress": "H\u00e5kingev\u00e4gen 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/norrfjarden-hakingevagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Rosvik,",
+        "Adress": "Handelsgr\u00e4nd",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/rosvik-handelsgrand/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "\u00c4lvsbyn,",
+        "Adress": "Kyrkog\u00e5rdsgatan 24",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/alvsbyn-kyrkogardsgatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Lule\u00e5,",
+        "Adress": "\u00c4lvsbyv\u00e4gen 15",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/lulea-alvsbyvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Lule\u00e5,",
+        "Adress": "Centralv\u00e4gen 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/lulea-centralvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Lule\u00e5,",
+        "Adress": "Sm\u00e5b\u00e5tsgatan 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/lulea-sodra-hamnen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Lule\u00e5,",
+        "Adress": "Robertviksgatan 3",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/lulea-robertviksg/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Lule\u00e5,",
+        "Adress": "Herts\u00f6v\u00e4gen 11B",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/lulea-hertsovagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Boden,",
+        "Adress": "Brogatan 32",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/boden-brogatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Jokkmokk,",
+        "Adress": "Klockarv\u00e4gen 17",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/jokkmokk-klockarvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "T\u00f6re,",
+        "Adress": "Klippgr\u00e4nd 2",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/tore/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Kalix,",
+        "Adress": "Parallellgatan 15",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/kalix-parallellgatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Morj\u00e4rv,",
+        "Adress": "Pionj\u00e4rgatan 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/morjarv-pionjargatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Porjus,",
+        "Adress": "Industriv\u00e4gen",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/porjus-industrivagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Haparanda,",
+        "Adress": "Ahlmarksv. 1, Rv 400",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/haparanda-ahlmarksv/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "\u00d6verkalix,",
+        "Adress": "Storgatan 34",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/overkalix-storgatan/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "G\u00e4llivare,",
+        "Adress": "Lule\u00e5v\u00e4gen 17",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/gallivare-luleavagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Malmberget,",
+        "Adress": "G\u00e4llivarev\u00e4gen",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/malmberget-gallivarevagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Kiruna,",
+        "Adress": "\u00d6sterleden",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/kiruna-osterleden/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Kiruna,",
+        "Adress": "Steinholtzgatan 49",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/kiruna-steinholtzg/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Pajala,",
+        "Adress": "Genv\u00e4gen 55",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/pajala-genvagen/"
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Vittangi,",
+        "Adress": "G\u00e4stisv\u00e4gen 5",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/vittangi-gastisvagen/"
+    }
+]

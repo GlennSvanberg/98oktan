@@ -1,20 +1,10 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
+import json
 driver = webdriver.Chrome('./chromedriver')
+stations = []
 
-def printStations(rows):
-    for row in rows:
-        name= row.find_element_by_class_name("station-name")
-        print("NAME:",name.text)
-        adress_rows = row.find_elements_by_class_name("globalMap-address")
-        adress = ""
-        for row in adress_rows:
-            if adress != "":
-                adress= adress + " " + row.text
-            else: 
-                adress = row.text
-        print("Adress:",adress)
 
 driver.get("https://www.okq8.se/pa-stationen/bensinstationer/")
 
@@ -37,11 +27,30 @@ driver.find_element_by_class_name('link-arrow').click()
 
 
 table = driver.find_element_by_class_name("globalMap-table-body")
-rows = table.find_elements_by_class_name("globalMap-table-row")
-printStations(rows)
+
+count = 0
 while True:
-    next_button = driver.find_element_by_class_name("globalMap-see-more")
-    driver.execute_script("arguments[0].scrollIntoView();", next_button)
-    next_button.click()
-    rows = table.find_elements_by_class_name("globalMap-table-row")
-    printStations(rows)
+    try:
+        next_button = driver.find_element_by_class_name("globalMap-see-more")
+        driver.execute_script("arguments[0].scrollIntoView();", next_button)
+        next_button.click()
+    except:
+        break
+
+
+rows = table.find_elements_by_class_name("globalMap-table-row")
+
+for row in rows:
+    address_rows = row.find_elements_by_class_name("globalMap-address")
+    source = row.find_element_by_class_name(
+        "station-name").get_attribute('href')
+    station = {'Station': "OKQ8", 'City': address_rows[0].text,
+               'Adress': address_rows[1].text, "Oktan": "Ja", "Source": source}
+    stations.append(station)
+
+f = open("okq8.json", "w", encoding="utf-8")
+
+
+f.write(json.dumps(stations))
+f.close()
+driver.close()

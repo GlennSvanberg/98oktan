@@ -1,0 +1,72 @@
+[
+    {
+        "Station": "Cirkle K",
+        "City": "HEDEMORA",
+        "Adress": "\u00d6STERBYV\u00c4GEN 16",
+        "Oktan": "Ja",
+        "Source": "https://www.circlek.se/station-search"
+    },
+    {
+        "Station": "Cirkle K",
+        "City": "VRIGSTAD",
+        "Adress": "J\u00d6NK\u00d6PINGSV\u00c4GEN 6",
+        "Oktan": "Ja",
+        "Source": "https://www.circlek.se/station-search"
+    },
+    {
+        "Station": "Cirkle K",
+        "City": "\u00c4NGELHOLM",
+        "Adress": "KLIPPANV\u00c4GEN 12",
+        "Oktan": "Ja",
+        "Source": "https://www.circlek.se/station-search"
+    },
+    {
+        "Station": "Cirkle K",
+        "City": "ARLANDASTAD",
+        "Adress": "CEDERSTR\u00d6MS SLINGA 21B",
+        "Oktan": "Ja",
+        "Source": "https://www.circlek.se/station-search"
+    },
+    {
+        "Station": "Cirkle K",
+        "City": "ASKIM",
+        "Adress": "ASKIMS STATIONSV\u00c4G 1",
+        "Oktan": "Ja",
+        "Source": "https://www.circlek.se/station-search"
+    },
+    {
+        "Station": "Cirkle K",
+        "City": "ESKILSTUNA",
+        "Adress": "VASAV\u00c4GEN 1",
+        "Oktan": "Ja",
+        "Source": "https://www.circlek.se/station-search"
+    },
+    {
+        "Station": "Cirkle K",
+        "City": "F\u00d6RSL\u00d6V",
+        "Adress": "BOKESLIDEN 5",
+        "Oktan": "Ja",
+        "Source": "https://www.circlek.se/station-search"
+    },
+    {
+        "Station": "Cirkle K",
+        "City": "V\u00c4STRA FR\u00d6LUNDA",
+        "Adress": "N\u00c4SETV\u00c4GEN 1",
+        "Oktan": "Ja",
+        "Source": "https://www.circlek.se/station-search"
+    },
+    {
+        "Station": "Cirkle K",
+        "City": "HELSINGBORG",
+        "Adress": "GARNISONSGATAN 2",
+        "Oktan": "Ja",
+        "Source": "https://www.circlek.se/station-search"
+    },
+    {
+        "Station": "Cirkle K",
+        "City": "LINK\u00d6PING",
+        "Adress": "BJ\u00c4LBOGATAN 1",
+        "Oktan": "Ja",
+        "Source": "https://www.circlek.se/station-search"
+    }
+]

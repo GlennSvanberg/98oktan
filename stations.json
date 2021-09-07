@@ -1,1262 +1,1262 @@
 [
     {
-        "Station": "Circle K",
-        "City": "\u00d6rnsk\u00f6ldsvik",
-        "Adress": "Bj\u00f6rnav 67",
+        "Station": "Qstar",
+        "City": "Karlshamn",
+        "Adress": "Storgatan 50 ASARUM",
         "Oktan": "Ja"
     },
     {
-        "Station": "Circle K",
-        "City": "S\u00f6lvesborg",
-        "Adress": "\u00d6 Storg 37",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Circle K",
-        "City": "Sandviken",
-        "Adress": "\u00c5rsundav\u00e4gen",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Circle K",
-        "City": "Skellefte\u00e5",
-        "Adress": "K\u00e5gev\u00e4gen 37",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Haninge",
-        "Adress": "Vendels\u00f6v\u00e4gen 17",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Circle K",
-        "City": "Karlstad",
-        "Adress": "Traktorgatan 1",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "H\u00e5bo",
-        "Adress": "Stockholmsv\u00e4gen 36 b\u00e5lsta",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Kramfors",
-        "Adress": "Docksta: Dockstav\u00e4gen 40",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Norrk\u00f6ping",
-        "Adress": "Koppargatan 2A",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "G\u00e4vle",
-        "Adress": "S.Kungsgatan 61 - 63",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "G\u00f6teborg",
-        "Adress": "Gropeg\u00e5rdsgatan, 405 31 G\u00f6teborg",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Circle K",
-        "City": "Huddinge",
-        "Adress": "magelungsv\u00e4gen",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "G\u00f6teborg",
-        "Adress": "Margretebergsgatan 2",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "J\u00e4rf\u00e4lla",
-        "Adress": "spisv\u00e4gen",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "Mj\u00f6lby",
-        "Adress": "Sparregatan 1",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Mark",
-        "Adress": "Redskapsgatan 1",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "Karlskrona",
-        "Adress": "Bl\u00e5portsgatan 19",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "Skurup",
-        "Adress": "Korrehusgatan 16",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "Sundsvall",
-        "Adress": "Timmerv\u00e4gen 8 / Birsta",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Ale",
-        "Adress": "N\u00f6dingev\u00e4gen 9 N\u00f6dinge",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Stockholm",
-        "Adress": "Stallarholmsv\u00e4gen 24 / Bandhagen",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Bjurholm",
-        "Adress": "V\u00e4nn\u00e4sv\u00e4gen 2",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Eskilstuna",
-        "Adress": "M\u00e5tt Johanssons V\u00e4g 54",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Halmstad",
-        "Adress": "Kristinehedsv\u00e4gen 1",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Karlskoga",
-        "Adress": "Tibastv\u00e4gen 8",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Kristinehamn",
-        "Adress": "V\u00e4stg\u00f6tagatan 45",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Malm\u00f6",
-        "Adress": "Agnesfridsv\u00e4gen 119",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Olofstr\u00f6m",
-        "Adress": "Ekhagsv\u00e4gen 1",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Karlskoga",
-        "Adress": "Tibastv\u00e4gen 8",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Kristinehamn",
-        "Adress": "V\u00e4stg\u00f6tagatan 45",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Malm\u00f6",
-        "Adress": "Agnesfridsv\u00e4gen 119",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Olofstr\u00f6m",
-        "Adress": "Ekhagsv\u00e4gen 1",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Skara",
-        "Adress": "Hospitalsgatan 13",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Tanum",
-        "Adress": "Industriv\u00e4gen 2 Tanumshede",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Trelleborg",
-        "Adress": "Hedv\u00e4gen 111",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Upplands",
-        "Adress": "V\u00e4sby Truckv\u00e4gen 22 / V\u00e4sby Trafikplats",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "V\u00e4xj\u00f6",
-        "Adress": "Ljungadalsgatan 1",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "Bjuv",
-        "Adress": "Spinngatan 2 Billesholm",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Norrt\u00e4lje",
-        "Adress": "Uppsalav\u00e4gen 59 Hallstavik",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "Ljusnarsberg",
-        "Adress": "Kata Dahlstr\u00f6ms V\u00e4g 1 Kopparberg",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "Lund",
-        "Adress": "Getingev\u00e4gen 34",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "Nordmaling",
-        "Adress": "R\u00f6dviksv\u00e4gen",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "G\u00e4vle",
-        "Adress": "S\u00e4trah\u00f6jden",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Hudiksvall",
-        "Adress": "N Industriv",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Vellinge",
-        "Adress": "H\u00f6llviken: Kungstorpsv\u00e4gen 4",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Klippan",
-        "Adress": "Storgatan 90",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Lule\u00e5",
-        "Adress": "Roderv\u00e4gen",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Mj\u00f6lby",
-        "Adress": "Hedv\u00e4gen 3 / 59017 Mantorp / E4",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "H\u00e4rjedalen",
-        "Adress": "Parkgatan Sveg",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Ulricehamn",
-        "Adress": "Karlsn\u00e4sv\u00e4gen",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "\u00c4ngelholm",
-        "Adress": "Erikslund / Varal\u00f6v",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "Huddinge",
-        "Adress": "Huddingev\u00e4gen 367",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "\u00d6rebro",
-        "Adress": "V\u00e4sthagagatan 7",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "Heby",
-        "Adress": "\u00d6sterv\u00e5la: Hovsv 9",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Circle K",
-        "City": "\u00d6rnsk\u00f6ldsvik",
-        "Adress": "Bj\u00f6rnav 67",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Circle K",
-        "City": "S\u00f6lvesborg",
-        "Adress": "\u00d6 Storg 37",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Mj\u00f6lby",
-        "Adress": "Mantorp ",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "Mj\u00f6lby",
-        "Adress": "Sparregatan 1",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Mark",
-        "Adress": "Redskapsgatan 1",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "Karlskrona",
-        "Adress": "Bl\u00e5portsgatan 19",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "H\u00f6gan\u00e4s",
-        "Adress": "Prins Carlsgatan / Kullagatan",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Aneby",
-        "Adress": "Kapellgatan 20",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Herrljunga",
-        "Adress": "Gamla Alings\u00e5sv\u00e4gen 2",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "G\u00f6teborg",
-        "Adress": "V\u00e4stra Br\u00e4ckev\u00e4gen 50",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Circle K",
-        "City": "S\u00f6dert\u00e4lje",
-        "Adress": "Chassiporten",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Ystad",
-        "Adress": "Metallgatan 1",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "Ume\u00e5",
-        "Adress": "J\u00e4rnv\u00e4gsgatan 1 Holmsund",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Varberg",
-        "Adress": "Susvindsv\u00e4gen 15",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Kinda",
-        "Adress": "Kisa: Kalmarv\u00e4gen 20",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Bolln\u00e4s",
-        "Adress": "Hantverkargatan 3",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "H\u00f6gan\u00e4s",
-        "Adress": "Prins Carlsgatan / Kullagatan",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Aneby",
-        "Adress": "Kapellgatan 20",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Herrljunga",
-        "Adress": "Gamla Alings\u00e5sv\u00e4gen 2",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "G\u00f6teborg",
-        "Adress": "V\u00e4stra Br\u00e4ckev\u00e4gen 50",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Circle K",
-        "City": "S\u00f6dert\u00e4lje",
-        "Adress": "Chassiporten",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Ystad",
-        "Adress": "Metallgatan 1",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "Ume\u00e5",
-        "Adress": "J\u00e4rnv\u00e4gsgatan 1 Holmsund",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Varberg",
-        "Adress": "Susvindsv\u00e4gen 15",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Kinda",
-        "Adress": "Kisa: Kalmarv\u00e4gen 20",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Bolln\u00e4s",
-        "Adress": "Hantverkargatan 3",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Falk\u00f6ping",
-        "Adress": "Lovenegatan 1",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Haninge",
-        "Adress": "Kilowattv\u00e4gen 11",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Karlskrona",
-        "Adress": "Gullbernav\u00e4gen 22",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Kung\u00e4lv",
-        "Adress": "Bultgatan",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Str\u00e4ngn\u00e4s",
-        "Adress": "Eskilstunav\u00e4gen 30",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Timr\u00e5",
-        "Adress": "Terminalv\u00e4gen 4",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Trollh\u00e4ttan",
-        "Adress": "Flygmotorv\u00e4gen",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Vara",
-        "Adress": "Torggatan 54",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "\u00d6ster\u00e5ker",
-        "Adress": "Rallarv\u00e4gen 9 \u00c5kersberga",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "Falun",
-        "Adress": "Storv\u00e4gen 21 Bjurs\u00e5s",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "Hultsfred",
-        "Adress": "Nytorpsv\u00e4gen",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "Kramfors",
-        "Adress": "Finnmarksv\u00e4gen 1",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "Lycksele",
-        "Adress": "Umev\u00e4gen 7",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Norrk\u00f6ping",
-        "Adress": "Exportgatan 9",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "Sundsvall",
-        "Adress": "Norra V\u00e4gen 9",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "Vetlanda",
-        "Adress": "Storgatan 83",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "\u00d6stersund",
-        "Adress": "Brosslarv\u00e4gen 1",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Stockholm",
-        "Adress": "Hardemogatan 25, Bandhagen (R\u00e5gsved)",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Solna",
-        "Adress": "Solnav\u00e4gen 16a",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "G\u00f6teborg",
-        "Adress": "Hisings Backa, Importgatan 2, ",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "H\u00f6gan\u00e4s",
-        "Adress": "Prins Carlsgatan / Kullagatan",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Aneby",
-        "Adress": "Kapellgatan 20",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Herrljunga",
-        "Adress": "Gamla Alings\u00e5sv\u00e4gen 2",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "G\u00f6teborg",
-        "Adress": "V\u00e4stra Br\u00e4ckev\u00e4gen 50",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Circle K",
-        "City": "S\u00f6dert\u00e4lje",
-        "Adress": "Chassiporten",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Ystad",
-        "Adress": "Metallgatan 1",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "Ume\u00e5",
-        "Adress": "J\u00e4rnv\u00e4gsgatan 1 Holmsund",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Varberg",
-        "Adress": "Susvindsv\u00e4gen 15",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Kinda",
-        "Adress": "Kisa: Kalmarv\u00e4gen 20",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Bolln\u00e4s",
-        "Adress": "Hantverkargatan 3",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Falk\u00f6ping",
-        "Adress": "Lovenegatan 1",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Haninge",
-        "Adress": "Kilowattv\u00e4gen 11",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Finsp\u00e5ng",
-        "Adress": "Norrk\u00f6pingsv\u00e4gen 28",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Mj\u00f6lby",
-        "Adress": "Kungsv\u00e4gen 1",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "J\u00e4rf\u00e4lla",
-        "Adress": "J\u00e4ttev\u00e4gen 2",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Valdemarsvik",
-        "Adress": "Vammargatan 4",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "G\u00f6teborg",
-        "Adress": "Raffinaderiv\u00e4gen 1",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Circle K",
-        "City": "Mj\u00f6lby",
-        "Adress": "Mantorp: Uljebergsv\u00e4gen / E4",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "Stockholm",
-        "Adress": "v\u00e4rtav\u00e4gen 53 stockholm",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "Lund",
-        "Adress": "Pumpv\u00e4gen / Dalby",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "\u00d6rebro",
-        "Adress": "Saluv\u00e4gen 4",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "G\u00f6teborg",
-        "Adress": "V\u00e4stra stationsv. 2A, 43644 Askim",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Olofstr\u00f6m",
-        "Adress": "L\u00f6nsbodav\u00e4gen 10-5",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
+        "Station": "Ingo",
         "City": "Gotland",
-        "Adress": "N F\u00e4rjeleden 5 Visby",
+        "Adress": "N Romakloster: Visbyv\u00e4gen 39",
         "Oktan": "Ja"
     },
     {
-        "Station": "Circle K",
-        "City": "S\u00f6dert\u00e4lje",
-        "Adress": "Genetaleden, 15152 S\u00f6dert\u00e4lje",
+        "Station": "Ingo",
+        "City": "Storuman",
+        "Adress": "\u00d6 Strandv\u00e4gen 18 T\u00e4rnaby",
         "Oktan": "Ja"
     },
     {
-        "Station": "Tanka",
-        "City": "Ume\u00e5",
-        "Adress": "Verkstadsgatan 9-11",
+        "Station": "Ingo",
+        "City": "Torsby",
+        "Adress": "V\u00e4gsj\u00f6fors. \u00d6verbyn",
         "Oktan": "Ja"
     },
     {
-        "Station": "OKQ8",
-        "City": "Norsj\u00f6",
-        "Adress": "Nygatan",
+        "Station": "Ingo",
+        "City": "Oxel\u00f6sund",
+        "Adress": "B\u00e5ggatan 14",
         "Oktan": "Ja"
     },
     {
-        "Station": "OKQ8",
-        "City": "S\u00f6dert\u00e4lje",
-        "Adress": "Genetaleden 7",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Alings\u00e5s",
-        "Adress": "H\u00e4radsv\u00e4gen",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Norrt\u00e4lje",
-        "Adress": "Bergshamra",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Enk\u00f6ping",
-        "Adress": "Dr Westerlunds G",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Flen",
-        "Adress": "Kungsv\u00e4gen",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "\u00d6rebro",
-        "Adress": "Glanshammar",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Halmstad",
-        "Adress": "Gr\u00f6nev\u00e5ngsv\u00e4gen",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "J\u00f6nk\u00f6ping",
-        "Adress": "Birkagatan Huskvarna",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "J\u00f6nk\u00f6ping",
-        "Adress": "Sol\u00e5sv\u00e4gen 8",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "M\u00f6lndal",
-        "Adress": "Lindome: Gamla Riksv\u00e4gen",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Mariestad",
-        "Adress": "Hammarsmedsgatan",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Sigtuna",
-        "Adress": "M\u00e4rsta: Stationsgatan",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Nyk\u00f6ping",
-        "Adress": "Ringv\u00e4gen",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "\u00d6rebro",
-        "Adress": "Saluv\u00e4gen 4",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "G\u00f6teborg",
-        "Adress": "V\u00e4stra stationsv. 2A, 43644 Askim",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
+        "Station": "Ingo",
         "City": "Olofstr\u00f6m",
-        "Adress": "L\u00f6nsbodav\u00e4gen 10-5",
+        "Adress": "S\u00f6dra kyrkhultsv\u00e4gen 4",
         "Oktan": "Ja"
     },
     {
-        "Station": "OKQ8",
-        "City": "Gotland",
-        "Adress": "N F\u00e4rjeleden 5 Visby",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Circle K",
-        "City": "S\u00f6dert\u00e4lje",
-        "Adress": "Genetaleden, 15152 S\u00f6dert\u00e4lje",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Ume\u00e5",
-        "Adress": "Verkstadsgatan 9-11",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "Sk\u00f6vde",
-        "Adress": "Titanv\u00e4gen 1",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "Ume\u00e5",
-        "Adress": "S\u00e4var: F\u00f6rr\u00e5dsv\u00e4gen 12",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "Hammar\u00f6",
-        "Adress": "Biv\u00e4gen 7",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "Leksand",
-        "Adress": "Hagagatan 8",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Varberg",
-        "Adress": "Rolfstorp: Alesl\u00f6v 3",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Lysekil",
-        "Adress": "Brastad: Brodalsv\u00e4gen 20",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Borl\u00e4nge",
-        "Adress": "Smedjebacksv\u00e4gen 3",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Hedemora",
-        "Adress": "Gussarvsgatan 31",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Flen",
-        "Adress": "Kungsv\u00e4gen",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "\u00d6rebro",
-        "Adress": "Glanshammar",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Halmstad",
-        "Adress": "Gr\u00f6nev\u00e5ngsv\u00e4gen",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "J\u00f6nk\u00f6ping",
-        "Adress": "Birkagatan Huskvarna",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "J\u00f6nk\u00f6ping",
-        "Adress": "Sol\u00e5sv\u00e4gen 8",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "M\u00f6lndal",
-        "Adress": "Lindome: Gamla Riksv\u00e4gen",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Mariestad",
-        "Adress": "Hammarsmedsgatan",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Sigtuna",
-        "Adress": "M\u00e4rsta: Stationsgatan",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Nyk\u00f6ping",
-        "Adress": "Ringv\u00e4gen",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Malm\u00f6",
-        "Adress": "Oxie: Stengodsv\u00e4gen",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Trollh\u00e4ttan",
-        "Adress": "Trollh\u00e4ttev\u00e4gen Sjuntorp",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "S\u00f6derhamn",
-        "Adress": "Str\u00e5tj\u00e4ra Str\u00e5tj\u00e4ra",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Malung",
-        "Adress": "S\u00e4len: Tand\u00e5dalen",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Ume\u00e5",
-        "Adress": "\u00d6stra Kyrkogatan 58",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "H\u00e4rn\u00f6sand",
-        "Adress": "Hammarv\u00e4gen \u00c4landsbro",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "\u00d6rnsk\u00f6ldsvik",
-        "Adress": "Bredbyn: Bondegatan 8",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Circle K",
-        "City": "Karlstad",
-        "Adress": "Sandb\u00e4cksgatan 6",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "\u00d6rnsk\u00f6ldsvik",
-        "Adress": "H\u00f6rnettv\u00e4gen 13 89251 Domsj\u00f6",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Lindesberg",
-        "Adress": "Bergslagsv\u00e4gen 10",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Hallsberg",
-        "Adress": "Samzeliigatan",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Malung",
-        "Adress": "S\u00e4len",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Stockholm",
-        "Adress": "Bandhagen: Hardemogatan 25",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Stockholm",
-        "Adress": "Hardemoragatan",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Helsingborg",
-        "Adress": "S\u00f6dra Hunnetorpsv\u00e4gen 151",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Malm\u00f6",
-        "Adress": "Lorensborgsgatan 10",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "Sala",
-        "Adress": "m\u00f6klinta",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "G\u00f6teborg",
-        "Adress": "Frihamnsmotet",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "H\u00e4rn\u00f6sand",
-        "Adress": "br\u00e4nnav\u00e4gen 96 87181 h\u00e4rn\u00f6sand ",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "Sala",
-        "Adress": "m\u00f6klinta",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "G\u00f6teborg",
-        "Adress": "Frihamnsmotet",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "H\u00e4rn\u00f6sand",
-        "Adress": "br\u00e4nnav\u00e4gen 96 87181 h\u00e4rn\u00f6sand ",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Preem",
-        "City": "Ume\u00e5",
-        "Adress": "E4 H\u00f6rnefors / H\u00f6rne\u00e5 7",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "Staffanstorp",
-        "Adress": "Borgg\u00e5rdsrondellen / Maskinv\u00e4gen / V\u00e4g 108 / Gull\u00e5krav\u00e4gen",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "Malm\u00f6",
-        "Adress": "Blekingsborgsgatan 2",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "Brom\u00f6lla",
-        "Adress": "Kristianstadsv\u00e4gen 781 / Sk\u00e5neporten",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "G\u00e4vle",
-        "Adress": "S\u00f6dra kungsgatan 61-63 / Vid G\u00f6sta Samuelsson Bil ",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "G\u00f6teborg",
-        "Adress": "Litteraturgatan 1",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "\u00d6stersund",
-        "Adress": "Fagerbacken 53",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Ljungby",
-        "Adress": "Nyponv\u00e4gen 7",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "Sigtuna",
-        "Adress": "Rosersberg tp 179, E4",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Uppsala",
-        "Adress": "Kungsgatan 97",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Huddinge",
-        "Adress": "Segeltorp: H\u00e4radsv\u00e4gen 255",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Landskrona",
-        "Adress": "Helsingborgsv\u00e4gen 44",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Motala",
-        "Adress": "Vintergatan 9",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Pite\u00e5",
-        "Adress": "Turbov\u00e4gen 1",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Gislaved",
-        "Adress": "Sm\u00e5landsstenar: S\u00f6dra Nissastigen 41",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Sunne",
-        "Adress": "Norrg\u00e5rdsgatan 1",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Tomelilla",
-        "Adress": "Malm\u00f6v\u00e4gen 8",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Tyres\u00f6",
-        "Adress": "Bollmorav\u00e4gen",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "Vimmerby",
-        "Adress": "Maskingatan 5",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "Tanka",
-        "City": "\u00c4ngelholm",
-        "Adress": "Transportgatan 11",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "Bolln\u00e4s",
-        "Adress": "J\u00e4rnv\u00e4gsgatan 54",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
-        "City": "H\u00f6\u00f6r",
-        "Adress": "Bj\u00f6rkgatan 58",
-        "Oktan": "Ja"
-    },
-    {
-        "Station": "OKQ8",
+        "Station": "Ingo",
         "City": "V\u00e4ster\u00e5s",
-        "Adress": "Rasholmsv\u00e4gen 9 Kvicksund",
+        "Adress": "\u00d6sterleden / Bjurhovdagatan 1",
         "Oktan": "Ja"
     },
     {
-        "Station": "OKQ8",
-        "City": "Borgholm",
-        "Adress": "L\u00f6ttorp: Landsv\u00e4gen H\u00f6gby 23 / V\u00e4g 136",
+        "Station": "Ingo",
+        "City": "Falun",
+        "Adress": "Norra J\u00e4rnv\u00e4gsgatan 33",
         "Oktan": "Ja"
     },
     {
-        "Station": "OKQ8",
+        "Station": "Ingo",
+        "City": "G\u00f6teborg",
+        "Adress": "Tingstadsmotet / GP-huset Salsm\u00e4stareg 1",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Alings\u00e5s",
+        "Adress": "Malmgatan",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "\u00d6stersund",
+        "Adress": "Hagv\u00e4gen",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Falkenberg",
+        "Adress": "Plankag\u00e5rdsv\u00e4gen",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Kristianstad",
+        "Adress": "L\u00e5ngebrogatan 70",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Ljungby",
+        "Adress": "Harabergsgatan",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Pite\u00e5",
+        "Adress": "Fabriksgatan 5",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Upplands",
+        "Adress": "V\u00e4sby Sandav\u00e4gen 1",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Uppsala",
+        "Adress": "Sylveniusgatan 10",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "V\u00e4xj\u00f6",
+        "Adress": "S\u00f6derleden 2",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Mal\u00e5",
+        "Adress": "Storgatan 11 93070 Mal\u00e5",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Haninge",
+        "Adress": "S\u00f6derbyleden 5",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "G\u00f6teborg",
+        "Adress": "askim",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "T\u00f6reboda",
+        "Adress": "545 90 T\u00f6reboda ",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Kristinehamn",
+        "Adress": "Stationsgatan 6",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Skellefte\u00e5",
+        "Adress": "Byske: Storgatan 26",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Skellefte\u00e5",
+        "Adress": "Stor\u00e5kersgatan 1",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "\u00d6cker\u00f6",
+        "Adress": "H\u00f6n\u00f6: L\u00f6kholmsv\u00e4gen 12",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "J\u00f6nk\u00f6ping",
+        "Adress": "Kortebov\u00e4gen 6 Bankeryd",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Huddinge",
+        "Adress": "Skog\u00e5s: Storvretsv\u00e4gen 68",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "J\u00f6nk\u00f6ping",
+        "Adress": "Kortebov\u00e4gen",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Kristianstad",
+        "Adress": "N\u00e4sbychauss\u00e9n",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "S\u00f6dert\u00e4lje",
+        "Adress": "Nyk\u00f6pingsv\u00e4gen",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Varberg",
+        "Adress": "V\u00e4rnamov\u00e4gen 2",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Ystad",
+        "Adress": "Vattentornsv\u00e4gen",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Trelleborg",
+        "Adress": "Hedv\u00e4gen 447",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "T\u00e4by",
+        "Adress": "T\u00e4by: Enhagsv\u00e4gen 14A",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Bengtsfors",
+        "Adress": "Str\u00f6mgatan 17",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Skellefte\u00e5",
+        "Adress": "Byske: Storgatan 26",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Skellefte\u00e5",
+        "Adress": "Stor\u00e5kersgatan 1",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "\u00d6cker\u00f6",
+        "Adress": "H\u00f6n\u00f6: L\u00f6kholmsv\u00e4gen 12",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "J\u00f6nk\u00f6ping",
+        "Adress": "Kortebov\u00e4gen 6 Bankeryd",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Huddinge",
+        "Adress": "Skog\u00e5s: Storvretsv\u00e4gen 68",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
         "City": "Tibro",
-        "Adress": "V\u00e4rdshusgatan 2",
+        "Adress": "Storgatan 37",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Kristianstad",
+        "Adress": "N\u00e4sbychauss\u00e9n",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "S\u00f6dert\u00e4lje",
+        "Adress": "Nyk\u00f6pingsv\u00e4gen",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Varberg",
+        "Adress": "V\u00e4rnamov\u00e4gen 2",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Ystad",
+        "Adress": "Vattentornsv\u00e4gen",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "G\u00f6teborg",
+        "Adress": "Arendalsv\u00e4gen / Torslandav\u00e4gen",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Lysekil",
+        "Adress": "Hallindenv\u00e4gen 16 brastad",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "G\u00e4llivare",
+        "Adress": "Lansj\u00e4rv: Tolvmansv\u00e4gen 12 / E10",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Bengtsfors",
+        "Adress": "Uddevallav\u00e4gen 6 B\u00e4ckefors",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Degerfors",
+        "Adress": "Agens Torg",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Ume\u00e5",
+        "Adress": "Frankegatan 16 / H\u00f6rnefors",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "\u00d6stersund",
+        "Adress": "Lit: \u00d6stersundsv\u00e4gen 24",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Tierp",
+        "Adress": "Centralgatan 1",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "H\u00f6gan\u00e4s",
+        "Adress": "Karlsf\u00e4ltsv\u00e4gen 1 Viken",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "V\u00e4stervik",
+        "Adress": "Allen 54",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "M\u00f6lndal",
+        "Adress": "K\u00e5llered: Gamla riksv\u00e4gen 8",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Skara",
+        "Adress": "Skaraborgsgatan 35",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "S\u00f6dert\u00e4lje",
+        "Adress": "\u00c4ngsgatan 33",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "V\u00e4nersborg",
+        "Adress": "Gropbrov\u00e4gen / Tenggrenstorpsv\u00e4gen",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "\u00d6rebro",
+        "Adress": "Ros\u00e4ngsv\u00e4gen 1",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "\u00c4ngelholm",
+        "Adress": "Heimdallgatan",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Mora",
+        "Adress": "Sk\u00e5lmyrsv\u00e4gen 38",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "G\u00f6teborg",
+        "Adress": "Arendalsv\u00e4gen / Torslandav\u00e4gen",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Lysekil",
+        "Adress": "Hallindenv\u00e4gen 16 brastad",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "G\u00e4llivare",
+        "Adress": "Lansj\u00e4rv: Tolvmansv\u00e4gen 12 / E10",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Bengtsfors",
+        "Adress": "Uddevallav\u00e4gen 6 B\u00e4ckefors",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Degerfors",
+        "Adress": "Agens Torg",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Ume\u00e5",
+        "Adress": "Frankegatan 16 / H\u00f6rnefors",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "\u00d6stersund",
+        "Adress": "Lit: \u00d6stersundsv\u00e4gen 24",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Mora",
+        "Adress": "Sk\u00e5lmyrsv\u00e4gen 38",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "G\u00f6teborg",
+        "Adress": "Arendalsv\u00e4gen / Torslandav\u00e4gen",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Lysekil",
+        "Adress": "Hallindenv\u00e4gen 16 brastad",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "G\u00e4llivare",
+        "Adress": "Lansj\u00e4rv: Tolvmansv\u00e4gen 12 / E10",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Stockholm",
+        "Adress": "Djur\u00f6bron Djurhamn",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Bor\u00e5s",
+        "Adress": "Skalle Fristad Rv42",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "H\u00f6\u00f6r",
+        "Adress": "Ringsj\u00f6v\u00e4gen",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Vara",
+        "Adress": "Kungsgatan 35",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Nacka",
+        "Adress": "V\u00e4rmd\u00f6v\u00e4gen 158",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Skurup",
+        "Adress": "Femkorset / Svaneholmsv\u00e4gen 4",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Timr\u00e5",
+        "Adress": "K\u00f6pmangatan 51",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "\u00c5sele",
+        "Adress": "Umev\u00e4gen 5",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Malm\u00f6",
+        "Adress": "Lorensborgsgatan 1",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Gagnef",
+        "Adress": "Stora V\u00e4gen 38 Dala-floda",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Timr\u00e5",
+        "Adress": "K\u00f6pmangatan 51",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "\u00c5sele",
+        "Adress": "Umev\u00e4gen 5",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Malm\u00f6",
+        "Adress": "Lorensborgsgatan 1",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Gagnef",
+        "Adress": "Stora V\u00e4gen 38 Dala-floda",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Bolln\u00e4s",
+        "Adress": "Framn\u00e4sv\u00e4gen 1",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Link\u00f6ping",
+        "Adress": "J\u00e4rdalav\u00e4gen",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Stockholm",
+        "Adress": "Farsta: Havs\u00f6rnsv\u00e4gen 2 / Fagersj\u00f6",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "G\u00f6teborg",
+        "Adress": "Tingstadsmotet: E6 / GP-huset ",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "G\u00f6teborg",
+        "Adress": "Gamlestadsv\u00e4gen",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "G\u00f6teborg",
+        "Adress": "alivallsgatan",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "G\u00f6teborg",
+        "Adress": "Polstj\u00e4rnegatan 9 / Lindholmen",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Borl\u00e4nge",
+        "Adress": "Nyg\u00e5rdsv\u00e4gen 17",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Halmstad",
+        "Adress": "Gr\u00f6nev\u00e5ngsv\u00e4gen 4",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Karlshamn",
+        "Adress": "S\u00f6lvesborgsv\u00e4gen 35",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Bor\u00e5s",
+        "Adress": "Skalle Fristad Rv42",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "H\u00f6\u00f6r",
+        "Adress": "Ringsj\u00f6v\u00e4gen",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Vara",
+        "Adress": "Kungsgatan 35",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Nacka",
+        "Adress": "V\u00e4rmd\u00f6v\u00e4gen 158",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Skurup",
+        "Adress": "Femkorset / Svaneholmsv\u00e4gen 4",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Timr\u00e5",
+        "Adress": "K\u00f6pmangatan 51",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "\u00c5sele",
+        "Adress": "Umev\u00e4gen 5",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Malm\u00f6",
+        "Adress": "Lorensborgsgatan 1",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Gagnef",
+        "Adress": "Stora V\u00e4gen 38 Dala-floda",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Bolln\u00e4s",
+        "Adress": "Framn\u00e4sv\u00e4gen 1",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Link\u00f6ping",
+        "Adress": "J\u00e4rdalav\u00e4gen",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "V\u00e4nersborg",
+        "Adress": "Djupedalsv\u00e4gen 1",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Varberg",
+        "Adress": "Lassabacka",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Huddinge",
+        "Adress": "V\u00e5rby: Kungens Kurvaleden 1-3 / Lindvreten",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "G\u00f6teborg",
+        "Adress": "Grafiska v\u00e4gen 2",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Sala",
+        "Adress": "V\u00e4sbygatan 6",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Bor\u00e5s",
+        "Adress": "G\u00e5nghestersv\u00e4gen 134",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "J\u00e4rf\u00e4lla",
+        "Adress": "Plogv\u00e4gen 1 J\u00e4rf\u00e4lla",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Halmstad",
+        "Adress": "Sperlingsholmsv\u00e4gen 20",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Halmstad",
+        "Adress": "Olofsdalsv\u00e4gen 39 / Flygstaden",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Karlskoga",
+        "Adress": "V\u00e4rmlandsv\u00e4gen 27",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Lidk\u00f6ping",
+        "Adress": "Wennerbergsv\u00e4gen 29",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Malm\u00f6",
+        "Adress": "Agnesfridsv\u00e4gen 115",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Nyk\u00f6ping",
+        "Adress": "Lennings v\u00e4g",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Sk\u00f6vde",
+        "Adress": "Gustav Adolfsgatan 59",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Stockholm",
+        "Adress": "\u00c4lvsj\u00f6: Gamla huddingev\u00e4gen 498",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Uddevalla",
+        "Adress": "Sl\u00e4ngom",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Mark",
+        "Adress": "Klevag\u00e5rdsgatan Skene",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "G\u00f6teborg",
+        "Adress": "Grafiska v\u00e4gen 2",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Sala",
+        "Adress": "V\u00e4sbygatan 6",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Bor\u00e5s",
+        "Adress": "G\u00e5nghestersv\u00e4gen 134",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "J\u00e4rf\u00e4lla",
+        "Adress": "Plogv\u00e4gen 1 J\u00e4rf\u00e4lla",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Halmstad",
+        "Adress": "Sperlingsholmsv\u00e4gen 20",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Halmstad",
+        "Adress": "Olofsdalsv\u00e4gen 39 / Flygstaden",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Karlskoga",
+        "Adress": "V\u00e4rmlandsv\u00e4gen 27",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Lidk\u00f6ping",
+        "Adress": "Wennerbergsv\u00e4gen 29",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Malm\u00f6",
+        "Adress": "Agnesfridsv\u00e4gen 115",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Nyk\u00f6ping",
+        "Adress": "Lennings v\u00e4g",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Sk\u00f6vde",
+        "Adress": "Gustav Adolfsgatan 59",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Stockholm",
+        "Adress": "\u00c4lvsj\u00f6: Gamla huddingev\u00e4gen 498",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Uddevalla",
+        "Adress": "Sl\u00e4ngom",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Mark",
+        "Adress": "Klevag\u00e5rdsgatan Skene",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Mark",
+        "Adress": "Klevag\u00e5rdsgatan Skene",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "\u00d6rebro",
+        "Adress": "Bettorpsgatan",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Eksj\u00f6",
+        "Adress": "Pumpgatan 3",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Motala",
+        "Adress": "H\u00f6kartorget 29",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Stockholm",
+        "Adress": "Esbogatan / Hanstav\u00e4gen /Tammerforsgatan",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "H\u00e4rryda",
+        "Adress": "K\u00e4llarbacken",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Ragunda",
+        "Adress": "Sundsvallsv\u00e4gen 1",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Falkenberg",
+        "Adress": "Brogatan 33 Vessigebro",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Hallsberg",
+        "Adress": "L\u00e5nggatan 50",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "G\u00f6teborg",
+        "Adress": "Hj\u00e4llbov\u00e4gen 1 Angered",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Kristianstad",
+        "Adress": "E22 Tollarp / Kungsv\u00e4gen 62",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Lax\u00e5",
+        "Adress": "Midsommarberget",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Lilla",
+        "Adress": "Edet L\u00f6d\u00f6se",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Link\u00f6ping",
+        "Adress": "\u00c5tvidabergsv\u00e4gen",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Hallstahammar",
+        "Adress": "V\u00e4ster\u00e5sv\u00e4gen 2",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "H\u00e4ssleholm",
+        "Adress": "Helsingborgsv\u00e4gen 13",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Karlskrona",
+        "Adress": "Lallerstedts gata",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Malm\u00f6",
+        "Adress": "Lundav\u00e4gen 94",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Nyn\u00e4shamn",
+        "Adress": "Nyn\u00e4sv\u00e4gen 59",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Staffanstorp",
+        "Adress": "\u00d6nsvala All\u00e9 3",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Haninge",
+        "Adress": "R\u00f6rv\u00e4gen 2",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Ume\u00e5",
+        "Adress": "Carlshem",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "V\u00e4ster\u00e5s",
+        "Adress": "Gjutj\u00e4rnsgatan 2",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Borgholm",
+        "Adress": "Storgatan 45 38734 Borgholm",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Flen",
+        "Adress": "Malmk\u00f6ping: Furugatan 20 / Landsv\u00e4gsgatan",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Motala",
+        "Adress": "H\u00f6kartorget 29",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Stockholm",
+        "Adress": "Esbogatan / Hanstav\u00e4gen /Tammerforsgatan",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Sunne",
+        "Adress": "Ekebyv\u00e4gen 6",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Sunne",
+        "Adress": "Ekebyv\u00e4gen 6",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Lindesberg",
+        "Adress": "Guldsmedshyttan: Solv\u00e4gen 4",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Mark",
+        "Adress": "Horred: Varbergsv\u00e4gen 410",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Link\u00f6ping",
+        "Adress": "H\u00f6gdalsgatan 1",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Klippan",
+        "Adress": "Vedbyv\u00e4gen 35",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Osby",
+        "Adress": "L\u00f6nsboda",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "\u00d6stersund",
+        "Adress": "Fr\u00f6s\u00f6: Mj\u00e4llev\u00e4gen 1",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Kristianstad",
+        "Adress": "Nordanv\u00e4gen 4 \u00c5hus",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Katrineholm",
+        "Adress": "Vasav\u00e4gen 6",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Arboga",
+        "Adress": "Burskapsv\u00e4gen 1a",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Varberg",
+        "Adress": "Fastarpsv\u00e4gen 20 tv\u00e5\u00e5ker",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Sollentuna",
+        "Adress": "M\u00e4larv\u00e4gen 1",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "G\u00f6teborg",
+        "Adress": "vagnmakaregatan",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "G\u00f6teborg",
+        "Adress": "Topasgatan 3",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Mariestad",
+        "Adress": "Stockholmsv\u00e4gen",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "G\u00e4vle",
+        "Adress": "Str\u00f6msbrov\u00e4gen 22",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Eskilstuna",
+        "Adress": "Nystrandsgatan",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Helsingborg",
+        "Adress": "Skaragatan / Filbornav\u00e4gen",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Karlstad",
+        "Adress": "Ramgatan 2A / V\u00e5xn\u00e4s",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Malm\u00f6",
+        "Adress": "Toftan\u00e4s: Terminalgatan 1 / Arl\u00f6v",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Link\u00f6ping",
+        "Adress": "Industrigatan 52",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Malm\u00f6",
+        "Adress": "Pildammsv\u00e4gen",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "N\u00e4ssj\u00f6",
+        "Adress": "R\u00e5dhusgatan 47",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Stenungsund",
+        "Adress": "Hj\u00e4lmarev\u00e4gen",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Nacka",
+        "Adress": "Skvaltans v\u00e4g 11",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Haninge",
+        "Adress": "Mark\u00f6rgatan 12",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "V\u00e4ster\u00e5s",
+        "Adress": "Str\u00f6mledningsgatan 6",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Skellefte\u00e5",
+        "Adress": "Varugatan 28 93124 Skellefte\u00e5",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Skellefte\u00e5",
+        "Adress": "Varugatan 28 93124 Skellefte\u00e5",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Norrk\u00f6ping",
+        "Adress": "Lidaleden 16 / Hageby Centrum",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Sunne",
+        "Adress": "EKEBYV\u00c4GEN 6 68635, SUNNE",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Uppsala",
+        "Adress": "Stenhagen / Fyrisparkv\u00e4gen 1",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Hylte",
+        "Adress": "Gamla Nissastigen 38",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "\u00c5storp",
+        "Adress": "Ormastorpsgatan 49 26536 \u00c5storp",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "H\u00f6\u00f6r",
+        "Adress": "S\u00f6dergatan 2",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Avesta",
+        "Adress": "H\u00f6gbostigen 1",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "J\u00f6nk\u00f6ping",
+        "Adress": "H\u00e4sthovsv\u00e4gen",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Askersund",
+        "Adress": "Parkgatan 3",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Gullsp\u00e5ng",
+        "Adress": "Mogatan 1",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "H\u00f6gsby",
+        "Adress": "Kyrkogatan",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Perstorp",
+        "Adress": "Stockholmsv\u00e4gen 2",
+        "Oktan": "Ja"
+    },
+    {
+        "Station": "Ingo",
+        "City": "Stockholm",
+        "Adress": "Duvbov\u00e4gen 170 Sp\u00e5nga",
         "Oktan": "Ja"
     }
 ]
