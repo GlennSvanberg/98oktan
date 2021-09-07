@@ -22,7 +22,7 @@
         <v-card color="secondary" dark>
           <v-card-title>Annons</v-card-title>
           <v-card-text>
-            Det här är en annons som inte genererar några intäkter alls :(
+            Det här är en annons som inte genererar några intäkter alls  
           </v-card-text>
         </v-card>
       </v-col>

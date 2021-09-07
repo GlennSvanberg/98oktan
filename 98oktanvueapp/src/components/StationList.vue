@@ -36,7 +36,7 @@ export default {
           sortable: true,
           value: "Station",
         },
-        { text: "Avstånd (km)", value: "City" },
+        { text: "Ort", value: "City" },
         { text: "Adress", value: "Adress" },
         { text: "98 Oktan", value: "Oktan" },
       ],

@@ -17,8 +17,8 @@
     </v-app-bar>
 
     <v-main class="primary lighten-3">
-      <GMapp />
       <WelcomeMessage />
+      <GoogleMap />
       <StationList />
     </v-main>
   </v-app>
@@ -27,16 +27,15 @@
 <script>
 import WelcomeMessage from "./components/WelcomeMessage";
 import StationList from "./components/StationList";
-import GMapp from "./components/GMapp.vue";
+import GoogleMap from "./components/GoogleMap.vue";
 
 export default {
   name: "App",
 
   components: {
-    GMapp,
+    GoogleMap,
     WelcomeMessage,
     StationList,
-    
   },
 
   data: () => ({
