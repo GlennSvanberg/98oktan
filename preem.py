@@ -22,9 +22,9 @@ items = res.find_elements_by_class_name("StationItem")
 for item in items:
     city = item.find_element_by_class_name("StationItem-header").text
     address = item.find_element_by_class_name("StationItem-address").text
-    print(city,address)
+    #print(city,address)
     source = url
-    station = {'Station': "Preem", 'City': city,
+    station = {'Station': "Preem", 'City': city.split(",")[0].strip(),
                 'Adress': address, "Oktan": "Ja", "Source": source}
 
     stations.append(station)
