@@ -24,15 +24,14 @@ driver.find_element_by_id("edit-eu-milesplus-98").click()
 driver.find_element_by_id("new-search").click()
 
 
-while True:
-    WebDriverWait(driver, 10).until(EC.visibility_of_element_located(
-        (By.CLASS_NAME, "search-result")))
-
-    results = driver.find_elements_by_class_name("search-result")
-
+def load_stations(results):
+    print("loadstations")
     for res in results:
+        WebDriverWait(driver, 20).until(EC.visibility_of_element_located(
+        (By.CLASS_NAME, "container-station-address")))
         address = res.find_element_by_class_name(
             "container-station-address").text
+
         address_rows = address.split(",")
 
         source = url
@@ -40,11 +39,30 @@ while True:
                    'Adress': address_rows[0].strip(), "Oktan": "Ja", "Source": source}
 
         stations.append(station)
+    print("done loading stations")
+count = 0
+while True:
 
     try:
-        driver.find_element_by_id("next-page").click()
-    except:
-        break
+        WebDriverWait(driver, 10).until(EC.visibility_of_element_located(
+            (By.CLASS_NAME, "search-result")))
+
+        load_stations(driver.find_elements_by_class_name("search-result"))
+        count = count + 1
+        print(count)
+        try:
+            driver.find_element_by_id("next-page").click()
+            WebDriverWait(driver, 20).until(EC.visibility_of_element_located(
+            (By.CLASS_NAME, "search-result")))
+            results = driver.find_elements_by_class_name("search-result")
+        except:
+            break
+
+    except Exception as e:
+        print(e)
+        
+    
+   
 
 
 f = open("circle_k.json", "w", encoding="utf-8")
