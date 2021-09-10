@@ -1,0 +1,23 @@
+[
+    {
+        "Station": "Preem",
+        "City": "G\u00f6teborg",
+        "Adress": "rantorget 1",
+        "Oktan": "Ja",
+        "Source": "https://www.preem.se/hitta-station#filters=f-1-3"
+    },
+    {
+        "Station": "Preem",
+        "City": "G\u00f6teborg",
+        "Adress": "lundby hamngata 1",
+        "Oktan": "Ja",
+        "Source": "https://www.preem.se/hitta-station#filters=f-1-3"
+    },
+    {
+        "Station": "Preem",
+        "City": "G\u00f6teborg",
+        "Adress": "slakthusgatan 10",
+        "Oktan": "Ja",
+        "Source": "https://www.preem.se/hitta-station#filters=f-1-3"
+    }
+]

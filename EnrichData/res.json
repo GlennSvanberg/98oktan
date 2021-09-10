@@ -1,0 +1,94 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "1",
+                    "short_name": "1",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Rantorget",
+                    "short_name": "Rantorget",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "G\u00e5rda",
+                    "short_name": "G\u00e5rda",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "G\u00f6teborg",
+                    "short_name": "G\u00f6teborg",
+                    "types": [
+                        "postal_town"
+                    ]
+                },
+                {
+                    "long_name": "V\u00e4stra G\u00f6talands l\u00e4n",
+                    "short_name": "V\u00e4stra G\u00f6talands l\u00e4n",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Sweden",
+                    "short_name": "SE",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "416 64",
+                    "short_name": "416 64",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Rantorget 1, 416 64 Gothenburg, Sweden",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 57.70941490000001,
+                        "lng": 11.9932332
+                    },
+                    "southwest": {
+                        "lat": 57.7083874,
+                        "lng": 11.9918095
+                    }
+                },
+                "location": {
+                    "lat": 57.7087521,
+                    "lng": 11.9923221
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 57.71025013029151,
+                        "lng": 11.9938703302915
+                    },
+                    "southwest": {
+                        "lat": 57.70755216970849,
+                        "lng": 11.9911723697085
+                    }
+                }
+            },
+            "place_id": "ChIJlbCfcH_zT0YRCpZs9v6VUvs",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "status": "OK"
+}
