@@ -20,10 +20,11 @@
           <v-divider></v-divider>
 
           <v-card-actions>
-            <v-btn color="primary" text @click="navigate(station)">
+            <v-btn color="primary" text :href="`${navigate(station)}`">
               Navigera hit
             </v-btn>
             <v-spacer></v-spacer>
+
             <v-btn color="primary" text @click="dialog = false"> Stäng </v-btn>
           </v-card-actions>
         </v-card>
@@ -103,7 +104,11 @@ export default {
   methods: {
     navigate(station) {
       console.log(station.formatted_address);
-      this.dialog = false;
+      const base_url = "https://www.google.com/maps/dir/?api=1";
+      const encoded_address = encodeURIComponent(station.formatted_address);
+      const address_query = "&destination=" + encoded_address;
+      const nav = "&dir_action=navigate";
+      return base_url + address_query + nav;
     },
     showStation(station) {
       this.station = station;
