@@ -3,7 +3,7 @@
         "station": "Preem",
         "short_address": "G\u00f6teborg",
         "formatted_address": "Rantorget 1, 416 64 Gothenburg, Sweden",
-        "location": {
+        "position": {
             "lat": 57.7087521,
             "lng": 11.9923221
         },
@@ -15,7 +15,7 @@
         "station": "OKQ8",
         "short_address": "G\u00f6teborg",
         "formatted_address": "Blåbärsbusken 4, 416 35 Gothenburg, Sweden",
-        "location": {
+        "position": {
             "lat": 57.7583521,
             "lng": 11.9923221
         },

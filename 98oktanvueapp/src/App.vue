@@ -19,6 +19,7 @@
     <v-main class="primary lighten-3">
       <WelcomeMessage />
       <GoogleMap />
+      <StationList />
     </v-main>
   </v-app>
 </template>
@@ -26,6 +27,7 @@
 <script>
 import WelcomeMessage from "./components/WelcomeMessage";
 import GoogleMap from "./components/GoogleMap.vue";
+import StationList from "./components/StationList.vue";
 
 export default {
   name: "App",
@@ -33,6 +35,7 @@ export default {
   components: {
     GoogleMap,
     WelcomeMessage,
+    StationList,
   },
 
   data: () => ({

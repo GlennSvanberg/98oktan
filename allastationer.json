@@ -7390,5 +7390,733 @@
         "Adress": "kraftv\u00e4gen 3",
         "Oktan": "Ja",
         "Source": "https://www.preem.se/hitta-station#filters=f-1-3"
+    },
+    {
+        "Station": "Shell",
+        "City": "G\u00f6teborg",
+        "Adress": "Karl Johansgatan 77\n41455 G\u00d6TEBORG",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-goteborg-karl-johansg"
+    },
+    {
+        "Station": "Shell",
+        "City": "Arl\u00f6v",
+        "Adress": "Arl\u00f6vsv\u00e4gen 36\n23235 ARL\u00d6V",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-arlov"
+    },
+    {
+        "Station": "Shell",
+        "City": "Sundsvall",
+        "Adress": "Bergsgatan 114\n85350 SUNDSVALL",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-sundsvall-bergsg"
+    },
+    {
+        "Station": "Shell",
+        "City": "Kumla",
+        "Adress": "V\u00e4stra Drottninggatan 62\n69233 KUMLA",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-kumla"
+    },
+    {
+        "Station": "Shell",
+        "City": "Gislaved",
+        "Adress": "Norra Storgatan 20\n33230 GISLAVED",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-gislaved"
+    },
+    {
+        "Station": "Shell",
+        "City": "G\u00f6teborg",
+        "Adress": "M\u00f6lndalsv\u00e4gen 75\n41263 G\u00d6TEBORG",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-goteborg-molndalsvagen"
+    },
+    {
+        "Station": "Shell",
+        "City": "Hamr\u00e5ngefj\u00e4rden",
+        "Adress": "Ockelbov\u00e4gen 38\n81793 HAMR\u00c5NGEFJ\u00c4RDEN",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-hamrangefjarden"
+    },
+    {
+        "Station": "Shell",
+        "City": "B\u00e5lsta",
+        "Adress": "Kraftleden 2\n74652 B\u00c5LSTA",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-balsta"
+    },
+    {
+        "Station": "Shell",
+        "City": "H\u00e4gersten",
+        "Adress": "H\u00e4gerstensv\u00e4gen 93\n12649 H\u00c4GERSTEN",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-hagersten"
+    },
+    {
+        "Station": "Shell",
+        "City": "Herrbeta",
+        "Adress": "Herrbeta Rastplatsen 2\n58563 LINGHEM",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-herrbeta-sg"
+    },
+    {
+        "Station": "Shell",
+        "City": "Upplands",
+        "Adress": "E4 Norr\n19491 UPPLANDS V\u00c4SBY",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-upplands-vasby-e4-norr"
+    },
+    {
+        "Station": "Shell",
+        "City": "Kista",
+        "Adress": "Danmarksgatan 54\n16440 KISTA",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-kista"
+    },
+    {
+        "Station": "Shell",
+        "City": "Avesta",
+        "Adress": "Get Johannas V\u00e4g 33\n77461 AVESTA",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-avesta"
+    },
+    {
+        "Station": "Shell",
+        "City": "Johanneshov",
+        "Adress": "Arenav\u00e4gen 85\n12177 JOHANNESHOV",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-johanneshov"
+    },
+    {
+        "Station": "Shell",
+        "City": "Nyk\u00f6pingsbro",
+        "Adress": "Nyk\u00f6pingsbro\n61195 NYK\u00d6PING",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-nykopingsbro-norr"
+    },
+    {
+        "Station": "Shell",
+        "City": "Arvika",
+        "Adress": "\u00c5kargatan 6\n67134 ARVIKA",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-arvika"
+    },
+    {
+        "Station": "Shell",
+        "City": "Borl\u00e4nge",
+        "Adress": "Ritaregatan 2\n78170 BORL\u00c4NGE",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-borlange-ritarg"
+    },
+    {
+        "Station": "Shell",
+        "City": "Herrbeta",
+        "Adress": "Herrbeta Rastplatsen 3\n58563 LINGHEM",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-herrbeta-ng"
+    },
+    {
+        "Station": "Shell",
+        "City": "S\u00e4r\u00f6",
+        "Adress": "Furubergsv\u00e4gen 1\n42941 S\u00c4R\u00d6",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-saro"
+    },
+    {
+        "Station": "Shell",
+        "City": "Helsingborg",
+        "Adress": "Rusth\u00e5llsgatan 47\n25361 HELSINGBORG",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-helsingborg-rusthallsg"
+    },
+    {
+        "Station": "Shell",
+        "City": "Ropsten",
+        "Adress": "Ropstensslingan 10\n11542 STOCKHOLM",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-ropsten"
+    },
+    {
+        "Station": "Shell",
+        "City": "Askersund",
+        "Adress": "KLockarebacken\n69630 ASKERSUND",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-askersund"
+    },
+    {
+        "Station": "Shell",
+        "City": "Nyk\u00f6pingsbro",
+        "Adress": "Nyk\u00f6pingsbro\n61195 NYK\u00d6PING",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-nykopingsbro-soder"
+    },
+    {
+        "Station": "Shell",
+        "City": "Sandsj\u00f6backa",
+        "Adress": "Sandsj\u00f6backamotet\n43793 LINDOME",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-sandsjobacka-vast"
+    },
+    {
+        "Station": "Shell",
+        "City": "Norsborg",
+        "Adress": "F\u00e5gelviksv\u00e4gen 2\n14553 NORSBORG",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-norsborg-fagelviksvagen"
+    },
+    {
+        "Station": "Shell",
+        "City": "G\u00f6teborg",
+        "Adress": "Djurg\u00e5rdsplatsen 2\n41464 G\u00d6TEBORG",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-goteborg-djurgardsplatsen"
+    },
+    {
+        "Station": "Shell",
+        "City": "J\u00f6nk\u00f6ping",
+        "Adress": "Thorsviksv\u00e4gen 102\n55650 J\u00d6NK\u00d6PING",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-jonkoping-torsvik"
+    },
+    {
+        "Station": "Shell",
+        "City": "Partille",
+        "Adress": "Gamla Kronv\u00e4gen 1\n43333 PARTILLE",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-partille"
+    },
+    {
+        "Station": "Shell",
+        "City": "Stenungsund",
+        "Adress": "Yttre Ringleden 7\n44432 STENUNGSUND",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-stenungsund"
+    },
+    {
+        "Station": "Shell",
+        "City": "Norrk\u00f6ping",
+        "Adress": "Hagagatan 10\n60215 NORRK\u00d6PING",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-norrkoping-hagag"
+    },
+    {
+        "Station": "Shell",
+        "City": "Norsborg",
+        "Adress": "Sankt Botvids V\u00e4g 3\n14565 NORSBORG",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-norsborg"
+    },
+    {
+        "Station": "Shell",
+        "City": "Trollh\u00e4ttan",
+        "Adress": "G\u00e4rdhemsv\u00e4gen 25\n46132 TROLLH\u00c4TTAN",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-trollhattan"
+    },
+    {
+        "Station": "Shell",
+        "City": "Str\u00f6msn\u00e4sbruk",
+        "Adress": "Hinnerydsv\u00e4gen 45\n28734 STR\u00d6MSN\u00c4SBRUK",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-stromsnasbruk"
+    },
+    {
+        "Station": "Shell",
+        "City": "Trelleborg",
+        "Adress": "Strandgatan 3\n23142 TRELLEBORG",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-trelleborg"
+    },
+    {
+        "Station": "Shell",
+        "City": "\u00c5storp",
+        "Adress": "Turistgatan 14\n26539 \u00c5STORP",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-astorp"
+    },
+    {
+        "Station": "Shell",
+        "City": "J\u00f6nk\u00f6ping",
+        "Adress": "Sjukhusgatan 6\n55305 J\u00d6NK\u00d6PING",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-jonkoping-sjukhusg-a6"
+    },
+    {
+        "Station": "Shell",
+        "City": "Falkenberg",
+        "Adress": "Skrea 701\n31197 FALKENBERG",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-falkenberg-skreamotet"
+    },
+    {
+        "Station": "Shell",
+        "City": "Upplands",
+        "Adress": "E4 S\u00f6der\n19491 UPPLANDS V\u00c4SBY",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-upplands-vasby-e4-soder"
+    },
+    {
+        "Station": "Shell",
+        "City": "S\u00f6dert\u00e4lje",
+        "Adress": "Bergaholmsv\u00e4gen 2\n15242 S\u00d6DERT\u00c4LJE",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-sodertalje-bergaholmsvagen"
+    },
+    {
+        "Station": "Shell",
+        "City": "Sandsj\u00f6backa",
+        "Adress": "Sandsj\u00f6backamotet\n43793 LINDOME",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-sandsjobacka-ost"
+    },
+    {
+        "Station": "Shell",
+        "City": "Oskarshamn",
+        "Adress": "S\u00f6dra Fabriksgatan 2\n57231 OSKARSHAMN",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-oskarshamn"
+    },
+    {
+        "Station": "Shell",
+        "City": "Ljungskile",
+        "Adress": "Ulvesundsv\u00e4gen 7\n45993 LJUNGSKILE",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-ljungskile"
+    },
+    {
+        "Station": "Shell",
+        "City": "Varberg",
+        "Adress": "Birger Svenssons v\u00e4g 15\n43240 VARBERG",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-varberg"
+    },
+    {
+        "Station": "Shell",
+        "City": "Limhamn",
+        "Adress": "Hyllie Kyrkov\u00e4g 45\n21616 LIMHAMN",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-limhamn"
+    },
+    {
+        "Station": "Shell",
+        "City": "Uppsala",
+        "Adress": "Vaksalagatan 85\n75331 UPPSALA",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-uppsala-vaksalag"
+    },
+    {
+        "Station": "Shell",
+        "City": "V\u00e4stra",
+        "Adress": "Lerg\u00f6ksgatan 2\n42150 V\u00c4STRA FR\u00d6LUNDA",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-vastra-frolunda"
+    },
+    {
+        "Station": "Shell",
+        "City": "V\u00e4llingby",
+        "Adress": "Bergslagsv\u00e4gen 394\n16260 V\u00c4LLINGBY",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-vallingby"
+    },
+    {
+        "Station": "Shell",
+        "City": "Uppsala",
+        "Adress": "Danmarksgatan 34 B\n75323 UPPSALA",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-uppsala-danmarksg"
+    },
+    {
+        "Station": "Shell",
+        "City": "L\u00f6ddek\u00f6pinge",
+        "Adress": "Marknadsv\u00e4gen 1\n24642 L\u00d6DDEK\u00d6PINGE",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-loddekopinge"
+    },
+    {
+        "Station": "Shell",
+        "City": "Lindhagensplan",
+        "Adress": "Lindhagensplan 60\n11243 STOCKHOLM",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-lindhagensplan"
+    },
+    {
+        "Station": "Shell",
+        "City": "Uddevalla",
+        "Adress": "Nordmanner\u00f6dsv\u00e4gen 1\n45155 UDDEVALLA",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-uddevalla"
+    },
+    {
+        "Station": "Shell",
+        "City": "V\u00e4nersborg",
+        "Adress": "Gropbov\u00e4gen 2\n46256 V\u00c4NERSBORG",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-vanersborg"
+    },
+    {
+        "Station": "Shell",
+        "City": "Malm\u00f6",
+        "Adress": "Holmav\u00e5ngsv\u00e4gen 2\n21526 MALM\u00d6",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-malmo-holmavangsvagen"
+    },
+    {
+        "Station": "Shell",
+        "City": "Mariestad",
+        "Adress": "Hassler\u00f6r 1\n54292 MARIESTAD",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-mariestad-hassleror"
+    },
+    {
+        "Station": "Shell",
+        "City": "Fj\u00e4r\u00e5s",
+        "Adress": "Varbergsv\u00e4gen 751\n43974 FJ\u00c4R\u00c5S",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-fjaras"
+    },
+    {
+        "Station": "Shell",
+        "City": "S\u00f6derk\u00f6ping",
+        "Adress": "Ringv\u00e4gen 47\n61431 S\u00d6DERK\u00d6PING",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-soderkoping"
+    },
+    {
+        "Station": "Shell",
+        "City": "Huddinge",
+        "Adress": "Kommunalv\u00e4gen 7\n14147 HUDDINGE",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-huddinge"
+    },
+    {
+        "Station": "Shell",
+        "City": "Mora",
+        "Adress": "Vasagatan 16\n79232 MORA",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-mora"
+    },
+    {
+        "Station": "Shell",
+        "City": "J\u00f6nk\u00f6ping",
+        "Adress": "Barnarpsgatan 45\n55333 J\u00d6NK\u00d6PING",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-jonkoping-barnarpsg"
+    },
+    {
+        "Station": "Shell",
+        "City": "Lerum",
+        "Adress": "Kolborydsv\u00e4gen 2\n44351 LERUM",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-lerum"
+    },
+    {
+        "Station": "Shell",
+        "City": "T\u00e4by",
+        "Adress": "Centralv\u00e4gen 62\n18371 T\u00c4BY",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-taby-motorvagen"
+    },
+    {
+        "Station": "Shell",
+        "City": "Motala",
+        "Adress": "S\u00f6dra All\u00e9n 3\n59137 MOTALA",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-motala"
+    },
+    {
+        "Station": "Shell",
+        "City": "Borl\u00e4nge",
+        "Adress": "Hugo Hedstr\u00f6ms v\u00e4g 2\n78172 BORL\u00c4NGE",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-borlange-tunabro"
+    },
+    {
+        "Station": "Shell",
+        "City": "Lidk\u00f6ping",
+        "Adress": "L\u00e4ck\u00f6gatan 14\n53130 LIDK\u00d6PING",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-lidkoping"
+    },
+    {
+        "Station": "Shell",
+        "City": "Karlstad",
+        "Adress": "\u00d6stra Infarten 1\n65461 KARLSTAD",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-karlstad-ostra-infarten"
+    },
+    {
+        "Station": "Shell",
+        "City": "Askim",
+        "Adress": "V\u00e4rslev\u00e4gen 2\n43642 ASKIM",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-askim-varslevagen"
+    },
+    {
+        "Station": "Shell",
+        "City": "Helsingborg",
+        "Adress": "Regementsv\u00e4gen 11\n25457 HELSINGBORG",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-helsingborg-regementsv"
+    },
+    {
+        "Station": "Shell",
+        "City": "Lund",
+        "Adress": "F\u00f6rhandlingsv\u00e4gen 2 A\n22761 LUND",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-lund-forhandlingsv"
+    },
+    {
+        "Station": "Shell",
+        "City": "Sundsvall",
+        "Adress": "Hagav\u00e4gen 76\n85644 SUNDSVALL",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-sundsvall-hagav"
+    },
+    {
+        "Station": "Shell",
+        "City": "Listerby",
+        "Adress": "Byv\u00e4gen 1\n37274 LISTERBY",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-listerby"
+    },
+    {
+        "Station": "Shell",
+        "City": "M\u00f6lnlycke",
+        "Adress": "Metallv\u00e4gen 1\n43533 M\u00d6LNLYCKE",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-molnlycke"
+    },
+    {
+        "Station": "Shell",
+        "City": "Karlskrona",
+        "Adress": "Vedeby Gata 1\n37149 KARLSKRONA",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-karlskrona"
+    },
+    {
+        "Station": "Shell",
+        "City": "Sp\u00e5nga",
+        "Adress": "Sp\u00e5ngav\u00e4gen 402\n16355 SP\u00c5NGA",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-spanga"
+    },
+    {
+        "Station": "Shell",
+        "City": "Bottnaryd",
+        "Adress": "\u00d6stra Svinhult 50\n56597 BOTTNARYD",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-bottnaryd-vastra-jara"
+    },
+    {
+        "Station": "Shell",
+        "City": "Uppsala",
+        "Adress": "Kvarnbolund 8\n75592 UPPSALA",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-uppsala-kvarnbolund"
+    },
+    {
+        "Station": "Shell",
+        "City": "Katrineholm",
+        "Adress": "Vasav\u00e4gen 8\n64131 KATRINEHOLM",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-katrineholm"
+    },
+    {
+        "Station": "Shell",
+        "City": "Sk\u00f6vde",
+        "Adress": "Falk\u00f6pingsv\u00e4gen 1\n54152 SK\u00d6VDE",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-skovde"
+    },
+    {
+        "Station": "Shell",
+        "City": "V\u00e4stervik",
+        "Adress": "Stora Tr\u00e4dg\u00e5rdsgatan 1\n59335 V\u00c4STERVIK",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-vastervik"
+    },
+    {
+        "Station": "Shell",
+        "City": "Link\u00f6ping",
+        "Adress": "Kylarv\u00e4gen 2\n58723 LINK\u00d6PING",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-linkoping-kylarv"
+    },
+    {
+        "Station": "Shell",
+        "City": "Sollentuna",
+        "Adress": "Rudbecksv\u00e4gen 141\n19251 SOLLENTUNA",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-sollentuna-edsberg"
+    },
+    {
+        "Station": "Shell",
+        "City": "Falkenberg",
+        "Adress": "Arvidstorpsv\u00e4gen 47\n31139 FALKENBERG",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-falkenberg-arvidstorpsv"
+    },
+    {
+        "Station": "Shell",
+        "City": "Norrk\u00f6ping",
+        "Adress": "Boktryckaregatan 2\n60223 NORRK\u00d6PING",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-norrkoping-boktryckareg"
+    },
+    {
+        "Station": "Shell",
+        "City": "V\u00e4ster\u00e5s",
+        "Adress": "Arosv\u00e4gen 43\n72217 V\u00c4STER\u00c5S",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-vasteras-arosvagen-43"
+    },
+    {
+        "Station": "Shell",
+        "City": "Huskvarna",
+        "Adress": "H\u00e4radsv\u00e4gen 49\n56143 HUSKVARNA",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-huskvarna"
+    },
+    {
+        "Station": "Shell",
+        "City": "\u00c5tvidaberg",
+        "Adress": "F\u00e5gels\u00e5ngsv\u00e4gen 1\n59753 \u00c5TVIDABERG",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-atvidaberg"
+    },
+    {
+        "Station": "Shell",
+        "City": "Halmstad",
+        "Adress": "Laholmsv\u00e4gen 80\n30250 HALMSTAD",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-halmstad-laholmsv"
+    },
+    {
+        "Station": "Shell",
+        "City": "Sollentuna",
+        "Adress": "kanalv\u00e4gen 67\n19134 SOLLENTUNA",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-sollentuna-kanalvagen"
+    },
+    {
+        "Station": "Shell",
+        "City": "\u00c4ngelholm",
+        "Adress": "Klippanv\u00e4gen 14\n26271 \u00c4NGELHOLM",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-angelholm"
+    },
+    {
+        "Station": "Shell",
+        "City": "Sundsvall",
+        "Adress": "Kolv\u00e4gen 2\n85238 SUNDSVALL",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-sundsvall-kolvagen"
+    },
+    {
+        "Station": "Shell",
+        "City": "Link\u00f6ping",
+        "Adress": "Malmsl\u00e4ttsv\u00e4gen 9\n58246 LINK\u00d6PING",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-linkoping-malmslatt"
+    },
+    {
+        "Station": "Shell",
+        "City": "Enskede",
+        "Adress": "Grycksbov\u00e4gen 79\n12266 ENSKEDE",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-enskede-bandhagen"
+    },
+    {
+        "Station": "Shell",
+        "City": "Bromma",
+        "Adress": "Ulvsundav\u00e4gen 71\n16732 BROMMA",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-bromma-ulvsundav"
+    },
+    {
+        "Station": "Shell",
+        "City": "Landvetter",
+        "Adress": "H\u00e4rkeshultsv\u00e4gen 2\n43835 LANDVETTER",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-landvetter"
+    },
+    {
+        "Station": "Shell",
+        "City": "Kalmar",
+        "Adress": "Dahl\u00e9ngatan 7\n39238 KALMAR",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-kalmar"
+    },
+    {
+        "Station": "Shell",
+        "City": "Osby",
+        "Adress": "S\u00e5ggatan 2\n28341 OSBY",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-osby"
+    },
+    {
+        "Station": "Shell",
+        "City": "Nyn\u00e4shamn",
+        "Adress": "Centralgatan 93\n14940 NYN\u00c4SHAMN",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-nynashamn"
+    },
+    {
+        "Station": "Shell",
+        "City": "V\u00e4rmd\u00f6",
+        "Adress": "Sk\u00e4rg\u00e5rdsv\u00e4gen 204\n13935 V\u00c4RMD\u00d6",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-varmdo"
+    },
+    {
+        "Station": "Shell",
+        "City": "Lockarp",
+        "Adress": "Brons\u00e5ldersgatan 20\n21376 MALM\u00d6",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-lockarp"
+    },
+    {
+        "Station": "Shell",
+        "City": "Bor\u00e5s",
+        "Adress": "Viaredsv\u00e4gen 4\n50494 BOR\u00c5S",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-boras-viaredsv"
+    },
+    {
+        "Station": "Shell",
+        "City": "Sk\u00e4rblacka",
+        "Adress": "Bergslagsv\u00e4gen 20\n61721 SK\u00c4RBLACKA",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-skarblacka"
+    },
+    {
+        "Station": "Shell",
+        "City": "",
+        "Adress": "Varbergsv\u00e4gen 38\n50430 BOR\u00c5S",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-automat-boras-varbergsv"
+    },
+    {
+        "Station": "Shell",
+        "City": "",
+        "Adress": "Sanna\n71991 VINTROSA",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-automat-vintrosa"
+    },
+    {
+        "Station": "Shell",
+        "City": "Reftele",
+        "Adress": "Segerstadsv\u00e4gen 5\n33375 REFTELE",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-reftele"
+    },
+    {
+        "Station": "Shell",
+        "City": "\u00d6sterbybruk",
+        "Adress": "Dannemorav\u00e4gen 50\n74830 \u00d6STERBYBRUK",
+        "Oktan": "Ja",
+        "Source": "https://www.st1.se/hitta-station/shell-osterbybruk"
     }
 ]

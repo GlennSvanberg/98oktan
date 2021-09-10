@@ -2,7 +2,7 @@
   <v-container>
     <v-card color="primary" dark>
       <v-card-title class="headline">
-        Stationer med 98 oktan nära dig
+        Stationer med 98 oktan
         <v-spacer></v-spacer>
         <v-text-field
           v-model="search"

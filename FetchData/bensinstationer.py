@@ -1,18 +1,14 @@
 """
 OKQ8 / tanka 771 / 433 har 98  56 %
 https://www.okq8.se/pa-stationen/bensinstationer/
-// Karta ej lista
-
 CircleK funklar ej 
 https://www.circlek.se/station-search
-
-
 st1 280 stationer 0 98 oktan 
 https://www.st1.se/privat/kundservice/hitta-station
-
 Preem 319 /  157 98 oktan  49 % 
 https://www.preem.se/hitta-station
 // kartfunktion ej lista
+
 
 Ingo 291 / 58 st 98 oktan 19 % 
 https://www.ingo.se/station-search
@@ -20,7 +16,6 @@ https://www.ingo.se/station-search
 
 Shell 
 runt 10 st 98 oktan 
-
 https://www.shell.se/bensinstationer/hitta-shellstationer.html#iframe=Lz9sb2NhbGU9c3ZfU0UjL0A2Mi43OTg0LDYuNjQ5NDcsNXo
 
 

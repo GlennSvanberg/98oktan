@@ -1,7 +1,35 @@
 <template>
-  
   <v-container>
-    
+    <div class="text-center">
+      <v-dialog
+        transition="dialog-bottom-transition"
+        v-model="dialog"
+        max-width="800"
+      >
+        <v-card v-if="station != null">
+          <v-card-title class="text-h5 grey lighten-2">
+            {{ station.station }}, {{ station.short_address }}
+          </v-card-title>
+
+          <v-card-text>
+            <br />Adress:{{ station.formatted_address }} <br />98 Oktan:
+            {{ station.oktan }}<br />
+            <a v-bind:href="station.source">Källa</a>
+          </v-card-text>
+
+          <v-divider></v-divider>
+
+          <v-card-actions>
+            <v-btn color="primary" text @click="navigate(station)">
+              Navigera hit
+            </v-btn>
+            <v-spacer></v-spacer>
+            <v-btn color="primary" text @click="dialog = false"> Stäng </v-btn>
+          </v-card-actions>
+        </v-card>
+      </v-dialog>
+    </div>
+
     <v-card>
       <v-card-title class="headline">
         Sök plats
@@ -19,7 +47,6 @@
           <gmap-autocomplete @place_changed="initMarker"></gmap-autocomplete>
         </label>
         <br />
-
         <gmap-map
           :zoom="10"
           :center="center"
@@ -27,35 +54,13 @@
         >
           <gmap-marker
             :key="index"
-            v-for="(m, index) in locationMarkers"
-            :position="m.position"
-            @click="center = m.position"
+            v-for="(station, index) in stations"
+            :position="station.position"
+            @click="showStation(station)"
             :icon="markerOptions"
           ></gmap-marker>
         </gmap-map>
       </v-card-text>
-    </v-card>
-  <v-spacer/>
-    <v-card color="primary" dark>
-      <v-card-title class="headline">
-        Stationer med 98 oktan nära dig
-        <v-spacer></v-spacer>
-        <v-text-field
-          v-model="search"
-          append-icon="mdi-magnify"
-          label="Sök"
-          single-line
-          hide-details
-        ></v-text-field>
-      </v-card-title>
-      <v-data-table
-        :headers="headers"
-        :items="stations"
-        :items-per-page="25"
-        :search="search"
-        mobile-breakpoint="5"
-        light
-      ></v-data-table>
     </v-card>
   </v-container>
 </template>
@@ -64,9 +69,9 @@
 const mapMarker = require("../assets/logo.png");
 import stationFile from "./../assets/stations.json";
 export default {
-  name: "AddGoogleMap",
   data() {
     return {
+      dialog: false,
       search: "",
       headers: [
         {
@@ -89,24 +94,24 @@ export default {
         lat: 58.55519704544182,
         lng: 11.45177158556096,
       },
-      locationMarkers: [],
-      locPlaces: [],
+      markers: [],
       existingPlace: null,
+      station: null,
     };
   },
 
-  mounted() {
-    this.locateGeoLocation();
-    //this.locationMarkers.push({ position: okMarker });
-    this.stations.forEach(station => {
-      this.locationMarkers.push({position: station.location})
-    });
-  },
-
   methods: {
+    navigate(station) {
+      console.log(station.formatted_address);
+      this.dialog = false;
+    },
+    showStation(station) {
+      this.station = station;
+      this.dialog = true;
+      console.log(station.formatted_address);
+    },
     initMarker(loc) {
       this.existingPlace = loc;
-    
     },
     locateGeoLocation: function () {
       navigator.geolocation.getCurrentPosition((res) => {
@@ -116,6 +121,14 @@ export default {
         };
       });
     },
+  },
+  mounted() {
+    this.locateGeoLocation();
+    this.stations.forEach((station) => {
+      this.markers.push({
+        station,
+      });
+    });
   },
 };
 //OKQ8 Uddevalla 58.353525935703004, 11.916708812107629
