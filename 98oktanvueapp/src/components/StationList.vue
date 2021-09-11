@@ -1,27 +1,12 @@
 <template>
-  <v-container>
-    <v-card color="primary" dark>
-      <v-card-title class="headline">
-        Stationer med 98 oktan
-        <v-spacer></v-spacer>
-        <v-text-field
-          v-model="search"
-          append-icon="mdi-magnify"
-          label="Sök"
-          single-line
-          hide-details
-        ></v-text-field>
-      </v-card-title>
-      <v-data-table
-        :headers="headers"
-        :items="stations"
-        :items-per-page="25"
-        :search="search"
-        mobile-breakpoint="5"
-        light
-      ></v-data-table>
-    </v-card>
-  </v-container>
+  <v-data-table
+    :headers="headers"
+    :items="stations"
+    :items-per-page="25"
+    :search="search"
+    mobile-breakpoint="5"
+    light
+  ></v-data-table>
 </template>
 <script>
 import stationFile from "./../assets/stations.json";

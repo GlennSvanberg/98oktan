@@ -1,59 +1,35 @@
 <template>
-  <v-container>
-    <StationDetails v-model="dialog" :station="station" />
-    <v-card>
-      <v-card-title class="headline">
-        Sök plats
-        <v-spacer></v-spacer>
-        <v-text-field
-          v-model="search"
-          append-icon="mdi-magnify"
-          label="Sök"
-          single-line
-          hide-details
-        ></v-text-field>
-      </v-card-title>
-      <v-card-text>
-        <label>
-          <gmap-autocomplete @place_changed="initMarker"></gmap-autocomplete>
-        </label>
-        <br />
-        <gmap-map
-          :zoom="10"
-          :center="center"
-          style="width: 100%; height: 600px"
-          :options="{
-            zoomControl: true,
-            mapTypeControl: false,
-            scaleControl: false,
-            streetViewControl: false,
-            rotateControl: false,
-            fullscreenControl: true,
-            disableDefaultUi: true,
-          }"
-        >
-          <gmap-marker
-            :key="index"
-            v-for="(station, index) in stations"
-            :position="station.position"
-            @click="showStation(station)"
-            :icon="markerOptions"
-          ></gmap-marker>
-        </gmap-map>
-      </v-card-text>
-    </v-card>
-  </v-container>
+  <gmap-map
+    :zoom="10"
+    :center="center"
+    style="width: 100%; height: 600px"
+    :options="{
+      zoomControl: true,
+      mapTypeControl: false,
+      scaleControl: false,
+      streetViewControl: false,
+      rotateControl: false,
+      fullscreenControl: false,
+      disableDefaultUi: true,
+    }"
+  >
+    <gmap-marker
+      :key="index"
+      v-for="(station, index) in stations"
+      :position="station.position"
+      @click="showStation(station)"
+      :icon="markerOptions"
+    ></gmap-marker>
+  </gmap-map>
 </template>
  
 <script>
 const mapMarker = require("../assets/logo.png");
 import stationFile from "./../assets/stations.json";
-import StationDetails from "./StationDetails.vue";
 
 export default {
   data() {
     return {
-      dialog: false,
       search: "",
       headers: [
         {
@@ -81,9 +57,6 @@ export default {
       station: null,
     };
   },
-  components: {
-    StationDetails,
-  },
   methods: {
     navigate(station) {
       console.log(station.formatted_address);
@@ -97,6 +70,7 @@ export default {
     showStation(station) {
       this.station = station;
       this.dialog = true;
+      this.$emit("showStationDialog", this.station);
       console.log(station.formatted_address);
     },
     initMarker(loc) {

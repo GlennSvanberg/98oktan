@@ -18,24 +18,22 @@
 
     <v-main class="primary lighten-3">
       <WelcomeMessage />
-      <GoogleMap />
-      <StationList />
+      <TabComponent />
     </v-main>
   </v-app>
 </template>
 
 <script>
 import WelcomeMessage from "./components/WelcomeMessage";
-import GoogleMap from "./components/GoogleMap.vue";
-import StationList from "./components/StationList.vue";
+
+import TabComponent from "./components/TabComponent.vue";
 
 export default {
   name: "App",
 
   components: {
-    GoogleMap,
     WelcomeMessage,
-    StationList,
+    TabComponent,
   },
 
   data: () => ({
