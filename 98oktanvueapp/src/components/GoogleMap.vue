@@ -1,36 +1,6 @@
 <template>
   <v-container>
-    <div class="text-center">
-      <v-dialog
-        transition="dialog-bottom-transition"
-        v-model="dialog"
-        max-width="800"
-      >
-        <v-card v-if="station != null">
-          <v-card-title class="text-h5 grey lighten-2">
-            {{ station.station }}, {{ station.short_address }}
-          </v-card-title>
-
-          <v-card-text>
-            <br />Adress:{{ station.formatted_address }} <br />98 Oktan:
-            {{ station.oktan }}<br />
-            <a v-bind:href="station.source">Källa</a>
-          </v-card-text>
-
-          <v-divider></v-divider>
-
-          <v-card-actions>
-            <v-btn color="primary" text :href="`${navigate(station)}`">
-              Navigera hit
-            </v-btn>
-            <v-spacer></v-spacer>
-
-            <v-btn color="primary" text @click="dialog = false"> Stäng </v-btn>
-          </v-card-actions>
-        </v-card>
-      </v-dialog>
-    </div>
-
+    <StationDetails v-model="dialog" :station="station" />
     <v-card>
       <v-card-title class="headline">
         Sök plats
@@ -52,6 +22,15 @@
           :zoom="10"
           :center="center"
           style="width: 100%; height: 600px"
+          :options="{
+            zoomControl: true,
+            mapTypeControl: false,
+            scaleControl: false,
+            streetViewControl: false,
+            rotateControl: false,
+            fullscreenControl: true,
+            disableDefaultUi: true,
+          }"
         >
           <gmap-marker
             :key="index"
@@ -69,6 +48,8 @@
 <script>
 const mapMarker = require("../assets/logo.png");
 import stationFile from "./../assets/stations.json";
+import StationDetails from "./StationDetails.vue";
+
 export default {
   data() {
     return {
@@ -100,7 +81,9 @@ export default {
       station: null,
     };
   },
-
+  components: {
+    StationDetails,
+  },
   methods: {
     navigate(station) {
       console.log(station.formatted_address);
@@ -110,6 +93,7 @@ export default {
       const nav = "&dir_action=navigate";
       return base_url + address_query + nav;
     },
+
     showStation(station) {
       this.station = station;
       this.dialog = true;
