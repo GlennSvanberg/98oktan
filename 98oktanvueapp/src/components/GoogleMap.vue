@@ -3,6 +3,7 @@
     :zoom="10"
     :center="center"
     style="width: 100%; height: 600px"
+    ref="maps"
     :options="{
       zoomControl: true,
       mapTypeControl: false,
@@ -49,7 +50,7 @@ export default {
         scaledSize: { width: 30, height: 45, f: "px", b: "px" },
       },
       center: {
-        lat: 58.55519704544182,
+        lat: 57.55519704544182,
         lng: 11.45177158556096,
       },
       markers: [],
@@ -58,6 +59,10 @@ export default {
     };
   },
   methods: {
+    reCenterAt(pos) {
+      console.log("recentering:", pos);
+      this.center = pos;
+    },
     navigate(station) {
       console.log(station.formatted_address);
       const base_url = "https://www.google.com/maps/dir/?api=1";
@@ -69,8 +74,7 @@ export default {
 
     showStation(station) {
       this.station = station;
-      this.dialog = true;
-      this.$emit("showStationDialog", this.station);
+      this.$emit("showStationDetails", this.station);
       console.log(station.formatted_address);
     },
     initMarker(loc) {
