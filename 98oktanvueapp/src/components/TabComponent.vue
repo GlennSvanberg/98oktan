@@ -79,12 +79,17 @@ export default {
     goToLocation(pos) {
       const maps = this.$refs.maps.$refs.maps;
       maps.$mapPromise.then((map) => {
+        console.log(pos);
         map.panTo(pos);
       });
     },
     goToCurrentLocation() {
       navigator.geolocation.getCurrentPosition((res) => {
-        this.goToLocation(res);
+        console.log("res");
+        console.log(res.coords);
+        const pos = { lat: res.coords.latitude, lng: res.coords.longitude };
+        console.log(pos);
+        this.goToLocation(pos);
       });
     },
   },
