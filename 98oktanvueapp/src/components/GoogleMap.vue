@@ -54,7 +54,6 @@ export default {
         lng: 11.45177158556096,
       },
       markers: [],
-      existingPlace: null,
       station: null,
     };
   },
@@ -76,9 +75,6 @@ export default {
       this.station = station;
       this.$emit("showStationDetails", this.station);
       console.log(station.formatted_address);
-    },
-    initMarker(loc) {
-      this.existingPlace = loc;
     },
     locateGeoLocation: function () {
       navigator.geolocation.getCurrentPosition((res) => {
