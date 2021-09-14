@@ -33,6 +33,7 @@
           </v-tab-item>
           <v-tab-item key="list_tab"
             ><StationList
+              :searchPos="searchPos"
               @showStationDetails="showStationDetails"
               @showStationOnMap="showStationOnMap"
               :station="this.station"
@@ -50,6 +51,7 @@ import StationDetails from "./StationDetails.vue";
 export default {
   data() {
     return {
+      searchPos: "",
       tab: "map_tab",
       search: "",
       dialog: false,
@@ -77,11 +79,16 @@ export default {
       this.goToLocation(loc.geometry.location);
     },
     goToLocation(pos) {
+      // Set the list
+      this.searchPos = pos
+
+      // Set the map
       const maps = this.$refs.maps.$refs.maps;
       maps.$mapPromise.then((map) => {
         console.log(pos);
         map.panTo(pos);
       });
+      
     },
     goToCurrentLocation() {
       navigator.geolocation.getCurrentPosition((res) => {

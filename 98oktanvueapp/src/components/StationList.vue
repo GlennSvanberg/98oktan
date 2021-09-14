@@ -4,6 +4,8 @@
     :items="stations"
     :items-per-page="25"
     :search="search"
+    :sort-by.sync="sortBy"
+    :sort-desc.sync="sortDesc"
     mobile-breakpoint="5"
     light
     @click:row="handleClick"
@@ -23,6 +25,9 @@ import stationFile from "./../assets/stations.json";
 export default {
   data() {
     return {
+      sortBy: "Namn",
+      sortDesc:false,
+      pos:"",
       search: "",
       headers: [
         {
@@ -33,12 +38,23 @@ export default {
         },
         { text: "Ort", value: "short_address" },
         { text: "Adress", value: "formatted_address" },
-        { text: "98 Oktan", value: "oktan" },
+        { text: "Avstånd", value: "distance" },
         { text: "Karta", value: "actions", sortable: false },
+
       ],
       stations: stationFile,
     };
   },
+  props: ['searchPos'],
+  watch: { 
+    searchPos: function(newVal, oldVal) {
+      console.log("NEW;")
+      console.log(newVal)
+      console.log(oldVal)
+      this.sortByDistance(newVal)
+
+    }
+},
   methods: {
     handleClick(station) {
       console.log("Row clicked", station.station);
@@ -54,7 +70,20 @@ export default {
       console.log(station);
       this.$emit("showStationOnMap", station);
     },
-    distance(lat1, lon1, lat2, lon2, unit) {
+    sortByDistance(pos) {
+      this.pos = pos
+      console.log("POS:")
+      console.log(pos)
+
+      this.stations.forEach(s => {
+        console.log("Calculating")
+        console.log(s)
+        s.distance = Math.round(this.distance(pos.lat(),pos.lng(),s.position.lat,s.position.lng))
+        console.log(s.distance)
+        this.sortBy = "distance"
+      });
+    },
+    distance(lat1, lon1, lat2, lon2) {
       var radlat1 = (Math.PI * lat1) / 180;
       var radlat2 = (Math.PI * lat2) / 180;
       var theta = lon1 - lon2;
@@ -65,17 +94,14 @@ export default {
       if (dist > 1) {
         dist = 1;
       }
+      
       dist = Math.acos(dist);
       dist = (dist * 180) / Math.PI;
       dist = dist * 60 * 1.1515;
-      /*
-      if (unit == "K") {
-        dist = dist * 1.609344;
-      }
-      if (unit == "N") {
-        dist = dist * 0.8684;
-      }
-      */
+      
+      // Turn to Km
+      dist = dist * 1.609344;
+            
       return dist;
     },
   },

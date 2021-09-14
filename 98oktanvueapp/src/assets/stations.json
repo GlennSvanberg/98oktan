@@ -9,7 +9,8 @@
         },
         "place_id": "ChIJlbCfcH_zT0YRCpZs9v6VUvs",
         "oktan": "Ja",
-        "source": "https://www.preem.se/hitta-station#filters=f-1-3"
+        "source": "https://www.preem.se/hitta-station#filters=f-1-3",
+        "distance": 0
     },
     {
         "station": "OKQ8",
@@ -21,6 +22,7 @@
         },
         "place_id": "id",
         "oktan": "Ja",
-        "source": "https://www.preem.se/hitta-station#filters=f-1-3"
+        "source": "https://www.preem.se/hitta-station#filters=f-1-3",
+        "distance": 0
     }
 ]
