@@ -49,13 +49,13 @@ export default {
   watch: { 
   
     searchPos: function(newVal) {
-      this.sortByDistance(newVal)
+      this.sortByDistance({"lat":newVal.lat(), "lng":newVal.lng()})
 
     }
 },
 mounted:function() {
  if(this.searchPos){
-   this.sortByDistance(this.searchPos)
+   this.sortByDistance({"lat":this.searchPos.lat(), "lng":this.searchPos.lng()})
  }
 },
   methods: {
@@ -73,7 +73,7 @@ mounted:function() {
     sortByDistance(pos) {
       this.pos = pos
       this.stations.forEach(s => {
-        s.distance = Math.round(this.distance(pos.lat(),pos.lng(),s.position.lat,s.position.lng))
+        s.distance = Math.round(this.distance(pos.lat,pos.lng,s.position.lat,s.position.lng))
   
         this.sortBy = "distance"
       });
