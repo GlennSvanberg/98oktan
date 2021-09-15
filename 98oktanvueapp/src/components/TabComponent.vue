@@ -76,7 +76,7 @@ export default {
     },
     goToSearchLocation(loc) {
 
-      this.goToLocation(loc.geometry.location);
+      this.goToLocation({"lat":loc.geometry.location.lat(),"lng":loc.geometry.location.lng()});
     },
     goToLocation(pos) {
       // Set the list

@@ -49,13 +49,13 @@ export default {
   watch: { 
   
     searchPos: function(newVal) {
-      this.sortByDistance({"lat":newVal.lat(), "lng":newVal.lng()})
+      this.sortByDistance(newVal)
 
     }
 },
 mounted:function() {
  if(this.searchPos){
-   this.sortByDistance({"lat":this.searchPos.lat(), "lng":this.searchPos.lng()})
+   this.sortByDistance(this.searchPos)
  }
 },
   methods: {
