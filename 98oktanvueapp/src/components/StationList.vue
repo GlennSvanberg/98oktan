@@ -47,13 +47,16 @@ export default {
   },
   props: ['searchPos'],
   watch: { 
-    searchPos: function(newVal, oldVal) {
-      console.log("NEW;")
-      console.log(newVal)
-      console.log(oldVal)
+  
+    searchPos: function(newVal) {
       this.sortByDistance(newVal)
 
     }
+},
+mounted:function() {
+ if(this.searchPos){
+   this.sortByDistance(this.searchPos)
+ }
 },
   methods: {
     handleClick(station) {
@@ -62,24 +65,16 @@ export default {
       //this.$emit("showStationDetails", station);
     },
     showDetails(station) {
-      console.log(station);
       this.$emit("showStationDetails", station);
     },
     showOnMap(station) {
-      console.log("showOnMap");
-      console.log(station);
       this.$emit("showStationOnMap", station);
     },
     sortByDistance(pos) {
       this.pos = pos
-      console.log("POS:")
-      console.log(pos)
-
       this.stations.forEach(s => {
-        console.log("Calculating")
-        console.log(s)
         s.distance = Math.round(this.distance(pos.lat(),pos.lng(),s.position.lat,s.position.lng))
-        console.log(s.distance)
+  
         this.sortBy = "distance"
       });
     },

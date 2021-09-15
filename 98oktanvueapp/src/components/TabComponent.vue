@@ -22,7 +22,6 @@
           <v-tab key="map_tab">Karta</v-tab>
           <v-tab key="list_tab">Lista</v-tab>
         </v-tabs>
-
         <v-tabs-items v-model="tab" touchless>
           <v-tab-item key="map_tab">
             <GoogleMap
@@ -76,6 +75,7 @@ export default {
       this.tab = "map_tab";
     },
     goToSearchLocation(loc) {
+
       this.goToLocation(loc.geometry.location);
     },
     goToLocation(pos) {
@@ -85,17 +85,13 @@ export default {
       // Set the map
       const maps = this.$refs.maps.$refs.maps;
       maps.$mapPromise.then((map) => {
-        console.log(pos);
         map.panTo(pos);
       });
       
     },
     goToCurrentLocation() {
       navigator.geolocation.getCurrentPosition((res) => {
-        console.log("res");
-        console.log(res.coords);
         const pos = { lat: res.coords.latitude, lng: res.coords.longitude };
-        console.log(pos);
         this.goToLocation(pos);
       });
     },
