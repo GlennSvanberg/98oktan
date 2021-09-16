@@ -11,11 +11,13 @@
     @click:row="handleClick"
   >
     <template v-slot:[`item.actions`]="{ item }">
-      <v-icon small class="mr-1" @click="showOnMap(item)">
-        mdi-map-marker
-      </v-icon>
       <v-icon small class="mr-1" @click="showDetails(item)">
         mdi-information
+      </v-icon>
+    </template>
+    <template v-slot:[`item.map`]="{ item }">
+      <v-icon small class="mr-1" @click="showOnMap(item)">
+        mdi-map-marker
       </v-icon>
     </template>
   </v-data-table>
@@ -26,8 +28,8 @@ export default {
   data() {
     return {
       sortBy: "Namn",
-      sortDesc:false,
-      pos:"",
+      sortDesc: false,
+      pos: "",
       search: "",
       headers: [
         {
@@ -36,28 +38,26 @@ export default {
           sortable: true,
           value: "station",
         },
-        { text: "Ort", value: "short_address" },
-        { text: "Adress", value: "formatted_address" },
+        { text: "Ort", value: "short_address", sortable: false },
+        { text: "Adress", value: "formatted_address", sortable: false },
         { text: "Avstånd", value: "distance" },
-        { text: "Karta", value: "actions", sortable: false },
-
+        { text: "Detaljer", value: "actions", sortable: false },
+        { text: "Karta", value: "map", sortable: false },
       ],
       stations: stationFile,
     };
   },
-  props: ['searchPos'],
-  watch: { 
-  
-    searchPos: function(newVal) {
-      this.sortByDistance(newVal)
-
+  props: ["searchPos"],
+  watch: {
+    searchPos: function (newVal) {
+      this.sortByDistance(newVal);
+    },
+  },
+  mounted: function () {
+    if (this.searchPos) {
+      this.sortByDistance(this.searchPos);
     }
-},
-mounted:function() {
- if(this.searchPos){
-   this.sortByDistance(this.searchPos)
- }
-},
+  },
   methods: {
     handleClick(station) {
       console.log("Row clicked", station.station);
@@ -71,11 +71,13 @@ mounted:function() {
       this.$emit("showStationOnMap", station);
     },
     sortByDistance(pos) {
-      this.pos = pos
-      this.stations.forEach(s => {
-        s.distance = Math.round(this.distance(pos.lat,pos.lng,s.position.lat,s.position.lng))
-  
-        this.sortBy = "distance"
+      this.pos = pos;
+      this.stations.forEach((s) => {
+        s.distance = Math.round(
+          this.distance(pos.lat, pos.lng, s.position.lat, s.position.lng)
+        );
+
+        this.sortBy = "distance";
       });
     },
     distance(lat1, lon1, lat2, lon2) {
@@ -89,14 +91,14 @@ mounted:function() {
       if (dist > 1) {
         dist = 1;
       }
-      
+
       dist = Math.acos(dist);
       dist = (dist * 180) / Math.PI;
       dist = dist * 60 * 1.1515;
-      
+
       // Turn to Km
       dist = dist * 1.609344;
-            
+
       return dist;
     },
   },

@@ -25,7 +25,7 @@
 </template>
  
 <script>
-const mapMarker = require("../assets/logo.png");
+const mapMarker = require("../assets/98oktanLogoSM.png");
 import stationFile from "./../assets/stations.json";
 
 export default {
