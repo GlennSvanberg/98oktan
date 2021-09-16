@@ -3,15 +3,13 @@
     <v-app-bar app color="primary" dark>
       <div class="d-flex align-center">
         <v-img
-          alt="Vuetify Logo"
-          class="shrink mr-2"
+          alt="98 OKTAN LOGO"
+          class=""
           contain
-          src="https://cdn.vuetifyjs.com/images/logos/vuetify-logo-dark.png"
+          :src="logo"
           transition="scale-transition"
-          width="40"
+          width="200"
         />
-        <v-spacer></v-spacer>
-        <h1>98 Oktan</h1>
       </div>
       <v-spacer></v-spacer>
     </v-app-bar>
@@ -27,17 +25,16 @@
 import WelcomeMessage from "./components/WelcomeMessage";
 
 import TabComponent from "./components/TabComponent.vue";
-
+const logoFile = require("./assets/98oktanFull.png");
 export default {
   name: "App",
-
   components: {
     WelcomeMessage,
     TabComponent,
   },
 
   data: () => ({
-    //
+    logo: logoFile,
   }),
 };
 </script>

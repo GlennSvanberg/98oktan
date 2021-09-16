@@ -3,19 +3,32 @@
     <StationDetails v-model="dialog" :station="station" />
     <v-card>
       <v-card-title>
-        <gmap-autocomplete @place_changed="goToSearchLocation">
-          <template v-slot:input="slotProps">
-            <v-text-field
-              ref="input"
-              v-model="search"
-              v-on:listeners="slotProps.listeners"
-              v:on="slotProps.attrs"
-            ></v-text-field>
-          </template>
-        </gmap-autocomplete>
-        <v-spacer></v-spacer>
-
-        <v-btn color="primary" @click="goToCurrentLocation">Min plats</v-btn>
+        <v-row>
+          <v-col cols="10">
+            <gmap-autocomplete
+              @place_changed="goToSearchLocation"
+              style="width: 100%"
+            >
+              <template v-slot:input="slotProps">
+                <v-text-field
+                  ref="input"
+                  v-model="search"
+                  v-on:listeners="slotProps.listeners"
+                  v:on="slotProps.attrs"
+                ></v-text-field>
+              </template>
+            </gmap-autocomplete>
+          </v-col>
+          <v-col cols="2">
+            <v-btn
+              color="primary"
+              append-icon="mdi-magnify"
+              grow
+              @click="goToCurrentLocation"
+              >Min plats</v-btn
+            >
+          </v-col>
+        </v-row>
       </v-card-title>
       <v-card-text>
         <v-tabs v-model="tab" grow slider-color="primary">
@@ -75,19 +88,20 @@ export default {
       this.tab = "map_tab";
     },
     goToSearchLocation(loc) {
-
-      this.goToLocation({"lat":loc.geometry.location.lat(),"lng":loc.geometry.location.lng()});
+      this.goToLocation({
+        lat: loc.geometry.location.lat(),
+        lng: loc.geometry.location.lng(),
+      });
     },
     goToLocation(pos) {
       // Set the list
-      this.searchPos = pos
+      this.searchPos = pos;
 
       // Set the map
       const maps = this.$refs.maps.$refs.maps;
       maps.$mapPromise.then((map) => {
         map.panTo(pos);
       });
-      
     },
     goToCurrentLocation() {
       navigator.geolocation.getCurrentPosition((res) => {
