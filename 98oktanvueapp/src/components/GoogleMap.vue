@@ -1,6 +1,6 @@
 <template>
   <gmap-map
-    :zoom="10"
+    :zoom="11"
     :center="center"
     style="width: 100%; height: 600px"
     ref="maps"

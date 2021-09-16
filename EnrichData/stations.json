@@ -1,0 +1,28 @@
+[
+    {
+        "station": "Preem",
+        "short_address": "G\u00f6teborg",
+        "formatted_address": "Rantorget 1, 416 64 Gothenburg, Sweden",
+        "position": {
+            "lat": 57.7087521,
+            "lng": 11.9923221
+        },
+        "place_id": "ChIJlbCfcH_zT0YRCpZs9v6VUvs",
+        "oktan": "Ja",
+        "source": "https://www.preem.se/hitta-station#filters=f-1-3",
+        "distance": 0
+    },
+    {
+        "station": "OKQ8",
+        "short_address": "G\u00f6teborg",
+        "formatted_address": "Blåbärsbusken 4, 416 35 Gothenburg, Sweden",
+        "position": {
+            "lat": 57.7583521,
+            "lng": 11.9923221
+        },
+        "place_id": "id",
+        "oktan": "Ja",
+        "source": "https://www.preem.se/hitta-station#filters=f-1-3",
+        "distance": 0
+    }
+]

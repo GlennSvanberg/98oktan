@@ -3,32 +3,26 @@
     <StationDetails v-model="dialog" :station="station" />
     <v-card>
       <v-card-title>
-        <v-row>
-          <v-col cols="10">
-            <gmap-autocomplete
-              @place_changed="goToSearchLocation"
-              style="width: 100%"
-            >
-              <template v-slot:input="slotProps">
-                <v-text-field
-                  ref="input"
-                  v-model="search"
-                  v-on:listeners="slotProps.listeners"
-                  v:on="slotProps.attrs"
-                ></v-text-field>
-              </template>
-            </gmap-autocomplete>
-          </v-col>
-          <v-col cols="2">
-            <v-btn
-              color="primary"
-              append-icon="mdi-magnify"
-              grow
-              @click="goToCurrentLocation"
-              >Min plats</v-btn
-            >
-          </v-col>
-        </v-row>
+        <gmap-autocomplete
+          @place_changed="goToSearchLocation"
+          style="width: 70%"
+        >
+          <template v-slot:input="slotProps">
+            <v-text-field
+              ref="input"
+              v-model="search"
+              v-on:listeners="slotProps.listeners"
+              v:on="slotProps.attrs"
+            ></v-text-field>
+          </template>
+        </gmap-autocomplete>
+
+        <v-btn
+          color="primary"
+          append-icon="mdi-magnify"
+          @click="goToCurrentLocation"
+          >Min plats<v-icon right dark> mdi-crosshairs-gps </v-icon></v-btn
+        >
       </v-card-title>
       <v-card-text>
         <v-tabs v-model="tab" grow slider-color="primary">

@@ -2,9 +2,11 @@ import Vue from 'vue'
 import App from './App.vue'
 import vuetify from './plugins/vuetify'
 
-import * as VueGoogleMaps from "vue2-google-maps" // Import package
+import * as VueGoogleMaps from "vue2-google-maps"
 
 Vue.config.productionTip = false
+
+
 
 Vue.use(VueGoogleMaps, {
   load: {
@@ -12,6 +14,7 @@ Vue.use(VueGoogleMaps, {
     libraries: "places"
   }
 })
+
 
 new Vue({
   vuetify,

@@ -1,0 +1,367 @@
+[
+    {
+        "Station": "OKQ8",
+        "City": "Uddevalla,",
+        "Adress": "Trumpetv\u00e4gen 1",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/uddevalla-trumpetvagen/",
+        "location": {
+            "address_components": [
+                {
+                    "long_name": "1",
+                    "short_name": "1",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Trumpetv\u00e4gen",
+                    "short_name": "Trumpetv\u00e4gen",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Ramner\u00f6d",
+                    "short_name": "Ramner\u00f6d",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Uddevalla",
+                    "short_name": "Uddevalla",
+                    "types": [
+                        "postal_town"
+                    ]
+                },
+                {
+                    "long_name": "V\u00e4stra G\u00f6talands l\u00e4n",
+                    "short_name": "V\u00e4stra G\u00f6talands l\u00e4n",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Sweden",
+                    "short_name": "SE",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "451 62",
+                    "short_name": "451 62",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Trumpetv\u00e4gen 1, 451 62 Uddevalla, Sweden",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 58.3661018,
+                        "lng": 11.9307579
+                    },
+                    "southwest": {
+                        "lat": 58.36558369999999,
+                        "lng": 11.9296832
+                    }
+                },
+                "location": {
+                    "lat": 58.36584970000001,
+                    "lng": 11.9302295
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                    "northeast": {
+                        "lat": 58.36719173029149,
+                        "lng": 11.9315695302915
+                    },
+                    "southwest": {
+                        "lat": 58.36449376970848,
+                        "lng": 11.9288715697085
+                    }
+                }
+            },
+            "place_id": "ChIJ4QO-NFYFRUYR9kyybMywZjk",
+            "types": [
+                "premise"
+            ]
+        }
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Uddevalla,",
+        "Adress": "Str\u00f6mstadsv\u00e4gen 50",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/uddevalla-stromstadsvagen/",
+        "location": {
+            "address_components": [
+                {
+                    "long_name": "50",
+                    "short_name": "50",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Str\u00f6mstadsv\u00e4gen",
+                    "short_name": "Str\u00f6mstadsv\u00e4gen",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Uddevalla",
+                    "short_name": "Uddevalla",
+                    "types": [
+                        "postal_town"
+                    ]
+                },
+                {
+                    "long_name": "V\u00e4stra G\u00f6talands l\u00e4n",
+                    "short_name": "V\u00e4stra G\u00f6talands l\u00e4n",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Sweden",
+                    "short_name": "SE",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "451 50",
+                    "short_name": "451 50",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Str\u00f6mstadsv\u00e4gen 50, 451 50 Uddevalla, Sweden",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 58.35348169999999,
+                        "lng": 11.9167474
+                    },
+                    "southwest": {
+                        "lat": 58.353296,
+                        "lng": 11.9164233
+                    }
+                },
+                "location": {
+                    "lat": 58.353412,
+                    "lng": 11.9165712
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 58.35473783029151,
+                        "lng": 11.9179343302915
+                    },
+                    "southwest": {
+                        "lat": 58.3520398697085,
+                        "lng": 11.9152363697085
+                    }
+                }
+            },
+            "place_id": "ChIJHSFIxO8PRUYRvj68nwBQf1M",
+            "types": [
+                "premise"
+            ]
+        }
+    },
+    {
+        "Station": "OKQ8",
+        "City": "Trollh\u00e4ttan,",
+        "Adress": "Tunhemsv\u00e4gen 4",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/trollhattan-tunhemsv-4-tanka/",
+        "location": {
+            "address_components": [
+                {
+                    "long_name": "4",
+                    "short_name": "4",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Tunhemsv\u00e4gen",
+                    "short_name": "Tunhemsv\u00e4gen",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Hjulkvarn-Stallbacka",
+                    "short_name": "Hjulkvarn-Stallbacka",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "Trollh\u00e4ttan",
+                    "short_name": "Trollh\u00e4ttan",
+                    "types": [
+                        "postal_town"
+                    ]
+                },
+                {
+                    "long_name": "V\u00e4stra G\u00f6talands l\u00e4n",
+                    "short_name": "V\u00e4stra G\u00f6talands l\u00e4n",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Sweden",
+                    "short_name": "SE",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "461 39",
+                    "short_name": "461 39",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Tunhemsv\u00e4gen 4, 461 39 Trollh\u00e4ttan, Sweden",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 58.28949949999999,
+                        "lng": 12.2992457
+                    },
+                    "southwest": {
+                        "lat": 58.28931829999999,
+                        "lng": 12.2989264
+                    }
+                },
+                "location": {
+                    "lat": 58.28937000000001,
+                    "lng": 12.2991328
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 58.2907578802915,
+                        "lng": 12.3004350302915
+                    },
+                    "southwest": {
+                        "lat": 58.28805991970849,
+                        "lng": 12.2977370697085
+                    }
+                }
+            },
+            "place_id": "ChIJtXfB_PM8RUYR57ZBxS9liVk",
+            "types": [
+                "premise"
+            ]
+        }
+    },
+    {
+        "Station": "OKQ8",
+        "City": "V\u00e4nersborg,",
+        "Adress": "Edsv\u00e4gen 26, Gropbron",
+        "Oktan": "Ja",
+        "Source": "https://www.okq8.se/pa-stationen/bensinstationer/vanersborg-edsvagen/",
+        "location": {
+            "address_components": [
+                {
+                    "long_name": "26",
+                    "short_name": "26",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Edsv\u00e4gen",
+                    "short_name": "Edsv\u00e4gen",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Lyckhem-Huvudn\u00e4s",
+                    "short_name": "Lyckhem-Huvudn\u00e4s",
+                    "types": [
+                        "political",
+                        "sublocality",
+                        "sublocality_level_1"
+                    ]
+                },
+                {
+                    "long_name": "V\u00e4nersborg",
+                    "short_name": "V\u00e4nersborg",
+                    "types": [
+                        "postal_town"
+                    ]
+                },
+                {
+                    "long_name": "V\u00e4stra G\u00f6talands l\u00e4n",
+                    "short_name": "V\u00e4stra G\u00f6talands l\u00e4n",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Sweden",
+                    "short_name": "SE",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "462 35",
+                    "short_name": "462 35",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Edsv\u00e4gen 26, 462 35 V\u00e4nersborg, Sweden",
+            "geometry": {
+                "location": {
+                    "lat": 58.3703829,
+                    "lng": 12.3229888
+                },
+                "location_type": "RANGE_INTERPOLATED",
+                "viewport": {
+                    "northeast": {
+                        "lat": 58.37173188029151,
+                        "lng": 12.3243377802915
+                    },
+                    "southwest": {
+                        "lat": 58.36903391970849,
+                        "lng": 12.3216398197085
+                    }
+                }
+            },
+            "place_id": "EihFZHN2w6RnZW4gMjYsIDQ2MiAzNSBWw6RuZXJzYm9yZywgU3dlZGVuIhoSGAoUChIJ00-r5AYjRUYRveUcKnscvmEQGg",
+            "types": [
+                "street_address"
+            ]
+        }
+    }
+]
