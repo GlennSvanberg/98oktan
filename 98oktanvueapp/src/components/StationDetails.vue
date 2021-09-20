@@ -18,12 +18,15 @@
       <v-divider></v-divider>
 
       <v-card-actions>
+
+        <v-btn color="primary" text @click="showOnMap">
+          Visa på karta
+        </v-btn>
         <v-btn color="primary" text :href="`${navigate(station)}`">
           Navigera hit
         </v-btn>
         <v-spacer></v-spacer>
-
-        <v-btn color="primary" text @click.stop="show = false"> Stäng </v-btn>
+        <v-btn color="error" text @click.stop="show = false"> Stäng </v-btn>
       </v-card-actions>
     </v-card>
   </v-dialog>
@@ -51,6 +54,9 @@ export default {
     },
   },
   methods: {
+    showOnMap(station) {
+      this.$emit("showStationOnMap", station);
+    },
     navigate(station) {
       console.log(station.formatted_address);
       const base_url = "https://www.google.com/maps/dir/?api=1";

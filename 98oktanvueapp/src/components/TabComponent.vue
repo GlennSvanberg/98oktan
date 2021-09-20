@@ -1,6 +1,6 @@
 <template>
   <v-container>
-    <StationDetails v-model="dialog" :station="station" />
+    <StationDetails v-model="dialog" :station="station" @showStationOnMap="showDetailStationOnMap"/>
     <v-card>
       <v-card-title>
         <gmap-autocomplete
@@ -74,6 +74,12 @@ export default {
       console.log(station.station);
       this.station = station;
       this.dialog = true;
+    },
+    showDetailStationOnMap() {
+      this.dialog = false
+  const maps = this.$refs.maps;
+        maps.reCenterAt(this.station.position);
+        this.tab = "map_tab";
     },
     showStationOnMap(station) {
       this.station = station;
