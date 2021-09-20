@@ -82,6 +82,9 @@ export default {
       this.tab = "map_tab";
     },
     goToSearchLocation(loc) {
+
+      
+      console.log("search")
       this.goToLocation({
         lat: loc.geometry.location.lat(),
         lng: loc.geometry.location.lng(),
@@ -98,6 +101,10 @@ export default {
       });
     },
     goToCurrentLocation() {
+
+      this.$gtag.event('search', { method: 'MyPosition' })
+
+      console.log("done with sending gtag")
       navigator.geolocation.getCurrentPosition((res) => {
         const pos = { lat: res.coords.latitude, lng: res.coords.longitude };
         this.goToLocation(pos);
