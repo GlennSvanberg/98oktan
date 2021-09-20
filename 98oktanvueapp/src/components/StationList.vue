@@ -9,7 +9,15 @@
     mobile-breakpoint="5"
     light
     @click:row="handleClick"
+
   >
+  <template v-slot:[`item.station`]="{ item }">
+          <span> <span  class="font-weight-medium">{{item.station }}</span> - {{ item.formatted_address.split(" ")[0]}} {{item.short_address.split(",")[0] }}</span>
+      </template>
+        <template v-slot:[`item.distance`]="{ item }">
+          <span>{{item.distance }} km</span>
+      </template>
+
     <template v-slot:[`item.actions`]="{ item }">
       <v-icon small class="mr-1" @click="showDetails(item)">
         mdi-information
@@ -20,6 +28,7 @@
         mdi-map-marker
       </v-icon>
     </template>
+
   </v-data-table>
 </template>
 <script>
@@ -27,22 +36,22 @@ import stationFile from "./../assets/stations.json";
 export default {
   data() {
     return {
+      expanded: [],
+      
+        singleExpand: true,
       sortBy: "Namn",
       sortDesc: false,
       pos: "",
       search: "",
       headers: [
         {
-          text: "Namn",
+          text: "Station",
           align: "start",
           sortable: true,
           value: "station",
         },
-        { text: "Ort", value: "short_address", sortable: false },
-        { text: "Adress", value: "formatted_address", sortable: false },
         { text: "Avstånd", value: "distance" },
         { text: "Detaljer", value: "actions", sortable: false },
-        { text: "Karta", value: "map", sortable: false },
       ],
       stations: stationFile,
     };
@@ -61,6 +70,7 @@ export default {
   methods: {
     handleClick(station) {
       console.log("Row clicked", station.station);
+      this.showDetails(station)
 
       //this.$emit("showStationDetails", station);
     },

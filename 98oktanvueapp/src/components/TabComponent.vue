@@ -5,7 +5,7 @@
       <v-card-title>
         <gmap-autocomplete
           @place_changed="goToSearchLocation"
-          style="width: 70%"
+          style="width: 60%"
         >
           <template v-slot:input="slotProps">
             <v-text-field
