@@ -6,22 +6,38 @@ with open('res.json') as json_file:
     print("stations", len(stations))
     for index, station in enumerate(stations):
         try:
-            print(index)
+
             out = {}
             out["station"] = station["Station"]
-            out["short_address"] = station["City"]
+            out["city"] = station["City"].title().rstrip(",")
+            address_components = station["location"]["address_components"]
+            for comp in address_components:
+                if "route" in comp["types"]:
+                    out["short_address"] = comp["short_name"].title()
             out["formatted_address"] = station["location"]["formatted_address"]
             out["position"] = station["location"]["geometry"]["location"]
             out["place_id"] = station["location"]["place_id"]
             out["oktan"] = station["Oktan"]
             out["source"] = station["Source"]
             out["distance"] = 0
+            match = False
 
-            outlist.append(out)
+            for o in outlist:
+                if o["formatted_address"] == out["formatted_address"]:
+                    print("skipping: ", o["station"], o["formatted_address"])
+                    print("o", json.dumps(out))
+                    print("out", json.dumps(out))
+                    match = True
+                    break
+            if not match:
+                print(index)
+                outlist.append(out)
+
         except:
             print("FAILED FOR STATION: unknown")
 
-f = open("out.json", "w", encoding="utf-8")
+
+f = open("stations.json", "w", encoding="utf-8")
 f.write(json.dumps(outlist))
 f.close()
 
