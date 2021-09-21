@@ -1,6 +1,10 @@
 <template>
   <v-container>
-    <StationDetails v-model="dialog" :station="station" @showStationOnMap="showDetailStationOnMap"/>
+    <StationDetails
+      v-model="dialog"
+      :station="station"
+      @showStationOnMap="showDetailStationOnMap"
+    />
     <v-card>
       <v-card-title>
         <gmap-autocomplete
@@ -76,10 +80,10 @@ export default {
       this.dialog = true;
     },
     showDetailStationOnMap() {
-      this.dialog = false
-  const maps = this.$refs.maps;
-        maps.reCenterAt(this.station.position);
-        this.tab = "map_tab";
+      this.dialog = false;
+      const maps = this.$refs.maps;
+      maps.reCenterAt(this.station.position);
+      this.tab = "map_tab";
     },
     showStationOnMap(station) {
       this.station = station;
@@ -88,9 +92,6 @@ export default {
       this.tab = "map_tab";
     },
     goToSearchLocation(loc) {
-
-      
-      console.log("search")
       this.goToLocation({
         lat: loc.geometry.location.lat(),
         lng: loc.geometry.location.lng(),
@@ -107,10 +108,9 @@ export default {
       });
     },
     goToCurrentLocation() {
+      //this.$gtag.event("search", { method: "MyPosition" });
 
-      this.$gtag.event('search', { method: 'MyPosition' })
-
-      console.log("done with sending gtag")
+      console.log("done with sending gtag");
       navigator.geolocation.getCurrentPosition((res) => {
         const pos = { lat: res.coords.latitude, lng: res.coords.longitude };
         this.goToLocation(pos);

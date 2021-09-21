@@ -1,6 +1,6 @@
 <template>
   <gmap-map
-    :zoom="11"
+    :zoom="12"
     :center="center"
     style="width: 100%; height: 600px"
     ref="maps"
@@ -19,13 +19,12 @@
       v-for="(station, index) in stations"
       :position="station.position"
       @click="showStation(station)"
-      :icon="markerOptions"
     ></gmap-marker>
   </gmap-map>
 </template>
  
 <script>
-const mapMarker = require("../assets/98oktanLogoSM.png");
+const mapMarker = require("../assets/pumplogo.png");
 import stationFile from "./../assets/stations.json";
 
 export default {
@@ -50,8 +49,8 @@ export default {
         scaledSize: { width: 30, height: 45, f: "px", b: "px" },
       },
       center: {
-        lat: 57.55519704544182,
-        lng: 11.45177158556096,
+        lat: 62.2315,
+        lng: 16.1932,
       },
       markers: [],
       station: null,
@@ -86,7 +85,7 @@ export default {
     },
   },
   mounted() {
-    this.locateGeoLocation();
+    //this.locateGeoLocation();
     this.stations.forEach((station) => {
       this.markers.push({
         station,

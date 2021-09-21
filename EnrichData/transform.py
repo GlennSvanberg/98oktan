@@ -1,4 +1,9 @@
 import json
+from datetime import date
+
+today = date.today()
+today_str = today.strftime("%Y-%m-%d")
+
 
 outlist = []
 with open('res.json') as json_file:
@@ -20,6 +25,7 @@ with open('res.json') as json_file:
             out["oktan"] = station["Oktan"]
             out["source"] = station["Source"]
             out["distance"] = 0
+            out["updated"] = today_str
             match = False
 
             for o in outlist:

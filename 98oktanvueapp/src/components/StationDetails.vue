@@ -6,25 +6,64 @@
   >
     <v-card v-if="station != null">
       <v-card-title class="text-h5 grey lighten-2">
-        {{ station.station }}, {{ station.short_address }}
+        {{ station.station }},<br />
+        {{ station.short_address }} {{ station.city }}
       </v-card-title>
 
-      <v-card-text>
-        <br />Adress:{{ station.formatted_address }} <br />98 Oktan:
-        {{ station.oktan }}<br />
-        <a v-bind:href="station.source">Källa</a>
+      <v-card-text class="pr-20">
+        <table class="pt-4 text-body-1 lighten-2 table-fixed">
+          <tr>
+            <td class="font-weight-bold">Adress:</td>
+            <td class="truncate">
+              {{ station.formatted_address }}
+            </td>
+          </tr>
+          <tr>
+            <td class="font-weight-bold">Avstånd:</td>
+            <td class="truncate">{{ station.distance }} km</td>
+          </tr>
+
+          <tr>
+            <div class="ma-6"></div>
+          </tr>
+          <tr>
+            <td class="font-weight-bold">Har 98 Oktan:</td>
+            <td class="truncate">
+              {{ station.oktan }}
+            </td>
+          </tr>
+          <tr>
+            <td class="font-weight-bold">Bekräftat den:</td>
+            <td class="truncate">
+              {{ station.updated }}
+            </td>
+          </tr>
+          <tr>
+            <td class="font-weight-bold">Källa:</td>
+            <td class="truncate">
+              <a class="truncate" v-bind:href="station.source">{{
+                station.source
+              }}</a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <v-btn class="primary ma-4" text @click="showOnMap">
+                Karta
+              </v-btn>
+            </td>
+            <td>
+              <v-btn class="primary ma-4" text :href="`${navigate(station)}`">
+                Navigera hit
+              </v-btn>
+            </td>
+          </tr>
+        </table>
       </v-card-text>
 
       <v-divider></v-divider>
 
       <v-card-actions>
-
-        <v-btn color="primary" text @click="showOnMap">
-          Visa på karta
-        </v-btn>
-        <v-btn color="primary" text :href="`${navigate(station)}`">
-          Navigera hit
-        </v-btn>
         <v-spacer></v-spacer>
         <v-btn color="error" text @click.stop="show = false"> Stäng </v-btn>
       </v-card-actions>
@@ -68,3 +107,11 @@ export default {
   },
 };
 </script>
+<style scoped>
+.truncate {
+  overflow-wrap: break-word;
+}
+.table-fixed {
+  table-layout: fixed;
+}
+</style>
