@@ -4,6 +4,7 @@
     max-width="600"
     v-model="show"
     persistent
+    no-click-animation
   >
     <v-card class="text-wrap" v-if="station != null">
       <v-card-title class="text-h5 grey lighten-2">
@@ -22,21 +23,14 @@
 
           <v-row no-gutters>
             <v-col class="font-weight-bold md-4"> Avstånd: </v-col>
-            <v-col class="md-8">
-              {{ station.distance }}
-            </v-col>
+            <v-col class="md-8"> {{ station.distance }} km </v-col>
           </v-row>
           <div class="ma-8"></div>
-          <v-row no-gutters>
-            <v-col class="font-weight-bold md-4"> Har 98 Oktan: </v-col>
-            <v-col class="md-8">
-              {{ station.oktan }}
-            </v-col>
-          </v-row>
+
           <v-spacer></v-spacer>
 
           <v-row no-gutters>
-            <v-col class="font-weight-bold md-4"> Bekräftat den: </v-col>
+            <v-col class="font-weight-bold md-4"> Bekräftat 98 oktan: </v-col>
             <v-col class="md-8">
               {{ station.updated }}
             </v-col>
