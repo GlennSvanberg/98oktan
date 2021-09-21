@@ -1,64 +1,66 @@
 <template>
   <v-dialog
     transition="dialog-bottom-transition"
-    max-width="800"
+    max-width="600"
     v-model="show"
+    persistent
   >
-    <v-card v-if="station != null">
+    <v-card class="text-wrap" v-if="station != null">
       <v-card-title class="text-h5 grey lighten-2">
         {{ station.station }},<br />
         {{ station.short_address }} {{ station.city }}
       </v-card-title>
 
-      <v-card-text class="pr-20">
-        <table class="pt-4 text-body-1 lighten-2 table-fixed">
-          <tr>
-            <td class="font-weight-bold">Adress:</td>
-            <td class="truncate">
+      <v-card-text>
+        <v-container>
+          <v-row no-gutters>
+            <v-col class="font-weight-bold md-4"> Adress: </v-col>
+            <v-col class="md-8">
               {{ station.formatted_address }}
-            </td>
-          </tr>
-          <tr>
-            <td class="font-weight-bold">Avstånd:</td>
-            <td class="truncate">{{ station.distance }} km</td>
-          </tr>
+            </v-col>
+          </v-row>
 
-          <tr>
-            <div class="ma-6"></div>
-          </tr>
-          <tr>
-            <td class="font-weight-bold">Har 98 Oktan:</td>
-            <td class="truncate">
+          <v-row no-gutters>
+            <v-col class="font-weight-bold md-4"> Avstånd: </v-col>
+            <v-col class="md-8">
+              {{ station.distance }}
+            </v-col>
+          </v-row>
+          <div class="ma-8"></div>
+          <v-row no-gutters>
+            <v-col class="font-weight-bold md-4"> Har 98 Oktan: </v-col>
+            <v-col class="md-8">
               {{ station.oktan }}
-            </td>
-          </tr>
-          <tr>
-            <td class="font-weight-bold">Bekräftat den:</td>
-            <td class="truncate">
+            </v-col>
+          </v-row>
+          <v-spacer></v-spacer>
+
+          <v-row no-gutters>
+            <v-col class="font-weight-bold md-4"> Bekräftat den: </v-col>
+            <v-col class="md-8">
               {{ station.updated }}
-            </td>
-          </tr>
-          <tr>
-            <td class="font-weight-bold">Källa:</td>
-            <td class="truncate">
-              <a class="truncate" v-bind:href="station.source">{{
-                station.source
-              }}</a>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <v-btn class="primary ma-4" text @click="showOnMap">
-                Karta
-              </v-btn>
-            </td>
-            <td>
-              <v-btn class="primary ma-4" text :href="`${navigate(station)}`">
+            </v-col>
+          </v-row>
+
+          <v-row no-gutters>
+            <v-col class="font-weight-bold md-4">Källa:</v-col>
+            <v-col class="md-8">
+              <a v-bind:href="station.source">{{ station.source }}</a>
+            </v-col>
+          </v-row>
+          <v-row>
+            <v-col class="md-6">
+              <v-btn class="primary" text @click="showOnMap">
+                Visa på Karta
+              </v-btn></v-col
+            >
+            <v-col class="md-6">
+              <v-btn class="primary" text :href="`${navigate(station)}`">
                 Navigera hit
-              </v-btn>
-            </td>
-          </tr>
-        </table>
+              </v-btn></v-col
+            >
+          </v-row>
+        </v-container>
       </v-card-text>
 
       <v-divider></v-divider>

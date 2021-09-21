@@ -10,6 +10,7 @@
         <gmap-autocomplete
           @place_changed="goToSearchLocation"
           style="width: 60%"
+          class="mb-3 mt-3"
         >
           <template v-slot:input="slotProps">
             <v-text-field

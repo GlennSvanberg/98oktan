@@ -31,17 +31,6 @@ export default {
   data() {
     return {
       search: "",
-      headers: [
-        {
-          text: "Namn",
-          align: "start",
-          sortable: true,
-          value: "station",
-        },
-        { text: "Ort", value: "short_address" },
-        { text: "Adress", value: "formatted_address" },
-        { text: "98 Oktan", value: "oktan" },
-      ],
       stations: stationFile,
       markerOptions: {
         url: mapMarker,
