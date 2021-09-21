@@ -103,11 +103,3 @@ export default {
   },
 };
 </script>
-<style scoped>
-.truncate {
-  overflow-wrap: break-word;
-}
-.table-fixed {
-  table-layout: fixed;
-}
-</style>

@@ -19,12 +19,11 @@
       </v-col>
 
       <v-col cols="12" sm="6">
-        <v-card color="secondary" dark>
-          <v-card-title>Annons</v-card-title>
-          <v-card-text>
-            Det här är en annons som inte genererar några intäkter alls  
-          </v-card-text>
-        </v-card>
+        <Adsense
+          data-ad-client="ca-pub-3272473510428348"
+          data-ad-slot="8547924577"
+        >
+        </Adsense>
       </v-col>
     </v-row>
   </v-container>

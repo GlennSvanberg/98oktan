@@ -4,6 +4,7 @@ import vuetify from './plugins/vuetify'
 
 import * as VueGoogleMaps from "vue2-google-maps"
 import VueGtag from "vue-gtag";
+import Ads from 'vue-google-adsense'
 
 
 Vue.config.productionTip = false
@@ -21,6 +22,8 @@ Vue.use(VueGoogleMaps, {
   }
 })
 
+Vue.use(require('vue-script2'))
+Vue.use(Ads.Adsense)
 
 new Vue({
   vuetify,
