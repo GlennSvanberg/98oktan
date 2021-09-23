@@ -19,11 +19,17 @@
       </v-col>
 
       <v-col cols="12" sm="6">
-        <Adsense
-          data-ad-client="ca-pub-3272473510428348"
-          data-ad-slot="8547924577"
-        >
-        </Adsense>
+        <v-card>
+          <v-card-title class="headline"
+            >Förklaring på vad sidan gör</v-card-title
+          >
+          <v-card-text
+            >Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
+            ea nemo a iusto doloribus praesentium asperiores quam. Blanditiis
+            facilis aliquid esse suscipit repudiandae laborum unde temporibus
+            error, earum assumenda incidunt!</v-card-text
+          >
+        </v-card>
       </v-col>
     </v-row>
   </v-container>

@@ -2,7 +2,7 @@
   <gmap-map
     :zoom="12"
     :center="center"
-    style="width: 100%; height: 600px"
+    style="width: 100%; height: 700px"
     ref="maps"
     :options="{
       zoomControl: true,

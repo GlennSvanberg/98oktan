@@ -19,6 +19,11 @@
     <v-main class="primary lighten-3">
       <WelcomeMessage />
       <TabComponent />
+      <v-footer padless color="primary" dark>
+        <v-col class="text-center" cols="12">
+          {{ new Date().getFullYear() }} — <strong>98 OKTAN</strong>
+        </v-col>
+      </v-footer>
     </v-main>
   </v-app>
 </template>

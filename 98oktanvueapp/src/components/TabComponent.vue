@@ -111,11 +111,20 @@ export default {
     goToCurrentLocation() {
       //this.$gtag.event("search", { method: "MyPosition" });
       // TO BE DONE IN MAPS COMPONENT?
-      console.log("done with sending gtag");
-      navigator.geolocation.getCurrentPosition((res) => {
-        const pos = { lat: res.coords.latitude, lng: res.coords.longitude };
-        this.goToLocation(pos);
-      });
+
+      if ("geolocation" in navigator) {
+        navigator.geolocation.getCurrentPosition(
+          (res) => {
+            const pos = { lat: res.coords.latitude, lng: res.coords.longitude };
+            this.goToLocation(pos);
+          },
+          (error) => {
+            alert(`ERROR(${error.code}): ${error.message}`);
+          }
+        );
+      } else {
+        alert("can not find geolocator");
+      }
     },
   },
 };
