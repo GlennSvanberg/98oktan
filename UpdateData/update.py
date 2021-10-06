@@ -175,6 +175,7 @@ def set_empty_dict(content):
     return content
     
 def circlek():
+    print("Downloading CircleK")
     cookies = {
         'SSESS4b0dcc9eab24632c69fb1df50a2923c3': 'vX2Do2U7R-6WmSJycZJNrxYxOMSksNElEk-gTsKtay9HMHLw',
     }
@@ -246,6 +247,7 @@ def circlek():
     return result
 
 def ingo():
+    print("Downloading Ingo")
     cookies = {
         '_gcl_au': '1.1.1144252494.1633095024',
         'at_check': 'true',
@@ -345,6 +347,7 @@ def ingo():
     print("98 Oktan stations: {count} of the total {count}".format(count=count))
     return result
 def st1():
+    print("Downloading St1")
     headers = {
         'authority': 'frends.st1.fi',
         'sec-ch-ua': '"Chromium";v="94", "Google Chrome";v="94", ";Not A Brand";v="99"',
@@ -408,6 +411,6 @@ f = open("stations.json", "w", encoding="utf-8")
 f.write(json.dumps(stations))
 f.close()
 
-pretty_print(stations)
+#pretty_print(stations)
 
 
