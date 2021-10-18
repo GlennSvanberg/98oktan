@@ -19,9 +19,10 @@
     <v-main class="primary lighten-3">
       <WelcomeMessage />
       <TabComponent />
+      <FooterComponent />
       <v-footer padless color="primary" dark>
         <v-col class="text-center" cols="12">
-          {{ new Date().getFullYear() }} — <strong>98 Oktan</strong>
+          {{ new Date().getFullYear() }} — &copy;98oktan.se
         </v-col>
       </v-footer>
     </v-main>
@@ -32,12 +33,14 @@
 import WelcomeMessage from "./components/WelcomeMessage";
 
 import TabComponent from "./components/TabComponent.vue";
+import FooterComponent from "./components/FooterComponent.vue"
 const logoFile = require("./assets/pumplogo.png");
 export default {
   name: "App",
   components: {
     WelcomeMessage,
     TabComponent,
+    FooterComponent,
   },
 
   data: () => ({
