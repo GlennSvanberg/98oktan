@@ -12,8 +12,8 @@
   >
     <template v-slot:[`item.station`]="{ item }">
       <span>
-        <span class="font-weight-medium">{{ item.station }}</span> -
-        {{ item.short_address }}, {{ item.city }}</span
+       
+        {{ item.short_name }}</span
       >
     </template>
     <template v-slot:[`item.distance`]="{ item }">

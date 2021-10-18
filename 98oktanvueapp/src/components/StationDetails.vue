@@ -8,8 +8,8 @@
   >
     <v-card class="text-wrap" v-if="station != null">
       <v-card-title class="text-h5 grey lighten-2">
-        {{ station.station }},<br />
-        {{ station.short_address }} {{ station.city }}
+    
+        {{ station.short_name }}
       </v-card-title>
 
       <v-card-text>

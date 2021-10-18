@@ -33,7 +33,6 @@ def download(url):
     try:
         with urllib.request.urlopen(url) as url:
             stations = json.loads(url.read().decode())
-            print("Found {count} stations".format(count=len(stations)))
             return stations
     except:
         print(Exception, err)
@@ -41,7 +40,7 @@ def download(url):
         return[]
 
 def preem():
-    print("Downloading Preem")
+    print("\nDownloading Preem")
     stations = download(preem_station_url)
     result = []
     count = 0
@@ -50,7 +49,7 @@ def preem():
             count += 1
             out = {}
             out["station"] = "Preem"
-            out["short_name"] = station.get("Name","")
+            out["short_name"] = "Preem " + station.get("Name","")
             out["city"] = station.get("City","")
             out["formatted_address"] = "{address}, {postal_code} {city}, Sverige".format(address=station.get("Address",""),postal_code=station.get("PostalCode",""),city=station.get("City",""))
             out["position"] = {"lat":station.get("CoordinateLatitude",""),"lng": station.get("CoordinateLongitude","")}
@@ -65,11 +64,11 @@ def preem():
         except Exception as err:
             print(Exception, err)
             print("Failed for station {total}".format(total=count))
-            print("98 Oktan stations: {count} of the total {count}".format(count=count))
+    print("{count} of the total {count}".format(count=count))
     return result
 
 def okq8():
-    print("Downloading OKQ8")
+    print("\nDownloading OKQ8")
 
     # Find id for 98 oktan
     data = download(okq8_station_url)
@@ -96,7 +95,7 @@ def okq8():
                     my_count += 1
                     out = {}
                     out["station"] = station.get("net","")
-                    out["short_name"] = station.get("name","")
+                    out["short_name"] = "{name}, {address}".format(name=station.get("net",""),address=station.get("name",""))
                     out["city"] = station.get("city","")
                     out["formatted_address"] = "{address}, {city}, Sverige".format(address=station.get("address",""),city=station.get("city",""))
                     out["position"] = station.get("position","")
@@ -110,11 +109,11 @@ def okq8():
             except Exception as err:
                 print(Exception, err)
                 print("Failed for station {total}".format(total=total_count))
-        print("98 Oktan stations: {my} of the total {total}".format(my=my_count,total=total_count))
+        print("{my} of the total {total}".format(my=my_count,total=total_count))
         return result
 
 def shell():
-    print("Downloading Shell")
+    print("\nDownloading Shell")
     stations = download(shell_station_url)
     result = []
     count = 0
@@ -138,11 +137,11 @@ def shell():
         except Exception as err:
             print(Exception, err)
             print("Failed for station {total}".format(total=count))
-    print("98 Oktan stations: {count} of the total {count}".format(count=count))
+    print("{count} of the total {count}".format(count=count))
     return result
 
 def qstar():
-    print("Downloading Qstar")
+    print("\nDownloading Qstar")
     stations = download(qstar_station_url)
     result = []
     count = 0
@@ -166,7 +165,7 @@ def qstar():
         except Exception as err:
             print(Exception, err)
             print("Failed for station {total}".format(total=count))
-    print("98 Oktan stations: {count} of the total {count}".format(count=count))
+    print("{count} of the total {count}".format(count=count))
     return result
 
 def set_empty_dict(content):
@@ -175,7 +174,7 @@ def set_empty_dict(content):
     return content
     
 def circlek():
-    print("Downloading CircleK")
+    print("\nDownloading CircleK")
     cookies = {
         'SSESS4b0dcc9eab24632c69fb1df50a2923c3': 'vX2Do2U7R-6WmSJycZJNrxYxOMSksNElEk-gTsKtay9HMHLw',
     }
@@ -243,11 +242,11 @@ def circlek():
         except Exception as err:
             print(Exception, err)
             print("Failed for station {total}".format(total=count))
-    print("98 Oktan stations: {count} of the total {count}".format(count=count))
+    print("{count} of the total {count}".format(count=count))
     return result
 
 def ingo():
-    print("Downloading Ingo")
+    print("\nDownloading Ingo")
     cookies = {
         '_gcl_au': '1.1.1144252494.1633095024',
         'at_check': 'true',
@@ -344,10 +343,10 @@ def ingo():
         except Exception as err:
             print(Exception, err)
             print("Failed for station {total}".format(total=count))
-    print("98 Oktan stations: {count} of the total {count}".format(count=count))
+    print("{count} of the total {count}".format(count=count))
     return result
 def st1():
-    print("Downloading St1")
+    print("\nDownloading St1")
     headers = {
         'authority': 'frends.st1.fi',
         'sec-ch-ua': '"Chromium";v="94", "Google Chrome";v="94", ";Not A Brand";v="99"',
@@ -370,6 +369,8 @@ def st1():
     response = requests.post('https://frends.st1.fi/api/place-locator/v1/find-places/area', headers=headers, data=data)
     data = response.json()
     stations = data.get("stations")
+    #pretty_print(data)
+    #exit()
     result = []
     count = 0
     for station in stations:
@@ -381,7 +382,7 @@ def st1():
             out["city"] = station.get("city","")
             out["formatted_address"] = station.get("fullAddress", "")
             location = set_empty_dict(station.get("location"))
-            out["position"] = {"lat":location.get("lat",""),"lon": location.get("lng","")}
+            out["position"] = {"lat":location.get("lat",""),"lng": location.get("lon","")}
             out["id"] = station.get("id","")
             out["oktan"] = "Ja"
             out["source"] = "https://www.st1.se/hitta-station?f=%7B%22fuels%22%3A%5B%22sweden%2Fvpower%22%5D%2C%22stationTypes%22%3A%5B%22%21sweden%2Fmarinestation%22%5D%2C%22services%22%3A%5B%22%21sweden%2Fploq%22%5D%7D"
@@ -393,8 +394,19 @@ def st1():
         except Exception as err:
             print(Exception, err)
             print("Failed for station {total}".format(total=count))
-    print("98 Oktan stations: {count} of the total {count}".format(count=count))
+    print("{count} of the total {count}".format(count=count))
     return result
+
+
+def format_stations(stations):
+    for station in stations:
+        station["station"] = station.get("station","").title().strip()
+        station["short_name"] = station.get("short_name","").title().strip()
+        station["city"] = station.get("city","").title().strip()
+        station["formatted_address"] = station.get("formatted_address","").title().strip()
+
+        
+    return stations
 
 stations = []
 stations.extend(qstar())
@@ -404,6 +416,8 @@ stations.extend(okq8())
 stations.extend(circlek())
 stations.extend(ingo())
 stations.extend(st1())
+
+stations = format_stations(stations)
 
 print("Total stations: ",len(stations))
 

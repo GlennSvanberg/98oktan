@@ -3,7 +3,7 @@
     <v-app-bar app color="primary" dark>
       <div class="d-flex align-center pl-8 pr-4">
         <v-img
-          alt="98 OKTAN LOGO"
+          alt="98 Oktan logo"
           class=""
           contain
           :src="logo"
@@ -12,7 +12,7 @@
         />
       </div>
 
-      <h1 class="p2 display-2 font-weight-bold mb-3 pt-3">98 OKTAN</h1>
+      <h1 class="p2 display-2 font-weight-bold mb-3 pt-3">98 Oktan</h1>
       <v-spacer></v-spacer>
     </v-app-bar>
 
@@ -21,7 +21,7 @@
       <TabComponent />
       <v-footer padless color="primary" dark>
         <v-col class="text-center" cols="12">
-          {{ new Date().getFullYear() }} — <strong>98 OKTAN</strong>
+          {{ new Date().getFullYear() }} — <strong>98 Oktan</strong>
         </v-col>
       </v-footer>
     </v-main>
