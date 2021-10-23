@@ -6,11 +6,15 @@
       @showStationOnMap="showDetailStationOnMap"
     />
     <v-card>
-      <v-card-title>
-        <gmap-autocomplete
+      <v-card-title class="headline">
+        Stationer med 98 oktan
+      
+      </v-card-title>
+      <v-card-text>
+          <gmap-autocomplete
           @place_changed="goToSearchLocation"
           style="width: 60%"
-          class="mb-3 mt-3"
+          class="mb-3 mt-3 headline"
         >
           <template v-slot:input="slotProps">
             <v-text-field
@@ -28,8 +32,6 @@
           @click="goToCurrentLocation"
           >Min plats<v-icon right dark> mdi-crosshairs-gps </v-icon></v-btn
         >
-      </v-card-title>
-      <v-card-text>
         <v-tabs v-model="tab" grow slider-color="primary">
           <v-tab key="map_tab">Karta</v-tab>
           <v-tab key="list_tab">Lista</v-tab>

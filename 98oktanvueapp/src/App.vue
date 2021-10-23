@@ -18,6 +18,7 @@
 
     <v-main class="primary lighten-3">
       <WelcomeMessage />
+      <Cars />
       <TabComponent />
       <FooterComponent />
       <v-footer padless color="primary" dark>
@@ -31,6 +32,7 @@
 
 <script>
 import WelcomeMessage from "./components/WelcomeMessage";
+import Cars from "./components/Cars.vue";
 
 import TabComponent from "./components/TabComponent.vue";
 import FooterComponent from "./components/FooterComponent.vue"
@@ -39,6 +41,7 @@ export default {
   name: "App",
   components: {
     WelcomeMessage,
+    Cars,
     TabComponent,
     FooterComponent,
   },

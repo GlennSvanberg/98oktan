@@ -1,0 +1,357 @@
+[
+    {
+        "brand": "Alfa Romeo",
+        "info": [
+            "E10 kan anv\u00e4ndas i f\u00f6ljande Alfa Romeo-modeller med bensinmotorer:",
+            "Giulietta",
+            "MiTo",
+            "159: 1.8 16V, 1.8 TBi 16V, 3.2 JTS V6",
+            "Brera: 1.8 TBi 16V, 3.2 JTS V6",
+            "Spider: 1.8 TBi 16V, 3.2 JTS V6",
+            "8C: 4.7 32V"
+        ]
+    },
+    {
+        "brand": "Audi",
+        "info": [
+            "E10 kan anv\u00e4ndas i Audis bilmodeller f\u00f6rsedda med bensinmotor fr\u00e5n och med \u00e5rsmodell 1992 f\u00f6rutom f\u00f6ljande modeller ur f\u00f6rsta generationens direktinsprutade motorer:",
+            "Audi A2 1.6 FSI modell\u00e5r 2003-2005",
+            "Audi A3 1.6 FSI modell\u00e5r 2004",
+            "Audi A3 2.0 FSI modell\u00e5r 2004",
+            "Audi A4 2.0 FSI modell\u00e5r 2003-2004",
+            "Audi A4 bensinmodeller modell\u00e5r 2001-2008, som \u00e4r utrustade med en fabriksmonterad br\u00e4nsledriven till\u00e4ggsv\u00e4rmare. E10 f\u00e5r inte anv\u00e4ndas under den period d\u00e5 v\u00e4rmaren anv\u00e4nds."
+        ]
+    },
+    {
+        "brand": "BMW",
+        "info": [
+            "E10 kan anv\u00e4ndas i alla bensindrivna BMW-bilmodeller oberoende av tillverknings\u00e5r, men min. oktantal, enligt instruktionsboken m\u00e5ste alltid f\u00f6ljas."
+        ]
+    },
+    {
+        "brand": "Chevrolet",
+        "info": [
+            "E10 kan anv\u00e4ndas i f\u00f6ljande modeller:",
+            "Spark",
+            "Cruze",
+            "Orlando",
+            "Captiva fr\u00e5n och med modell\u00e5r 2011",
+            "Aveo fr\u00e5n och med modell\u00e5r 2011",
+            "E10 kan inte anv\u00e4ndas i f\u00f6ljande modeller:",
+            "Matiz",
+            "Aveo f\u00f6re modell\u00e5r 2011",
+            "Kalos",
+            "Nubira",
+            "Lacetti",
+            "Epica",
+            "Captiva f\u00f6re modell\u00e5r 2011",
+            "Evanda",
+            "Tacuma"
+        ]
+    },
+    {
+        "brand": "Chrysler",
+        "info": [
+            "E10 kan anv\u00e4ndas i alla Chrysler-modeller, f\u00f6rsedda med bensinmotor, fr\u00e5n och med \u00e5rsmodell 1989."
+        ]
+    },
+    {
+        "brand": "Citroen",
+        "info": [
+            "E10 kan anv\u00e4ndas i alla bensindrivna Citro\u00ebn-modeller, som \u00e4r tillverkade fr\u00e5n 1/1 2000 eller senare."
+        ]
+    },
+    {
+        "brand": "Dacia",
+        "info": [
+            "E10 kan anv\u00e4ndas i alla bensindrivna Dacia-modeller."
+        ]
+    },
+    {
+        "brand": "Daewoo",
+        "info": [
+            "E10 kan anv\u00e4ndas i f\u00f6ljande modeller:",
+            "Spark",
+            "Cruze",
+            "Orlando",
+            "Captiva fr\u00e5n och med modell\u00e5r 2011",
+            "Aveo fr\u00e5n och med modell\u00e5r 2011",
+            "E10 kan inte anv\u00e4ndas i f\u00f6ljande modeller:",
+            "Matiz",
+            "Aveo f\u00f6re modell\u00e5r 2011",
+            "Kalos",
+            "Nubira",
+            "Lacetti",
+            "Epica",
+            "Captiva f\u00f6re modell\u00e5r 2011",
+            "Evanda",
+            "Tacuma"
+        ]
+    },
+    {
+        "brand": "Dodge",
+        "info": [
+            "E10 kan anv\u00e4ndas i alla Dodge-modeller, f\u00f6rsedda med bensinmotor fr\u00e5n och med \u00e5rsmodell 1989."
+        ]
+    },
+    {
+        "brand": "Fiat",
+        "info": [
+            "E10 kan anv\u00e4ndas i alla Fiat-modeller fr\u00e5n och med modell\u00e5r 2000 som fyller avgaskraven i Euro 3 eller senare avgaskrav, f\u00f6rutom \u00f6ljande modeller:",
+            "Barchetta: 1.8 16V",
+            "Bravo/Brava (182): 1.6 16V",
+            "Doblo: 1.6 16V",
+            "Marea: 1.6 16V, 2.0 20V",
+            "Multipla: 1.6 16V",
+            "Palio: 1.6 16V",
+            "Punto (188): 1.8 16V",
+            "Stilo: 1.6 16V (1.596 cm3), 1.8 16V, 2.4 20V"
+        ]
+    },
+    {
+        "brand": "Ford",
+        "info": [
+            "E10 kan anv\u00e4ndas i alla bensindrivna Ford-modeller, som tillverkats f\u00f6r den europeiska marknaden fr\u00e5n 1992 f\u00f6rutom i bilmodellen Ford Mondeo 1,8 SCI (96 kW, 130 hk), vilken tillverkats till och med modell\u00e5r 2006 ."
+        ]
+    },
+    {
+        "brand": "Honda",
+        "info": [
+            "E10 kan anv\u00e4ndas i alla Honda-modeller f\u00f6rsedda med elektronisk br\u00e4nsleinsprutning."
+        ]
+    },
+    {
+        "brand": "Hyundai",
+        "info": [
+            "E10 kan anv\u00e4ndas i alla bensindrivna Hyundai-modeller avsedda f\u00f6r den europeiska marknaden fr\u00e5n \u00e5rsmodell 1995 och fram\u00e5t."
+        ]
+    },
+    {
+        "brand": "Jaguar",
+        "info": [
+            "E10 kan anv\u00e4ndas i alla bensindrivna Jaguar-modeller fr\u00e5n och med arsmodell 1992."
+        ]
+    },
+    {
+        "brand": "Jeep",
+        "info": [
+            "E10 kan anv\u00e4ndas i alla Jeep-modeller fr\u00e5n och med \u00e5rsmodell 1989."
+        ]
+    },
+    {
+        "brand": "Kia",
+        "info": [
+            "E10 kan anv\u00e4ndas i alla bensindrivna Kia-modeller fr\u00e5n och med modell\u00e5r 2002 och fram\u00e5t."
+        ]
+    },
+    {
+        "brand": "Lancia",
+        "info": [
+            "E10 kan anv\u00e4ndas i alla Lancia-modeller fr\u00e5n och med modell\u00e5r 2000 som fyller avgaskraven i Euro 3, f\u00f6rutom f\u00f6ljande modeller:",
+            "Lybra: 1.6 16V, 1.8 16V, 2.0 20V",
+            "Thesis: 2.0 Turbo 20V, 2.4 20V, 3.0 V6 24V, 3.2 V6 24V"
+        ]
+    },
+    {
+        "brand": "Land-Rover",
+        "info": [
+            "E10 kan anv\u00e4ndas i alla bensindrivna Land Rover-modeller fr\u00e5n och med \u00e5rsmodell 1996."
+        ]
+    },
+    {
+        "brand": "Lexus",
+        "info": [
+            "E10 kan anv\u00e4ndas i alla Lexus-modeller tillverkade f\u00f6r den europeiska marknaden \u00e5r 1998 eller senare, f\u00f6rutom f\u00f6ljande modeller:",
+            "IS250 2.5 L V6, motor 4GR-FSE, tillverkad augusti 2005 \u2013 september 2007.",
+            "GS300 3.0 L V6, motor 3GR-FSE, tillverkad januari 2005 \u2013 september 2007.",
+            "LS460 4.6 L V8, motor 1UR-FSE, tillverkad augusti 2006 \u2013 september 2007."
+        ]
+    },
+    {
+        "brand": "Maybach",
+        "info": [
+            "E10 kan anv\u00e4ndas i alla bensindrivna Maybach-modeller."
+        ]
+    },
+    {
+        "brand": "Mazda",
+        "info": [
+            "E10 kan anv\u00e4ndas i f\u00f6ljande bensindrivna Mazda-modeller fr\u00e5n och med 2002 :",
+            "Mazda6 (GG/GY) 2002-",
+            "Mazda3 (BK) 2003-",
+            "Mazda2 (DY) 2003-",
+            "RX-8 (SE) 2003-",
+            "Mazda5 (CR) 2005-",
+            "MX-5 (NC) 2006-",
+            "Mazda2 (DE) 2007-",
+            "CX-7 (ER) 2007-",
+            "Mazda6 (GH) 2008-",
+            "Mazda3 (BL) 2009-"
+        ]
+    },
+    {
+        "brand": "Mercedes-Benz",
+        "info": [
+            "E10 kan anv\u00e4ndas i de flesta bensindrivna Mercedes-Benz personbilar f\u00f6rutom:",
+            "C 200 CGI (W203) och CLK 200 CGI (C209) av modell\u00e5r 2002-2005.",
+            "Modeller utan reglerad katalysator eller med f\u00f6rgasare (vanligtvis bilar \u00e4ldre \u00e4n 25 \u00e5r)."
+        ]
+    },
+    {
+        "brand": "Mini",
+        "info": [
+            "E10 kan anv\u00e4ndas i alla bensindrivna nya Mini-modeller tillverkade fr\u00e5n och med \u00e5r 2000."
+        ]
+    },
+    {
+        "brand": "Mitsubishi",
+        "info": [
+            "E10 kan anv\u00e4ndas i alla bensindrivna Mitsubishi-modeller tillverkade efter \u00e5r 1999 f\u00f6rutom GDI- modeller."
+        ]
+    },
+    {
+        "brand": "Nissan",
+        "info": [
+            "E10 kan anv\u00e4ndas i f\u00f6ljande bensindrivna Nissan-modeller:",
+            "Micra K12 fr\u00e5n och med modell\u00e5r 2002",
+            "Note E11 fr\u00e5n och med modell\u00e5r 2006",
+            "Almera N16 fr\u00e5n och med modell\u00e5r 2000",
+            "Tiida C11 fr\u00e5n och med modell\u00e5r 2007",
+            "Almera Tino V10 fr\u00e5n och med modell\u00e5r 2000",
+            "Qashqai J10 fr\u00e5n och med modell\u00e5r 2007",
+            "Qashqai +2 fr\u00e5n och med modell\u00e5r 2008",
+            "Maxima A33 fr\u00e5n och med modell\u00e5r 2000",
+            "Primera P12 fr\u00e5n och med modell\u00e5r 2001",
+            "X-Trail T30 fr\u00e5n och med modell\u00e5r 2001",
+            "X-Trail T31 fr\u00e5n och med \u00e5rsmodell 2007",
+            "Pathfinder R51 fr\u00e5n och med modell\u00e5r 2002",
+            "Murano Z50 fr\u00e5n och med modell\u00e5r 2004",
+            "Murano Z51 fr\u00e5n och med modell\u00e5r 2008",
+            "NV200 M20M fr\u00e5n och med modell\u00e5r 2009",
+            "NV200 M20N fr\u00e5n och med modell\u00e5r 2009",
+            "Juke F15 fr\u00e5n och med modell\u00e5r 2010",
+            "Micra K13 fr\u00e5n och med modell\u00e5r 2011"
+        ]
+    },
+    {
+        "brand": "Opel",
+        "info": [
+            "E10 kan anv\u00e4ndas i alla bensindrivna Opel-modeller f\u00f6rutom i 2,2 l direktinsprutningsmotorn (kod: Z22YH) i Vectra, Signum och Zafira."
+        ]
+    },
+    {
+        "brand": "Peugeot",
+        "info": [
+            "E10 kan anv\u00e4ndas i alla bensindrivna Peugeot-modeller tillverkade fr\u00e5n 1/1 2000 och senare."
+        ]
+    },
+    {
+        "brand": "Porsche",
+        "info": [
+            "E10 kan anv\u00e4ndas i f\u00f6ljande bensindrivna Porshe-modeller:",
+            "Cayenne",
+            "Panamera",
+            "Boxster/Cayman fr\u00e5n och med modell\u00e5r 1997",
+            "911 (typ 996) fr\u00e5n och med modell\u00e5r 1996"
+        ]
+    },
+    {
+        "brand": "Renault",
+        "info": [
+            "E10 kan anv\u00e4ndas i alla Renault-modeller, med bensinmotorer fr\u00e5n och med \u00e5rsmodell 1997 med f\u00f6ljande undantag:",
+            "Renault 19",
+            "M\u00e9gane 1, med 2.0-l F5R 700 \u2013motor (bensin, direktinsprutning)",
+            "M\u00e9gane 1, med 2.0-l F5R 740 \u2013motor (bensin, direktinsprutning)",
+            "Laguna 2, med 2.0-l F5R 782 \u2013motor (bensin, direktinsprutning)",
+            "Samt f\u00f6ljande bilmodeller fr\u00e5n tiden 1.1.2000-31.12.2002:",
+            "Laguna 2, med 2.0-l F4R 764 \u2013motor (turbo)",
+            "Laguna 2, med 2.0-l F4R 765 \u2013motor (turbo)",
+            "Espace 4, med 2.0-l F4R 790 \u2013motor (turbo)",
+            "Espace 4, med 2.0-l F4R 794 \u2013motor (turbo)",
+            "Vel Satis, med 2.0-l F4R 762 \u2013motor (turbo)",
+            "Vel Satis, med 2.0-l F4R 763 \u2013motor (turbo)",
+            "Avantime, med 2.0-l F4R 760 \u2013motor (turbo)",
+            "Avantime, med 2.0-l F4R 761 \u2013motor (turbo)"
+        ]
+    },
+    {
+        "brand": "Saab",
+        "info": [
+            "E10 kan anv\u00e4ndas i alla bensindrivna Saab-modeller, inklusive BioPower-modeller fr\u00e5n och med \u00e5rsmodell 1979."
+        ]
+    },
+    {
+        "brand": "Seat",
+        "info": [
+            "E10 kan anv\u00e4ndas i f\u00f6ljande Seat-modeller:",
+            "Ibiza fr\u00e5n och med modell\u00e5r 2002",
+            "Cordoba fr\u00e5n och med modell\u00e5r 2003",
+            "Leon fr\u00e5n och med modell\u00e5r 1999",
+            "Toledo fr\u00e5n och med modell\u00e5r 1999 f\u00f6rutom 110 kW 2.0 FSI BLR-motorn till 06/2004. Altea, XL, Freetrack fr\u00e5n och med modell\u00e5r 2004 f\u00f6rutom 110 kW 2.0 FSI BLR-motorn till",
+            "06/2004.",
+            "Alhambra fr\u00e5n och med modell\u00e5r 2001",
+            "Ibiza fr\u00e5n och med modell\u00e5r 2008 (Ibiza V)",
+            "Alla Exeo och Exeo ST modeller (fr\u00e5n och med modell\u00e5r 2009)"
+        ]
+    },
+    {
+        "brand": "Skoda",
+        "info": [
+            "E10 kan anv\u00e4ndas i f\u00f6ljande Skoda-modeller:",
+            "Octavia: alla bensindrivna modeller utom 1,8T RS (132 kW) -modellerna (AUQ-motor)",
+            "Fabia: alla bensindrivna modeller utom 2,0 l (85 kW) -modellerna (AZL-motor)",
+            "Superb: alla bensindrivna modeller utom 2,8 l 30V V6 (142 kW) -modellerna (AMX-motor) Felicia: alla bensindrivna modeller, en f\u00f6ruts\u00e4ttning \u00e4r \u00e4nd\u00e5 att br\u00e4nslesystemets",
+            "tryckreglerares O-ringst\u00e4tning byts i 1,3 l (40 kW ja 50 KW) -modellerna.",
+            "Roomster: alla bensindrivna modeller",
+            "Yeti: alla bensindrivna modeller I bruksanvisningen f\u00f6r de ovann\u00e4mnda Skoda-modeller, som inte kan anv\u00e4nda E10, n\u00e4mns att endast 98 oktans bensin f\u00e5r anv\u00e4ndas. I Skoda-modeller, som f\u00f6regick de ovann\u00e4mnda modellserierna (Forman, Favorit osv.) kan E10 inte anv\u00e4ndas."
+        ]
+    },
+    {
+        "brand": "Smart",
+        "info": [
+            "E10 kan anv\u00e4ndas i alla bensindrivna Smart-modeller."
+        ]
+    },
+    {
+        "brand": "Subaru",
+        "info": [
+            "E10 kan anv\u00e4ndas i alla Subaru-modeller fr\u00e5n och med \u00a8rsmodell 1991."
+        ]
+    },
+    {
+        "brand": "Suzuki",
+        "info": [
+            "E10 kan anv\u00e4ndas i alla bensindrivna Suzuki-personbilmodeller fr\u00e5n och med \u00e5r 1990."
+        ]
+    },
+    {
+        "brand": "Toyota",
+        "info": [
+            "Nya bilar: E10 kan anv\u00e4ndas i alla p\u00e5 den europeiska marknaden varande bensinmodeller. Begagnade bilar: i bilar tillverkade efter den 1.1.1998kan E10 anv\u00e4ndas med f\u00f6ljande undantag:",
+            "Avensis 2.0 VVT-i (1AZ-FSE), tillverkade juli 2000 \u2013 oktober 2008.",
+            "Avensis 2.4 VVT-i (2AZ-FSE), tillverkade juni 2003 \u2013 oktober 2008."
+        ]
+    },
+    {
+        "brand": "Volkswagen",
+        "info": [
+            "E10 kan anv\u00e4ndas i alla bensindrivna Volkswagen-modeller f\u00f6rutom i bilar f\u00f6rsedda med f\u00f6rsta generationens FSI-motorer. Volkswagen-modeller, som inte kan anv\u00e4nda E10:",
+            "Lupo, 1389cc, 2001-2004",
+            "Polo, 1390cc, 2002-2006",
+            "Golf IV, 1598cc, 2002-2004",
+            "Golf IV Variant, 1598cc, 2002-2006",
+            "Bora, 1598cc, 2002-2005",
+            "Golf V, 1390cc, 2004-2005",
+            "Golf V, 1598cc, 2004",
+            "Golf V, 1984cc, 2004",
+            "Touran, 1598cc, 2003-2004",
+            "Touran, 1984cc, 2004"
+        ]
+    },
+    {
+        "brand": "Volvo",
+        "info": [
+            "E10 kan användas i alla Volvo-modeller, som kommit ut på marknaden från och med 1976. Det enda undantaget är S/V40-modellerna mellan 1998 och 2001 med motorn 1.8 GDI, i vilken E10 inte kan användas."
+        ]
+    }
+]
